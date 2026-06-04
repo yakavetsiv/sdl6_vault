@@ -1,0 +1,172 @@
+---
+type: literature-home
+status: seed
+tags:
+  - literature
+  - knowledge-graph
+---
+
+# Literature Wiki Home
+
+This is a seed index over `/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers`.
+
+It is built for graph-first reading: paper notes link to concept pages, concept pages link back to papers, and map pages create higher-level semantic neighborhoods.
+
+## Maps
+- [[Map - Self-Driving Lab Stack]]
+- [[Map - Biofabrication and Cell Systems]]
+- [[Map - AI for Bioimage Analysis]]
+- [[Map - Materials and Therapeutics]]
+
+## Concepts
+- [[Concept - AI Safety and Governance]] (1 papers)
+- [[Concept - Biofabrication]] (7 papers)
+- [[Concept - Biomedical AI Agents]] (6 papers)
+- [[Concept - Biosensors and Diagnostics]] (2 papers)
+- [[Concept - Cancer and Therapeutics]] (3 papers)
+- [[Concept - Computer Vision for Biology]] (4 papers)
+- [[Concept - Digital Twins and Modeling]] (7 papers)
+- [[Concept - Foundation Models]] (3 papers)
+- [[Concept - Lab Automation]] (7 papers)
+- [[Concept - Materials Discovery]] (6 papers)
+- [[Concept - Microfluidics]] (2 papers)
+- [[Concept - Optimization and Bayesian Search]] (4 papers)
+- [[Concept - Organ-on-Chip]] (4 papers)
+- [[Concept - Organoids]] (2 papers)
+- [[Concept - Reference and Textbook]] (2 papers)
+- [[Concept - Research Papers]] (85 papers)
+- [[Concept - Self-Driving Labs]] (6 papers)
+- [[Concept - iPSC and Stem Cells]] (2 papers)
+
+## All Paper Notes
+- [[Paper - 1-s2.0-S0272884222036471-main]] — [[Concept - Research Papers]]
+- [[Paper - 1-s2.0-S0272884224059509-main]] — [[Concept - Research Papers]]
+- [[Paper - 1-s2.0-S1385894725029535-main]] — [[Concept - Research Papers]]
+- [[Paper - 1-s2.0-S259025712200030X-main]] — [[Concept - Research Papers]]
+- [[Paper - 10.48550 arxiv.2501.06039]] — [[Concept - Research Papers]]
+- [[Paper - 1010 001 dec2025 iy]] — [[Concept - Research Papers]]
+- [[Paper - 10547921]] — [[Concept - Research Papers]]
+- [[Paper - 184031 MEen]] — [[Concept - Research Papers]]
+- [[Paper - 2020 iPSC Advances WadkinIntro Math Modelling]] — [[Concept - iPSC and Stem Cells]], [[Concept - Digital Twins and Modeling]]
+- [[Paper - 2023-09-01 UofT Lash Miller - Issued for 100 CD - Laboratories 1]] — [[Concept - Research Papers]]
+- [[Paper - 2023-09-01 UofT Lash Miller - Issued for 100 CD - Laboratories 1 1]] — [[Concept - Research Papers]]
+- [[Paper - 2025 07 12 Carpenter AACR]] — [[Concept - Research Papers]]
+- [[Paper - 2025.02.14.638383v1.full]] — [[Concept - Research Papers]]
+- [[Paper - 2025.02.14.638383v1.full 1]] — [[Concept - Research Papers]]
+- [[Paper - 2025.04.28.651001v1.full]] — [[Concept - Research Papers]]
+- [[Paper - 2026P3]] — [[Concept - Research Papers]]
+- [[Paper - 2026P4]] — [[Concept - Research Papers]]
+- [[Paper - 2026P5]] — [[Concept - Research Papers]]
+- [[Paper - 2026P6]] — [[Concept - Research Papers]]
+- [[Paper - 2026P7]] — [[Concept - Research Papers]]
+- [[Paper - 2026P8]] — [[Concept - Research Papers]]
+- [[Paper - 2026P9]] — [[Concept - Research Papers]]
+- [[Paper - 20bf06fe]] — [[Concept - Research Papers]]
+- [[Paper - 2111.06377v3]] — [[Concept - Research Papers]]
+- [[Paper - 2304.07193v2]] — [[Concept - Research Papers]]
+- [[Paper - 2309.07778v5]] — [[Concept - Research Papers]]
+- [[Paper - 2404.10242v1]] — [[Concept - Research Papers]]
+- [[Paper - 2408.10527v1]] — [[Concept - Research Papers]]
+- [[Paper - 2501.09223v2]] — [[Concept - Research Papers]]
+- [[Paper - 2603.15553v1]] — [[Concept - Research Papers]]
+- [[Paper - 2603.15553v1 1]] — [[Concept - Research Papers]]
+- [[Paper - 267]] — [[Concept - Research Papers]]
+- [[Paper - 27 392]] — [[Concept - Research Papers]]
+- [[Paper - 27079184]] — [[Concept - Research Papers]]
+- [[Paper - 56]] — [[Concept - Research Papers]]
+- [[Paper - 68]] — [[Concept - Research Papers]]
+- [[Paper - 7 3 Robust cardiomyocyte differentiation from human pluripotent stem cells via tem]] — [[Concept - iPSC and Stem Cells]]
+- [[Paper - 70]] — [[Concept - Research Papers]]
+- [[Paper - 80ad2aab-cab1-429f-a9c8-ce701b44784d]] — [[Concept - Research Papers]]
+- [[Paper - 840d371c-c2d8-4005-855c-1ae125aef259]] — [[Concept - Research Papers]]
+- [[Paper - 933a2911-7176-451f-8c84-304ee18e03ba ML Image Analysis]] — [[Concept - Computer Vision for Biology]]
+- [[Paper - SI BhiCC Drug Testing ACS AMI Final]] — [[Concept - Cancer and Therapeutics]]
+- [[Paper - Abolhasani,-Milad-2023-01-30-The-rise-of-self-driving-labs-in-chemical-and-materia]] — [[Concept - Self-Driving Labs]], [[Concept - Materials Discovery]]
+- [[Paper - adhm.202504669]] — [[Concept - Research Papers]]
+- [[Paper - AI Agent Safety]] — [[Concept - Biomedical AI Agents]], [[Concept - AI Safety and Governance]]
+- [[Paper - Alexandra-Dunnum-VandeLoo-Sep-8,-2025-SAMCell--Generalized-label-free-biological-c]] — [[Concept - Foundation Models]], [[Concept - Computer Vision for Biology]]
+- [[Paper - An artificial intelligence enabled chemical synthesis robot for exploration and op]] — [[Concept - Lab Automation]], [[Concept - Optimization and Bayesian Search]], [[Concept - Materials Discovery]]
+- [[Paper - Automatic Cell Counting With YOLOv5 A Fluorescence]] — [[Concept - Computer Vision for Biology]]
+- [[Paper - biosensors-14-00401-v2]] — [[Concept - Biosensors and Diagnostics]]
+- [[Paper - Bridging silicon and carbon worlds]] — [[Concept - Research Papers]]
+- [[Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology]] — [[Concept - Self-Driving Labs]]
+- [[Paper - d3dd00115f]] — [[Concept - Research Papers]]
+- [[Paper - d5dd00336a]] — [[Concept - Research Papers]]
+- [[Paper - d5lc00311c]] — [[Concept - Research Papers]]
+- [[Paper - d5nj00172b]] — [[Concept - Research Papers]]
+- [[Paper - Digilocs a leap forward in predicti]] — [[Concept - Research Papers]]
+- [[Paper - Digital twin enhanced three organ m]] — [[Concept - Digital Twins and Modeling]]
+- [[Paper - el agente]] — [[Concept - Biomedical AI Agents]]
+- [[Paper - El Agente An autonomous agent for quantum chemistry]] — [[Concept - Self-Driving Labs]], [[Concept - Biomedical AI Agents]]
+- [[Paper - elife-77007-v1]] — [[Concept - Research Papers]]
+- [[Paper - Empowering biomedical discovery with AI agents]] — [[Concept - Biomedical AI Agents]]
+- [[Paper - f0ac5fa4]] — [[Concept - Research Papers]]
+- [[Paper - Feb 16 CellSAM A Foundation Model for Cell Segmentation]] — [[Concept - Foundation Models]], [[Concept - Computer Vision for Biology]], [[Concept - Digital Twins and Modeling]]
+- [[Paper - fig 2 barplot]] — [[Concept - Research Papers]]
+- [[Paper - fig8]] — [[Concept - Research Papers]]
+- [[Paper - fig8a]] — [[Concept - Research Papers]]
+- [[Paper - fmats-10-1337485]] — [[Concept - Research Papers]]
+- [[Paper - gic aisci faqs]] — [[Concept - Research Papers]]
+- [[Paper - Gisperg Bayesian Optimization in Bioprocess Engineering Where Do We Stand Today]] — [[Concept - Optimization and Bayesian Search]]
+- [[Paper - Gonzales,Woods-Digital.Image.Processing.4th.Edition]] — [[Concept - Reference and Textbook]]
+- [[Paper - hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-c]] — [[Concept - Optimization and Bayesian Search]], [[Concept - Digital Twins and Modeling]]
+- [[Paper - Heliyon]] — [[Concept - Research Papers]]
+- [[Paper - How to build the virtual cell with artificial intelligence Priorities and opportun]] — [[Concept - Foundation Models]]
+- [[Paper - Huang-K-06-02-2025-Biomni--A-General-Purpose-Biomedical-AI-Agent---PubMed]] — [[Concept - Biomedical AI Agents]]
+- [[Paper - jamasurgery gowrishankar 2025 rv 250005 1749660686.74699]] — [[Concept - Research Papers]]
+- [[Paper - jamasurgery gowrishankar 2025 rv 250005 1749660686.74699-2]] — [[Concept - Research Papers]]
+- [[Paper - journal.pone.0291625]] — [[Concept - Research Papers]]
+- [[Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam (2)]] — [[Concept - Microfluidics]]
+- [[Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam]] — [[Concept - Microfluidics]]
+- [[Paper - Leung,-Chak-Ming-2022-05-12-A-guide-to-the-organ-on-a-chip]] — [[Concept - Organ-on-Chip]], [[Concept - Reference and Textbook]]
+- [[Paper - Li,-Songhao-2025-09-24-A-co-evolving-agentic-AI-system-for-medical-imaging-analysi]] — [[Concept - Research Papers]]
+- [[Paper - Liu 2026 Biofabrication 18 013001]] — [[Concept - Biofabrication]]
+- [[Paper - luo-et-al-2024-review-of-ionic-conductivity-properties-of-nasicon-type-inorganic-s]] — [[Concept - Research Papers]]
+- [[Paper - Lyu Crystal Structure Engineering Enables Enhanced Ionic Conductivity in LAGP Soli]] — [[Concept - Materials Discovery]]
+- [[Paper - medip,1388-5211-1-CE]] — [[Concept - Research Papers]]
+- [[Paper - mirror coloration]] — [[Concept - Research Papers]]
+- [[Paper - mmc2]] — [[Concept - Research Papers]]
+- [[Paper - nmeth.3507]] — [[Concept - Research Papers]]
+- [[Paper - nn1c11421 si 001]] — [[Concept - Research Papers]]
+- [[Paper - Nov A human kidney and liver organoid based multi organ on a chip model to study t]] — [[Concept - Organ-on-Chip]], [[Concept - Organoids]], [[Concept - Digital Twins and Modeling]], [[Concept - Cancer and Therapeutics]]
+- [[Paper - Optimizing Patient-Specific Multidrug Regimens Cancer Therapy Feb 28 IY]] — [[Concept - Optimization and Bayesian Search]], [[Concept - Cancer and Therapeutics]]
+- [[Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation (2)]] — [[Concept - Organ-on-Chip]], [[Concept - Biofabrication]], [[Concept - Digital Twins and Modeling]]
+- [[Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation]] — [[Concept - Organ-on-Chip]], [[Concept - Biofabrication]], [[Concept - Digital Twins and Modeling]]
+- [[Paper - Robotics Engineering Assistant Job Post]] — [[Concept - Lab Automation]]
+- [[Paper - s11671-021-03553-8]] — [[Concept - Research Papers]]
+- [[Paper - s11912-020-00942-7]] — [[Concept - Research Papers]]
+- [[Paper - s12951-024-02625-y]] — [[Concept - Research Papers]]
+- [[Paper - s13206-023-00114-2]] — [[Concept - Research Papers]]
+- [[Paper - s41392-024-01856-7]] — [[Concept - Research Papers]]
+- [[Paper - s41467-021-22518-0]] — [[Concept - Research Papers]]
+- [[Paper - s41467-021-22518-0 1]] — [[Concept - Research Papers]]
+- [[Paper - s41467-025-56818-6]] — [[Concept - Research Papers]]
+- [[Paper - s41551-019-0497-x]] — [[Concept - Research Papers]]
+- [[Paper - s41551-022-00882-6]] — [[Concept - Research Papers]]
+- [[Paper - s41573-020-0090-8]] — [[Concept - Research Papers]]
+- [[Paper - s41573-022-00615-z]] — [[Concept - Research Papers]]
+- [[Paper - s41587-024-02490-y]] — [[Concept - Research Papers]]
+- [[Paper - s41598-017-01013-x]] — [[Concept - Research Papers]]
+- [[Paper - s41598-025-17876-4]] — [[Concept - Research Papers]]
+- [[Paper - s41598-025-89069-y]] — [[Concept - Research Papers]]
+- [[Paper - s41746-025-01836-3]] — [[Concept - Research Papers]]
+- [[Paper - s43588-025-00885-8]] — [[Concept - Research Papers]]
+- [[Paper - s44222-024-00207-z]] — [[Concept - Research Papers]]
+- [[Paper - s44386-024-00004-z]] — [[Concept - Research Papers]]
+- [[Paper - sciadv.adt1851]] — [[Concept - Research Papers]]
+- [[Paper - Self driving laboratories in Japan]] — [[Concept - Self-Driving Labs]]
+- [[Paper - SharfPauker Scaling Up Synthetic Cell Production Using Robotics and Machine Learni]] — [[Concept - Lab Automation]], [[Concept - Biofabrication]]
+- [[Paper - TakaHuman Robotic Automation Advisor JD 8]] — [[Concept - Lab Automation]]
+- [[Paper - Undermind - Comparative analyses of organoid and organ-on-chip biofabrication work]] — [[Concept - Self-Driving Labs]], [[Concept - Lab Automation]], [[Concept - Organoids]], [[Concept - Biofabrication]]
+- [[Paper - Undermind - Software wrappers and intermediate device OSs for Pythonic lab automat]] — [[Concept - Lab Automation]], [[Concept - Biomedical AI Agents]]
+- [[Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l]] — [[Concept - Materials Discovery]]
+- [[Paper - Wenckstern,-Johann-2025-01-10-AI-powered-virtual-tissues-from-spatial-proteomics-f]] — [[Concept - Biofabrication]], [[Concept - Biosensors and Diagnostics]]
+- [[Paper - Wu,-Tianyi-2025-02-08-Self-driving-lab-for-the-photochemical-synthesis-of-plasmoni]] — [[Concept - Self-Driving Labs]], [[Concept - Materials Discovery]]
+- [[Paper - yin2019]] — [[Concept - Research Papers]]
+- [[Paper - Zieger Towards Automation in 3D Cell Culture Selective and Gentle HighThroughput]] — [[Concept - Lab Automation]], [[Concept - Biofabrication]], [[Concept - Materials Discovery]]
+
+## Next Pass
+- Extract abstracts for the highest-value papers.
+- Merge duplicate papers.
+- Promote durable ideas into permanent notes.
+- Add explicit `supports`, `contrasts`, `extends`, and `uses-method` graph edges.

@@ -1,0 +1,201 @@
+{
+  "maxTotalEdgeTypes": 25,
+  "propertyMappings": {},
+  "propertySelections": {
+    "writing-guide": {
+      "status": false,
+      "tags": false,
+      "source_papers": false,
+      "related_maps": false
+    },
+    "literature-note": {
+      "status": false,
+      "source_type": false,
+      "source_path": false,
+      "source_file": false,
+      "year": false,
+      "author_hint": false,
+      "topics": false,
+      "tags": false,
+      "pdf": false,
+      "title": false,
+      "doi": false,
+      "citation_count_openalex": false,
+      "markitdown_source": false,
+      "authors": false,
+      "journal": false,
+      "article_type": false,
+      "citation_count_crossref": false
+    },
+    "map-of-content": {
+      "status": false,
+      "tags": false
+    },
+    "literature-home": {
+      "status": false,
+      "tags": false
+    },
+    "concept": {
+      "status": false,
+      "tags": false
+    },
+    "extraction-report": {
+      "title": false
+    },
+    "external-resolution-report": {
+      "title": false
+    },
+    "extraction-index": {
+      "title": false
+    },
+    "semantic-scholar-oa-fulltext": {
+      "title": false,
+      "doi": false,
+      "source_url": false,
+      "source_file": false
+    },
+    "theme": {
+      "title": false
+    },
+    "index": {
+      "title": false,
+      "source_bibliography": false,
+      "source_manuscript": false,
+      "date": false,
+      "project": false,
+      "tags": false
+    },
+    "paper-note": {
+      "title": false,
+      "bibtex_key": false,
+      "zotero_key": false,
+      "theme": false
+    },
+    "zotero-pdf-fulltext": {
+      "title": false,
+      "zotero_item_key": false,
+      "zotero_attachment_key": false,
+      "date": false
+    },
+    "matrix": {
+      "title": false
+    },
+    "concept-map": {
+      "title": false
+    },
+    "audit": {
+      "title": false,
+      "source_bibliography": false,
+      "source_manuscript": false
+    },
+    "ehs-pdf-index": {
+      "status": false,
+      "tags": false
+    },
+    "ehs-graph-index": {
+      "status": false,
+      "tags": false
+    },
+    "ehs-topic": {
+      "status": false,
+      "tags": false
+    },
+    "ehs-page": {
+      "status": false,
+      "source_url": false,
+      "tags": false
+    },
+    "ehs-home": {
+      "status": false,
+      "source": false,
+      "tags": false
+    },
+    "ehs-pdf-note": {
+      "status": false,
+      "converter": false,
+      "source_pdf": false,
+      "source_file": false,
+      "topics": false,
+      "tags": false
+    },
+    "external-biosafety-reference": {
+      "status": false,
+      "source_url": false,
+      "source_organization": false,
+      "tags": false
+    },
+    "resource": {
+      "title": false,
+      "tags": false,
+      "source": false,
+      "date_saved": false,
+      "author": false,
+      "sources": false,
+      "see_also": false
+    },
+    "inbox": {
+      "title": false,
+      "tags": false,
+      "date_saved": false
+    },
+    "tool": {
+      "title": false,
+      "tags": false,
+      "source": false,
+      "date_saved": false,
+      "author": false
+    },
+    "MOC": {
+      "title": false,
+      "tags": false,
+      "date_created": false
+    },
+    "video": {
+      "title": false,
+      "tags": false,
+      "source": false,
+      "date_saved": false
+    },
+    "reference": {
+      "title": false,
+      "date": false,
+      "project": false,
+      "tags": false
+    },
+    "okr": {
+      "title": false,
+      "date": false,
+      "project": false,
+      "tags": false
+    },
+    "source": {
+      "title": false,
+      "date": false,
+      "project": false,
+      "tags": false
+    },
+    "output": {
+      "title": false,
+      "date": false,
+      "project": false,
+      "tags": false
+    }
+  },
+  "baseEntityProperties": [
+    "type",
+    "tags",
+    "created"
+  ],
+  "entityDescriptions": {},
+  "propertyDescriptions": {},
+  "edgeTypes": {},
+  "edgeTypeMap": [],
+  "llmSchemaSettings": {
+    "autoSuggestEntityDescriptions": false,
+    "autoSuggestPropertyDescriptions": false,
+    "autoSuggestEdgeTypes": false,
+    "autoSuggestEdgeTypeMappings": false,
+    "enableBulkGeneration": false,
+    "suggestionApprovalRequired": true
+  }
+}

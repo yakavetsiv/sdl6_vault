@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Canadian Biosafety Standards and Guidelines",
+    "url": "https://www.canada.ca/en/public-health/services/canadian-biosafety-standards-guidelines.html",
+    "success": true,
+    "status_code": 200,
+    "error_message": ""
+  },
+  {
+    "title": "Canadian Biosafety Standard, Third Edition",
+    "url": "https://www.canada.ca/en/public-health/services/canadian-biosafety-standards-guidelines/third-edition.html",
+    "success": true,
+    "status_code": 200,
+    "error_message": ""
+  },
+  {
+    "title": "Biosecurity Addendum to the Canadian Biosafety Standard, Third Edition",
+    "url": "https://www.canada.ca/en/public-health/services/canadian-biosafety-standards-guidelines/biosecurity-addendum-canadian-biosafety-standard-third-edition.html",
+    "success": true,
+    "status_code": 200,
+    "error_message": ""
+  },
+  {
+    "title": "Canadian Biosafety Handbook, Second Edition",
+    "url": "https://www.canada.ca/en/public-health/services/canadian-biosafety-standards-guidelines/handbook-second-edition.html",
+    "success": true,
+    "status_code": 200,
+    "error_message": ""
+  },
+  {
+    "title": "Canadian biosafety guidelines",
+    "url": "https://www.canada.ca/en/public-health/services/canadian-biosafety-standards-guidelines/guidance.html",
+    "success": true,
+    "status_code": 200,
+    "error_message": ""
+  },
+  {
+    "title": "Canadian Biosafety App",
+    "url": "https://www.canada.ca/en/public-health/services/canadian-biosafety-standards-guidelines/cbs-biosafety-app.html",
+    "success": true,
+    "status_code": 200,
+    "error_message": ""
+  },
+  {
+    "title": "Contact Canadian Biosafety Standards and Guidelines",
+    "url": "https://www.canada.ca/en/public-health/services/canadian-biosafety-standards-guidelines/contact-us.html",
+    "success": true,
+    "status_code": 200,
+    "error_message": ""
+  }
+]
