@@ -13,5 +13,8 @@
 # Semantic Scholar PDFs (large binaries)
 Semantic Scholar PDFs/
 
+# EHS PDFs (large binaries)
+EHS Wiki/PDFs/
+
 # Temp
 *.tmp
