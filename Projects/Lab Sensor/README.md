@@ -1,7 +1,7 @@
 ---
 title: Lab Sensor
 date: 2026-06-04
-project: lab_sensor
+project: lab-sensor
 type: index
 tags:
   - project

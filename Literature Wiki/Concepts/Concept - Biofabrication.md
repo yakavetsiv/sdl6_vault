@@ -1,6 +1,7 @@
 ---
 type: concept
 status: seed
+project: SDL6-HOM
 tags:
   - concept
   - literature-map

@@ -1,7 +1,8 @@
 ---
 title: "UofT EHS Biosafety Benchmark"
 date: 2026-06-04
-type: project
+project: UofT-EHS-Benchmark
+type: index
 status: active
 tags:
   - project
@@ -10,8 +11,8 @@ tags:
   - benchmark
   - evaluation
 related:
-  - "[[EHS Wiki]]"
-  - "[[Literature Wiki]]"
+  - "[[EHS Wiki Home]]"
+  - "[[Literature Wiki Home]]"
   - "[[ehs-biosafety-benchmark-workflow]]"
 ---
 

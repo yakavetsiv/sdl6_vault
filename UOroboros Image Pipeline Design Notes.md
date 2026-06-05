@@ -2,7 +2,7 @@
 title: UOroboros Image Pipeline Design Notes
 date: 2026-06-04
 type: design-note
-project: UOroboros image pipelines
+project: uoroboros
 tags:
   - UOroboros
   - image-analysis
@@ -125,3 +125,6 @@ Multi-machine execution is possible through a distributed execution backend such
 ## Related Repos
 - [[GitHub/uostore]]
 - [[GitHub/image_analysis_uos]]
+
+## Related Notes
+- [[Projects/UOroboros/UOroboros]]

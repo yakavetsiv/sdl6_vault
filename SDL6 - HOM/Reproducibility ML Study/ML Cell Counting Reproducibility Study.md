@@ -2,7 +2,7 @@
 title: ML Cell Counting Reproducibility Study
 date: 2026-06-04
 project: SDL6-HOM
-type: project-note
+type: index
 tags:
   - SDL6
   - HOM
@@ -109,5 +109,7 @@ python3 ML/scripts/analyze_all_tasks_hypotheses.py
 ## Related Notes
 
 - [[SDL6 - HOM/OKR_SDL6|OKR — SDL6 Human Organ Mimicry]]
+- [[CFI_HOM_SDL_Equipment_Justification]]
+- [[GitHub/VibeCount]]
 - [[GitHub/reproducibility]]
 - [[Daily/2026-06-04]]
