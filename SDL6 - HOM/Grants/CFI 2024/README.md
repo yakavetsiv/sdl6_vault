@@ -50,3 +50,9 @@ tags:
 
 ## Session Log
 - **2026-06-04** — [[Daily/2026-06-04]]: Full CFI equipment justification written, iterated, deslopped, and CFI-audited. Both sections finalized. All vault notes created and formatted with frontmatter + callouts.
+
+## Knowledge Base Entry Points
+- [[Literature Wiki Home]] — research literature (276 papers)
+- [[Map — Nanomedicine SDL]] — nanomedicine + organ-on-chip papers
+- [[EHS Wiki Home]] — safety and compliance resources
+- [[Projects/README]] — all active projects

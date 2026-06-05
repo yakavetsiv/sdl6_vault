@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.inFolder("Projects/UofT EHS Biosafety Benchmark")
+
+formulas:
+  age_days: '(now() - file.ctime).days.round(0)'
+
+properties:
+  formula.age_days:
+    displayName: "Age (days)"
+
+views:
+  - type: table
+    name: "Project Files"
+    order:
+      - file.name
+      - file.folder
+      - file.ext
+      - file.size
+      - formula.age_days

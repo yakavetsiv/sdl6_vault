@@ -170,3 +170,7 @@ It is built for graph-first reading: paper notes link to concept pages, concept 
 - Merge duplicate papers.
 - Promote durable ideas into permanent notes.
 - Add explicit `supports`, `contrasts`, `extends`, and `uses-method` graph edges.
+
+## SDL6 Project Maps
+- [[Map — Nanomedicine SDL]]
+- [[Map - Self-Driving Labs and Orchestration]]
