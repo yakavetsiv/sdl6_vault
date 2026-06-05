@@ -19,10 +19,6 @@ topics:
   - Self-Driving Labs
   - Lab Automation
   - Autonomous Experimentation
-tags:
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # Toward autonomous design and synthesis of novel inorganic materials

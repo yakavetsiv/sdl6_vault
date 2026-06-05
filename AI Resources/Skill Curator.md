@@ -1,6 +1,7 @@
 ---
 title: Skill Curator
-tags: [skills, curation, AI, tools, library]
+tags:
+  - [skills, curation, AI, tools, library]
 source: https://x.com/neural_avb/status/2053873358853591435
 date_saved: 2026-05-13
 type: resource

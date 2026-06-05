@@ -1,6 +1,7 @@
 ---
 title: Agent Filesystem
-tags: [agent, filesystem, storage, AI]
+tags:
+  - [agent, filesystem, storage, AI]
 source: https://x.com/guohao_li/status/2052144982455431273
 date_saved: 2026-05-13
 type: resource

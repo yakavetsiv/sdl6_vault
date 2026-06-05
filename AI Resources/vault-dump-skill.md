@@ -1,27 +1,11 @@
 ---
+title: vault-dump skill
+name: vault-dump
 tags:
   - ai
   - type/skill
   - claude-code
   - sdl6
-name: vault-dump
-description: >
-  Full session wrapper for any Claude Code session — code repos, grants, scripts,
-  LaTeX, or literature work. On start (optional): runs graphify on code repos and
-  wiki-ingest on key docs to build context. On end: dumps session to Obsidian vault,
-  re-indexes knowledge graph, rebuilds Quartz, and pushes all changes to
-  https://github.com/yakavetsiv/sdl6_vault.git.
-  
-  Two modes:
-  - START: "open session", "start project", "graphify this", "ingest this repo"
-  - END: "dump session", "save to vault", "commit vault", "push vault", "wrap up", "end session"
-  
-  Also trigger END mode proactively at the end of any session involving file creation,
-  grant writing, literature review, LaTeX editing, or code work.
-tags:
-  - ai
-  - type/skill
-  - claude-code
 ---
 
 # vault-dump

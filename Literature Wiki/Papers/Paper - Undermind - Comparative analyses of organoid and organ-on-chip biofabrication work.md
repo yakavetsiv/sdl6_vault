@@ -16,12 +16,6 @@ topics:
   - "Lab Automation"
   - "Organoids"
   - "Biofabrication"
-tags:
-  - "literature/seed"
-  - "topic/self-driving-labs"
-  - "topic/lab-automation"
-  - "topic/organoids"
-  - "topic/biofabrication"
 ---
 
 # Undermind - Comparative analyses of organoid and organ-on-chip biofabrication workflows exposing automation gaps for self-driving systems

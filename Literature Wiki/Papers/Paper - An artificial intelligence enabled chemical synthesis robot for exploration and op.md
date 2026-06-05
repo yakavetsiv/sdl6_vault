@@ -15,11 +15,6 @@ topics:
   - "Lab Automation"
   - "Optimization and Bayesian Search"
   - "Materials Discovery"
-tags:
-  - "literature/seed"
-  - "topic/lab-automation"
-  - "topic/optimization-and-bayesian-search"
-  - "topic/materials-discovery"
 ---
 
 # An artificial intelligence enabled chemical synthesis robot for exploration and optimization of nanomaterials

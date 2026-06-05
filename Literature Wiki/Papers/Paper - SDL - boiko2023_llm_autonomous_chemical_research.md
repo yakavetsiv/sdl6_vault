@@ -18,10 +18,6 @@ topics:
   - Self-Driving Labs
   - Lab Automation
   - Autonomous Experimentation
-tags:
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # Autonomous chemical research with large language models

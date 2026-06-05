@@ -18,10 +18,6 @@ topics:
   - Self-Driving Labs
   - Lab Automation
   - Autonomous Experimentation
-tags:
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # Progress and prospects for accelerating materials science with automated and autonomous workflows

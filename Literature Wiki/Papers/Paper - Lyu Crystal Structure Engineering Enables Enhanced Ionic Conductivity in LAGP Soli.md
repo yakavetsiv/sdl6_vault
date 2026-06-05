@@ -11,9 +11,6 @@ year: "2025"
 author_hint: "Chemistry A European J"
 topics:
   - "Materials Discovery"
-tags:
-  - "literature/seed"
-  - "topic/materials-discovery"
 ---
 
 # Lyu Crystal Structure Engineering Enables Enhanced Ionic Conductivity in LAGP Solid‐State

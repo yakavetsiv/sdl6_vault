@@ -23,12 +23,6 @@ topics:
   - Computer Vision
   - High-Throughput Materials
   - Self-Driving Labs
-tags:
-  - literature/digital-discovery
-  - literature/tutorial-review
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # Computer vision for high-throughput materials synthesis: a tutorial for experimentalists

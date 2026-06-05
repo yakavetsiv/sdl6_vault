@@ -1,6 +1,7 @@
 ---
 title: Agent Charts
-tags: [agent, visualization, charts, data-analysis, AI]
+tags:
+  - [agent, visualization, charts, data-analysis, AI]
 source: https://x.com/andrewyng/status/2052422157310083493
 date_saved: 2026-05-13
 type: resource

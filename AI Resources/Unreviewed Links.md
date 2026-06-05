@@ -1,6 +1,7 @@
 ---
 title: Unreviewed Links
-tags: [inbox, unreviewed, links]
+tags:
+  - [inbox, unreviewed, links]
 date_saved: 2026-05-13
 type: inbox
 ---

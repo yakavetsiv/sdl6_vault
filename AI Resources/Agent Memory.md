@@ -1,6 +1,7 @@
 ---
 title: Agent Memory
-tags: [agent, memory, context, AI]
+tags:
+  - [agent, memory, context, AI]
 source: https://x.com/tom_doerr/status/2052440598452359394
 date_saved: 2026-05-13
 type: resource

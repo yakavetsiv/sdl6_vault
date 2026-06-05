@@ -1,6 +1,7 @@
 ---
 title: Claude Training Course
-tags: [claude, course, training, AI]
+tags:
+  - [claude, course, training, AI]
 source: https://x.com/tom_doerr/status/2054311424906723360
 date_saved: 2026-05-13
 type: resource

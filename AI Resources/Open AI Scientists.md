@@ -1,6 +1,7 @@
 ---
 title: Open AI Scientists
-tags: [research, science, biomedicine, Harvard, AI, tools]
+tags:
+  - [research, science, biomedicine, Harvard, AI, tools]
 source: https://www.openscientist.ai/
 date_saved: 2026-05-13
 type: tool

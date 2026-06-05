@@ -12,10 +12,6 @@ author_hint: ""
 topics:
   - "Foundation Models"
   - "Computer Vision for Biology"
-tags:
-  - "literature/seed"
-  - "topic/foundation-models"
-  - "topic/computer-vision-for-biology"
 ---
 
 # Alexandra-Dunnum-VandeLoo-Sep-8,-2025-SAMCell--Generalized-label-free-biological-cell-segmentation-with-segment-anything

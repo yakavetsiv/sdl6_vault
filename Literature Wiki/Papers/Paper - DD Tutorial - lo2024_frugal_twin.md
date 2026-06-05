@@ -23,12 +23,6 @@ topics:
   - Self-Driving Labs
   - Lab Automation
   - Low-Cost Hardware
-tags:
-  - literature/digital-discovery
-  - literature/tutorial-review
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # Review of low-cost self-driving laboratories in chemistry and materials science: the frugal twin concept

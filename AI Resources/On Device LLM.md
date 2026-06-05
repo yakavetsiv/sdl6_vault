@@ -1,6 +1,7 @@
 ---
 title: On Device LLM
-tags: [LLM, on-device, local, edge, AI, privacy]
+tags:
+  - [LLM, on-device, local, edge, AI, privacy]
 source: https://www.instagram.com/reel/DYQgTYWTpEy/?igsh=ZzhhNzJuNDBxYzRu
 date_saved: 2026-05-13
 type: resource

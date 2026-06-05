@@ -14,10 +14,6 @@ author_hint: ""
 topics:
   - "Optimization and Bayesian Search"
   - "Digital Twins and Modeling"
-tags:
-  - "literature/seed"
-  - "topic/optimization-and-bayesian-search"
-  - "topic/digital-twins-and-modeling"
 ---
 
 # hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-culture-medium-for-generating-muscle

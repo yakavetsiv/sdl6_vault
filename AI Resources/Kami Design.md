@@ -1,6 +1,7 @@
 ---
 title: Kami Design
-tags: [design, UI, AI, tool]
+tags:
+  - [design, UI, AI, tool]
 source: https://www.instagram.com/reel/DXYCVkOkxpP/?igsh=N3hucTluNTE2dTRj
 date_saved: 2026-05-13
 type: resource

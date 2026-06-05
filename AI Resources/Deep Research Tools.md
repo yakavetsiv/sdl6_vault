@@ -1,6 +1,7 @@
 ---
 title: Deep Research Tools
-tags: [research, deep-research, AI, tools]
+tags:
+  - [research, deep-research, AI, tools]
 sources:
   - https://x.com/tom_doerr/status/2054040244274549248
   - https://www.instagram.com/reel/DYROSfct37F/?igsh=MTJwODRsczh3ZmxyZQ==

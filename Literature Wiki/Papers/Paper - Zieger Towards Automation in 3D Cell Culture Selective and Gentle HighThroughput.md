@@ -14,11 +14,6 @@ topics:
   - "Lab Automation"
   - "Biofabrication"
   - "Materials Discovery"
-tags:
-  - "literature/seed"
-  - "topic/lab-automation"
-  - "topic/biofabrication"
-  - "topic/materials-discovery"
 ---
 
 # Zieger Towards Automation in 3D Cell Culture Selective and Gentle High‐Throughput

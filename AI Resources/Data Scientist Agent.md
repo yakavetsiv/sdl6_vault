@@ -1,6 +1,7 @@
 ---
 title: Data Scientist Agent
-tags: [agent, data-science, analysis, AI]
+tags:
+  - [agent, data-science, analysis, AI]
 source: https://x.com/tom_doerr/status/2052552468983103608
 date_saved: 2026-05-13
 type: resource

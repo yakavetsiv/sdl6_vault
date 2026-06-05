@@ -1,6 +1,7 @@
 ---
 title: Website Builder AI
-tags: [website, builder, AI, no-code, tools]
+tags:
+  - [website, builder, AI, no-code, tools]
 source: https://www.instagram.com/reel/DYC-x8DogOI/?igsh=bmoyN2VoeTZ5aG9q
 date_saved: 2026-05-13
 type: resource

@@ -1,6 +1,7 @@
 ---
 title: Free Claude Code
-tags: [claude, free, tools, code, AI]
+tags:
+  - [claude, free, tools, code, AI]
 source: https://www.instagram.com/reel/DYD3EFZTCRf/?igsh=Nmw3a2ppdjYwZTFr
 date_saved: 2026-05-13
 type: resource

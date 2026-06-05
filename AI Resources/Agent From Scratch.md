@@ -1,6 +1,7 @@
 ---
 title: Agent From Scratch
-tags: [agent, tutorial, implementation, AI]
+tags:
+  - [agent, tutorial, implementation, AI]
 source: https://x.com/tom_doerr/status/2052074214409019463
 date_saved: 2026-05-13
 type: resource

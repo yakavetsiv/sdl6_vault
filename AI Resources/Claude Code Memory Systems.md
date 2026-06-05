@@ -1,6 +1,7 @@
 ---
 title: Claude Code Memory Systems
-tags: [claude, memory, code, comparison, tools]
+tags:
+  - [claude, memory, code, comparison, tools]
 source: https://www.youtube.com/watch?v=UHVFcUzAGlM
 date_saved: 2026-05-13
 type: video

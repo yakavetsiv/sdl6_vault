@@ -24,12 +24,6 @@ topics:
   - Liquid Handling
   - Bayesian Optimization
   - Lab Automation
-tags:
-  - literature/digital-discovery
-  - literature/tutorial-style
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # A user's guide to your first self-driving liquid handling lab

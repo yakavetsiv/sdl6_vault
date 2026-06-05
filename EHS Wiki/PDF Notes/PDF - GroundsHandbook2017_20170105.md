@@ -1354,8 +1354,7 @@ ensure that appropriate controls are taken to minimize such effects.
 
 Potential health problems associated with prolonged work in hot environments
 include:
-
-- 25 -
+  - 25 -
 
 Heat Exhaustion:
 

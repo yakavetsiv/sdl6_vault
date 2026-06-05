@@ -1,6 +1,7 @@
 ---
 title: Obsidian AI Integration
-tags: [obsidian, AI, knowledge-management, tools]
+tags:
+  - [obsidian, AI, knowledge-management, tools]
 source: https://x.com/cyrilxbt/status/2052235121416188114
 date_saved: 2026-05-13
 type: resource

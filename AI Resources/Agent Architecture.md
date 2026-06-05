@@ -1,6 +1,7 @@
 ---
 title: Agent Architecture
-tags: [agent, architecture, multi-agent, AI]
+tags:
+  - [agent, architecture, multi-agent, AI]
 source: https://x.com/alphasignalai/status/2051663458114887718
 date_saved: 2026-05-13
 type: resource

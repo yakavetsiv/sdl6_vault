@@ -1,6 +1,7 @@
 ---
 title: Hyperspace Pods
-tags: [compute, infrastructure, AI, edge]
+tags:
+  - [compute, infrastructure, AI, edge]
 date_saved: 2026-05-13
 type: resource
 ---

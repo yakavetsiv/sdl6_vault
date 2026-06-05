@@ -18,10 +18,6 @@ topics:
   - Self-Driving Labs
   - Lab Automation
   - Autonomous Experimentation
-tags:
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # An autonomous laboratory for the accelerated synthesis of inorganic materials

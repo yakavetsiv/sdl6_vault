@@ -16,12 +16,6 @@ topics:
   - "Organoids"
   - "Digital Twins and Modeling"
   - "Cancer and Therapeutics"
-tags:
-  - "literature/seed"
-  - "topic/organ-on-chip"
-  - "topic/organoids"
-  - "topic/digital-twins-and-modeling"
-  - "topic/cancer-and-therapeutics"
 ---
 
 # Nov A human kidney and liver organoid based multi organ on a chip model to study the therapeutic effects and biodistribution of mesenchymal stromal cell derived extracellular vesicles: PubMed

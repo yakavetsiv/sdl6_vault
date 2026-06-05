@@ -19,10 +19,6 @@ topics:
   - Self-Driving Labs
   - Lab Automation
   - Autonomous Experimentation
-tags:
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # A self-driving laboratory designed to accelerate the discovery of adhesive materials

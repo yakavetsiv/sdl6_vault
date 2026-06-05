@@ -14,10 +14,6 @@ author_hint: "Advanced Biology"
 topics:
   - "Lab Automation"
   - "Biofabrication"
-tags:
-  - "literature/seed"
-  - "topic/lab-automation"
-  - "topic/biofabrication"
 ---
 
 # Sharf‐Pauker Scaling Up Synthetic Cell Production Using Robotics and Machine Learning Toward

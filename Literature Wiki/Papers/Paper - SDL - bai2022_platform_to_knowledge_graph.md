@@ -18,10 +18,6 @@ topics:
   - Self-Driving Labs
   - Lab Automation
   - Autonomous Experimentation
-tags:
-  - literature/self-driving-labs
-  - source/pdf
-  - converted/markitdown
 ---
 
 # From Platform to Knowledge Graph: Evolution of Laboratory Automation

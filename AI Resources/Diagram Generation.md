@@ -1,6 +1,7 @@
 ---
 title: Diagram Generation
-tags: [diagrams, visualization, AI, tools]
+tags:
+  - [diagrams, visualization, AI, tools]
 source: https://x.com/tom_doerr/status/2053584705920880897
 date_saved: 2026-05-13
 type: resource

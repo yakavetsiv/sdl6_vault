@@ -14,10 +14,6 @@ author_hint: ""
 topics:
   - "Biofabrication"
   - "Biosensors and Diagnostics"
-tags:
-  - "literature/seed"
-  - "topic/biofabrication"
-  - "topic/biosensors-and-diagnostics"
 ---
 
 # Wenckstern,-Johann-2025-01-10-AI-powered-virtual-tissues-from-spatial-proteomics-for-clinical-diagnostics-and-biomedical-discovery

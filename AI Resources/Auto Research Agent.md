@@ -1,6 +1,7 @@
 ---
 title: Auto Research Agent
-tags: [agent, research, automation, AI]
+tags:
+  - [agent, research, automation, AI]
 source: https://x.com/tom_doerr/status/2051639455862210935
 date_saved: 2026-05-13
 type: resource

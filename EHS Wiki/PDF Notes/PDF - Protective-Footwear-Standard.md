@@ -599,8 +599,7 @@ objects
 Hazardous activities
 involving but not limited
 to:
-
-- Construction sites
+  - Construction sites
 - Handling heavy
 materials, heavy
 equipment or machinery
@@ -718,8 +717,7 @@ shock
 Hazardous activities
 involving but not limited
 to:
-
-- Presence of energized
+  - Presence of energized
 conductors of low to
 moderate voltage
 

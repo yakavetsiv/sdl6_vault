@@ -22,11 +22,6 @@ topics:
   - Machine Learning
   - Chemical Physics
   - Model Interpretability
-tags:
-  - literature/digital-discovery
-  - literature/tutorial-review
-  - source/pdf
-  - converted/markitdown
 ---
 
 # Insights into machine learning models from chemical physics: an energy landscapes approach (EL for ML)

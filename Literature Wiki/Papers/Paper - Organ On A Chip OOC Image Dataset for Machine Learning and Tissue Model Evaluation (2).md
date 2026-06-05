@@ -15,11 +15,6 @@ topics:
   - "Organ-on-Chip"
   - "Biofabrication"
   - "Digital Twins and Modeling"
-tags:
-  - "literature/seed"
-  - "topic/organ-on-chip"
-  - "topic/biofabrication"
-  - "topic/digital-twins-and-modeling"
 ---
 
 # Organ On A Chip (OOC) Image Dataset for Machine Learning and Tissue Model Evaluation

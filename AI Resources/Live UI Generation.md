@@ -1,6 +1,7 @@
 ---
 title: Live UI Generation
-tags: [UI, frontend, generation, AI, real-time]
+tags:
+  - [UI, frontend, generation, AI, real-time]
 source: https://x.com/akshay_pachaar/status/2052299884817240444
 date_saved: 2026-05-13
 type: resource

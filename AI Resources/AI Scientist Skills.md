@@ -1,6 +1,7 @@
 ---
 title: AI Scientist Skills
-tags: [AI, science, skills, research]
+tags:
+  - [AI, science, skills, research]
 source: https://www.instagram.com/reel/DYKS45dtP9J/?igsh=ajNrZ3lhenRuNGln
 date_saved: 2026-05-13
 type: resource

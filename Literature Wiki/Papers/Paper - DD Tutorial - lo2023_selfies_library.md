@@ -21,11 +21,6 @@ topics:
   - Cheminformatics
   - Molecular Representations
   - Materials Discovery
-tags:
-  - literature/digital-discovery
-  - literature/tutorial-review
-  - source/pdf
-  - converted/markitdown
 ---
 
 # Recent advances in the self-referencing embedded strings (SELFIES) library

@@ -15,10 +15,6 @@ author_hint: ""
 topics:
   - "Self-Driving Labs"
   - "Materials Discovery"
-tags:
-  - "literature/seed"
-  - "topic/self-driving-labs"
-  - "topic/materials-discovery"
 ---
 
 # Wu,-Tianyi-2025-02-08-Self-driving-lab-for-the-photochemical-synthesis-of-plasmonic-nanoparticles-with-targeted-structural-and-optical-properties

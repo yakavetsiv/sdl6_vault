@@ -12,9 +12,6 @@ year: "2025"
 author_hint: "Biotech Bioengineering"
 topics:
   - "Optimization and Bayesian Search"
-tags:
-  - "literature/seed"
-  - "topic/optimization-and-bayesian-search"
 ---
 
 # Gisperg Bayesian Optimization in Bioprocess Engineering Where Do We Stand Today

@@ -12,9 +12,6 @@ year: "2012"
 author_hint: "Xiaojun Lian"
 topics:
   - "iPSC and Stem Cells"
-tags:
-  - "literature/seed"
-  - "topic/ipsc-and-stem-cells"
 ---
 
 # 7 3 Robust cardiomyocyte differentiation from human pluripotent stem cells via temporal modulation of canonical Wnt signaling
