@@ -1,3 +1,7 @@
+---
+type: literature-note
+---
+
 Digital
 Discovery
 

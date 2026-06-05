@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - jamasurgery gowrishankar 2025 rv 250005 1749660686.74699-2.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/jamasurgery_gowrishankar_2025_rv_250005_1749660686.74699-2.pdf"
 converter: "microsoft/markitdown"

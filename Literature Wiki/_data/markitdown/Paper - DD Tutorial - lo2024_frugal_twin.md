@@ -1,3 +1,7 @@
+---
+type: literature-note
+---
+
 Volume 3
 Number 5
 May 2024

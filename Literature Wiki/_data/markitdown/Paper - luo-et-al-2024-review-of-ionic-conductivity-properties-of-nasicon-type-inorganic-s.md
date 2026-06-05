@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - luo-et-al-2024-review-of-ionic-conductivity-properties-of-nasicon-type-inorganic-s.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/luo-et-al-2024-review-of-ionic-conductivity-properties-of-nasicon-type-inorganic-solid-electrolyte-latp.pdf"
 converter: "microsoft/markitdown"

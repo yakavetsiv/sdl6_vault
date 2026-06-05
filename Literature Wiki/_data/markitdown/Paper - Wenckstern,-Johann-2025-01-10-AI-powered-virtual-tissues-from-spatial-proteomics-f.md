@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Wenckstern,-Johann-2025-01-10-AI-powered-virtual-tissues-from-spatial-proteomics-f.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Wenckstern,-Johann-2025-01-10-AI-powered-virtual-tissues-from-spatial-proteomics-for-clinical-diagnostics-and-biomedical-discovery.pdf"
 converter: "microsoft/markitdown"

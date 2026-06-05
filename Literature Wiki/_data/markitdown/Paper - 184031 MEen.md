@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - 184031 MEen.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/184031_MEen.pdf"
 converter: "microsoft/markitdown"

@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Lyu Crystal Structure Engineering Enables Enhanced Ionic Conductivity in LAGP Soli.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Chemistry A European J - 2025 - Lyu - Crystal Structure Engineering Enables Enhanced Ionic Conductivity in LAGP Solid%E2%80%90State.pdf"
 converter: "microsoft/markitdown"

@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Bridging silicon and carbon worlds.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Akbarialiabad-2024-Bridging-silicon-and-carbon-worlds-.pdf"
 converter: "microsoft/markitdown"

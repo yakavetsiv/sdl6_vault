@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - 1-s2.0-S0272884224059509-main.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/1-s2.0-S0272884224059509-main.pdf"
 converter: "microsoft/markitdown"

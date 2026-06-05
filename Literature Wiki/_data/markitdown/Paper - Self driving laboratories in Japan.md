@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Self driving laboratories in Japan.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Naruki-Yoshikawa-2025-06-11-Self-driving-laboratories-in-Japan.pdf"
 converter: "microsoft/markitdown"

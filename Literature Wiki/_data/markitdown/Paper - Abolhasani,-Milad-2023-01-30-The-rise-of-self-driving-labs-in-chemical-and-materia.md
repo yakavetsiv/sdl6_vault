@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Abolhasani,-Milad-2023-01-30-The-rise-of-self-driving-labs-in-chemical-and-materia.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Abolhasani,-Milad-2023-01-30-The-rise-of-self-driving-labs-in-chemical-and-materials-sciences.pdf"
 converter: "microsoft/markitdown"

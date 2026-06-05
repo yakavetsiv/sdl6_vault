@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - SI BhiCC Drug Testing ACS AMI Final.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/%5BSI%5D_BhiCC_Drug_Testing_ACS_AMI_Final.pdf"
 converter: "microsoft/markitdown"

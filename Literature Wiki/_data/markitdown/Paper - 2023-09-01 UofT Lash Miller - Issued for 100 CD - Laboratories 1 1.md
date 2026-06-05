@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - 2023-09-01 UofT Lash Miller - Issued for 100 CD - Laboratories 1 1.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/2023-09-01 UofT Lash Miller - Issued for 100_ CD - Laboratories 1 (1).pdf"
 converter: "microsoft/markitdown"

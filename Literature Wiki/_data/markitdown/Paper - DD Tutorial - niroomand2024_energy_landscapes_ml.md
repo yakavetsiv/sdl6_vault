@@ -1,3 +1,7 @@
+---
+type: literature-note
+---
+
 Showcasing research from the collaboration between
 As featured in:
 the groups of Professor Wales - Yusuf Hamied,

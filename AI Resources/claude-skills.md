@@ -126,3 +126,9 @@ npx quartz serve     # preview at localhost:8080
 cd ~/Documents/obsidian/viprorok
 git add -A && git commit -m "vault: description" && git push origin main
 ```
+
+---
+
+## Related GitHub Notes
+- [[GitHub/obsidian-skills]]
+- [[GitHub/claude-obsidian]]

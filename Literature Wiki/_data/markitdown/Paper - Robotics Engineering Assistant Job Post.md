@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Robotics Engineering Assistant Job Post.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Robotics Engineering Assistant Job Post.pdf"
 converter: "microsoft/markitdown"

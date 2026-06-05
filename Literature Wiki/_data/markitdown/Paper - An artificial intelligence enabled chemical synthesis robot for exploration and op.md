@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - An artificial intelligence enabled chemical synthesis robot for exploration and op.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Yibin-Jiang-2022-10-An-artificial-intelligence-enabled-chemical-synthesis-robot-for-exploration-and-optimization-of-nanomaterials.pdf"
 converter: "microsoft/markitdown"

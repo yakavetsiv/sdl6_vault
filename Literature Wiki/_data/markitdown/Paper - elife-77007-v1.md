@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - elife-77007-v1.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/elife-77007-v1.pdf"
 converter: "microsoft/markitdown"

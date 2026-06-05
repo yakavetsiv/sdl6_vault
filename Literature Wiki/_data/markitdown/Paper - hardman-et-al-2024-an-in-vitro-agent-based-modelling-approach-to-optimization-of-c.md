@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-c.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-culture-medium-for-generating-muscle.pdf"
 converter: "microsoft/markitdown"

@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopaminergic-neurons---PubMed (1).pdf"
 converter: "microsoft/markitdown"

@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation (2).md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Valērija-Movčana-2024-02-01-Organ-On-A-Chip-(OOC)-Image-Dataset-for-Machine-Learning-and-Tissue-Model-Evaluation.pdf"
 converter: "microsoft/markitdown"

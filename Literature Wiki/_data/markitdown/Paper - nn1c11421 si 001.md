@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - nn1c11421 si 001.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/nn1c11421_si_001.pdf"
 converter: "microsoft/markitdown"

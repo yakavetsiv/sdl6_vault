@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - fmats-10-1337485.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/fmats-10-1337485.pdf"
 converter: "microsoft/markitdown"

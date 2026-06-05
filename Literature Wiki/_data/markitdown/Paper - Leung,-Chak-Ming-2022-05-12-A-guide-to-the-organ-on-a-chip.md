@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Leung,-Chak-Ming-2022-05-12-A-guide-to-the-organ-on-a-chip.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Leung,-Chak-Ming-2022-05-12-A-guide-to-the-organ-on-a-chip.pdf"
 converter: "microsoft/markitdown"

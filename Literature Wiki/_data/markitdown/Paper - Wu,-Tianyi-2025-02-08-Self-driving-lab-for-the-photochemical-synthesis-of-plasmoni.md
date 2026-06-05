@@ -1,4 +1,5 @@
 ---
+type: literature-note
 source_note: "Papers/Paper - Wu,-Tianyi-2025-02-08-Self-driving-lab-for-the-photochemical-synthesis-of-plasmoni.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Wu,-Tianyi-2025-02-08-Self-driving-lab-for-the-photochemical-synthesis-of-plasmonic-nanoparticles-with-targeted-structural-and-optical-properties.pdf"
 converter: "microsoft/markitdown"
