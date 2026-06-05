@@ -1,0 +1,22 @@
+AI Resources/Obsidian AI Integration.md
+AI Resources/Claude Code Memory Systems.md
+AI Resources/Data Scientist Agent.md
+AI Resources/Agent Architecture.md
+AI Resources/Skills/SDL-3d-illustrations-skill.md
+AI Resources/Skills/deslop-writing-style.md
+AI Resources/Skills/research-plots-skill.md
+AI Resources/Skills/AC-presentation-skill.md
+AI Resources/Skills/dark-futuristic-diagram-skill.md
+AI Resources/Skills/SDL-schematics-skill.md
+AI Resources/Skills/ehs-biosafety-benchmark-workflow.md
+GitHub/uostore.md
+GitHub/image_analysis_uos.md
+GitHub/claude-obsidian.md
+GitHub/LH_BO_Preprint.md
+GitHub/VibeCount.md
+GitHub/obsidian-skills.md
+GitHub/reproducibility.md
+GitHub/lab_sensor.md
+Literature Wiki/Literature Wiki Home.md
+Literature Wiki/Concepts/Concept - Lab Automation.md
+Literature Wiki/Concepts/Concept - Reference and Textbook.md

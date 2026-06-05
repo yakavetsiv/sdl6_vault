@@ -1,5 +1,10 @@
 [
   "mcp-tools",
   "obsidian-local-rest-api",
-  "megamem-mcp"
+  "claude-sidebar",
+  "obsidian-zotero-desktop-connector",
+  "calendar",
+  "obsidian-git",
+  "editing-toolbar",
+  "hi-note"
 ]

@@ -1,0 +1,22 @@
+Literature Wiki/_attachments/Self-Driving Labs/coley2019_autonomous_discovery_chemical_sciences_outlook.pdf
+Literature Wiki/_attachments/Self-Driving Labs/rooney2022_sdl_adhesive_materials.pdf
+Literature Wiki/_attachments/Self-Driving Labs/macleod2020_thin_film_sdl.pdf
+Literature Wiki/_attachments/Self-Driving Labs/boiko2023_llm_autonomous_chemical_research.pdf
+Literature Wiki/_attachments/Self-Driving Labs/stein2019_automated_autonomous_workflows.pdf
+Literature Wiki/_attachments/Self-Driving Labs/szymanski2023_autonomous_inorganic_materials.pdf
+Literature Wiki/_attachments/Self-Driving Labs/roch2020_chemos_orchestration_autonomous_discovery.pdf
+Literature Wiki/_attachments/Self-Driving Labs/szymanski2021_autonomous_design_synthesis_inorganic_materials.pdf
+Literature Wiki/_attachments/Self-Driving Labs/bai2022_platform_to_knowledge_graph.pdf
+Literature Wiki/_attachments/Self-Driving Labs/bai2024_dynamic_knowledge_graph_distributed_sdl.pdf
+Literature Wiki/_attachments/Self-Driving Labs/abolhasani2023_rise_self_driving_labs.pdf
+Literature Wiki/_attachments/Self-Driving Labs/soldatov2021_sdl_functional_materials.pdf
+Literature Wiki/_data/markitdown/Paper - DD Tutorial - niroomand2024_energy_landscapes_ml.md
+Literature Wiki/_data/markitdown/Paper - s44222-024-00207-z.md
+Literature Wiki/_data/markitdown/Paper - Wenckstern,-Johann-2025-01-10-AI-powered-virtual-tissues-from-spatial-proteomics-f.md
+Literature Wiki/_data/markitdown/Paper - 80ad2aab-cab1-429f-a9c8-ce701b44784d.md
+Literature Wiki/_data/markitdown/Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam -2-.md
+Literature Wiki/_data/markitdown/Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam.md
+Literature Wiki/_data/markitdown/Paper - s41746-025-01836-3.md
+Literature Wiki/_data/markitdown/Paper - s41598-025-17876-4.md
+Literature Wiki/_data/markitdown/Paper - Undermind - Software wrappers and intermediate device OSs for Pythonic lab automat.md
+Literature Wiki/_data/markitdown/Paper - Bridging silicon and carbon worlds.md

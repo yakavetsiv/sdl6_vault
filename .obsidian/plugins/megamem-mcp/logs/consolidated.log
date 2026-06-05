@@ -177,3 +177,15 @@ NEW SESSION: 2026-06-04T22:17:29.913Z
 [2026-06-04T22:17:29.951Z] [INFO] [VAULT-REGISTRY] Updated vault connection status for viprorok: Connected: false.
 [2026-06-04T22:17:30.129Z] [INFO] GraphitiService initialized
 [2026-06-04T22:17:33.139Z] [INFO] [UpdateService] Check complete — bridge: v1.7.3, mcp: v1.7.3, remote: 1.7.3
+[2026-06-05T03:53:08.065Z] [INFO] Starting sync for 2026-06-04.md
+[2026-06-05T03:53:08.068Z] [INFO] Starting sync for file: 2026-06-04.md
+[2026-06-05T03:53:08.068Z] [INFO] Starting manual sync for file: /Users/iyakavets/Documents/obsidian/viprorok/2026-06-04.md, Source: obsidian_mm_individual
+[2026-06-05T03:53:08.069Z] [INFO] ManualSyncResult: note_name:unknown, status: error, processed: 1, skipped: 0, total: 1, batches: 1, processed_in: 0s, group_id: viprorok, uuid: unknown, source_description: obsidian_mm_individual
+[2026-06-05T03:53:08.075Z] [ERROR] Note sync failed for 2026-06-04.md: Configuration error: API key not configured for LLM provider: openai
+[2026-06-05T03:53:12.672Z] [INFO] Starting sync for 2026-06-04.md
+[2026-06-05T03:53:12.673Z] [INFO] Starting sync for file: 2026-06-04.md
+[2026-06-05T03:53:12.673Z] [INFO] Starting manual sync for file: /Users/iyakavets/Documents/obsidian/viprorok/2026-06-04.md, Source: obsidian_mm_individual
+[2026-06-05T03:53:12.674Z] [INFO] ManualSyncResult: note_name:unknown, status: error, processed: 1, skipped: 0, total: 1, batches: 1, processed_in: 0s, group_id: viprorok, uuid: unknown, source_description: obsidian_mm_individual
+[2026-06-05T03:53:12.676Z] [ERROR] Note sync failed for 2026-06-04.md: Configuration error: API key not configured for LLM provider: openai
+[2026-06-05T03:53:44.778Z] [INFO] [DAEMON] Shutting down daemon process
+[2026-06-05T03:53:44.779Z] [INFO] MegaMem plugin unloaded

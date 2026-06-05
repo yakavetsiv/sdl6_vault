@@ -1,0 +1,669 @@
+{
+  "nodes": [
+    {
+      "id": "paper_optimizing_multidrug_cancer",
+      "label": "Optimizing Patient-Specific Multidrug Regimens for Cancer Therapy (Invention Disclosure)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Optimizing Patient-Specific Multidrug Regimens Cancer Therapy Feb 28 IY.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "UofT IP Office",
+      "contributor": null
+    },
+    {
+      "id": "concept_tumor_on_chip_ml",
+      "label": "Tumor-on-a-Chip + Machine Learning for Multidrug Optimization",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Optimizing Patient-Specific Multidrug Regimens Cancer Therapy Feb 28 IY.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paper_frugal_twin_sdl",
+      "label": "Frugal Twin: Low-Cost Self-Driving Laboratories (Lo et al. 2024, Digital Discovery)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - DD Tutorial - lo2024_frugal_twin.md",
+      "source_location": null,
+      "source_url": "https://rsc.li/digitaldiscovery",
+      "captured_at": null,
+      "author": "Stanley Lo, Sterling G. Baird, Taylor D. Sparks, Alán Aspuru-Guzik et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_wu2025_sdl_plasmonic_nanoparticles",
+      "label": "Self-Driving Lab for Photochemical Synthesis of Plasmonic Nanoparticles (Wu et al. 2025)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Wu,-Tianyi-2025-02-08-Self-driving-lab-for-the-photochemical-synthesis-of-plasmoni.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s41467-025-56788-9",
+      "captured_at": null,
+      "author": "Tianyi Wu et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_zieger2024_3d_cell_culture_automation",
+      "label": "Towards Automation in 3D Cell Culture: Selective High-Throughput Handling of Spheroids/Organoids (Zieger et al. 2024)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Zieger Towards Automation in 3D Cell Culture Selective and Gentle HighThroughput.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Viktoria Zieger, Daniel Frejek, Stefan Zimmermann, et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_s41551_organ_chip_robotic",
+      "label": "Robotic Fluidic Coupling and Interrogation of Multiple Vascularized Organ Chips (Novak et al.)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41551-019-0497-x.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s41551-019-0497-x",
+      "captured_at": null,
+      "author": "Richard Novak, Anna Herland et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_zerocostdl4mic",
+      "label": "Democratising Deep Learning for Microscopy with ZeroCostDL4Mic (von Chamier et al. 2021)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41467-021-22518-0.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s41467-021-22518-0",
+      "captured_at": null,
+      "author": "Lucas von Chamier, Romain F. Laine et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_pdol_lagp_solid_electrolyte",
+      "label": "PDOL/LAGP Composite Solid Electrolyte for Solid-State Lithium Batteries (Huang et al. 2022)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - 1-s2.0-S0272884222036471-main.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Zhen-hao Huang, Mao-xiang Jing et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_ai_agent_safety_sdl",
+      "label": "Safety in Autonomous Self-Driving Chemistry Labs (AI Agent Safety)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - AI Agent Safety.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paper_edgenat_edge_detection",
+      "label": "EdgeNAT: Transformer for Efficient Edge Detection (Jie et al. 2024)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - 2408.10527v1.md",
+      "source_location": null,
+      "source_url": "https://arxiv.org/abs/2408.10527",
+      "captured_at": null,
+      "author": "Jinghuai Jie, Yan Guo et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_digital_pipette_v2",
+      "label": "Digital Pipette v2: Open Hardware for Liquid Transfer in Self-Driving Laboratories (Yoshikawa, Angers, Yakavets et al. 2026)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1039/d5dd00336a",
+      "captured_at": null,
+      "author": "Naruki Yoshikawa, Kevin Angers, Kourosh Darvish, Sargol Okhovatian, Dawn Bannerman, Ilya Yakavets, Milica Radisic, Alán Aspuru-Guzik",
+      "contributor": "Ilya Yakavets"
+    },
+    {
+      "id": "paper_organ_on_chip_guide",
+      "label": "A Guide to the Organ-on-a-Chip (Leung et al. 2022, Nature Reviews Methods Primers)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Leung,-Chak-Ming-2022-05-12-A-guide-to-the-organ-on-a-chip.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s43586-022-00118-6",
+      "captured_at": null,
+      "author": "Chak Ming Leung, Pim de Haan, Kacey Ronaldson-Bouchard et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_liu2026_sdl_bioprinting",
+      "label": "Self-Driving Bioprinting Laboratories (Liu et al. 2026, Biofabrication)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Liu 2026 Biofabrication 18 013001.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Suihong Liu et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_digilocs_organ_chip_simulation",
+      "label": "DigiLoCS: Predictive Organ-on-Chip Simulations (Aravindakshan et al. 2025)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Digilocs a leap forward in predicti.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Manoja Rajalakshmi Aravindakshan, Chittaranjan Mandal, Alex Pothen, Stephan Schaller, Christian Maass",
+      "contributor": null
+    },
+    {
+      "id": "paper_s11912_surgical_margins_hnc",
+      "label": "Surgical Margins in Head and Neck Squamous Cell Carcinoma (Singh et al. 2020)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s11912-020-00942-7.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1007/s11912-020-00942-7",
+      "captured_at": null,
+      "author": "Arjun Singh, Burhanuddin Qayyumi, Pankaj Chaturvedi",
+      "contributor": null
+    },
+    {
+      "id": "project_readme_moc",
+      "label": "Projects MOC (Map of Content)",
+      "file_type": "index",
+      "source_file": "Projects/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-06-04",
+      "author": "Ilya Yakavets",
+      "contributor": null
+    },
+    {
+      "id": "project_lh_bo_preprint",
+      "label": "LH_BO_Preprint: Liquid Handling Calibration with Bayesian Optimization",
+      "file_type": "project",
+      "source_file": "Projects/LH_BO_Preprint/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-06-04",
+      "author": "Ilya Yakavets",
+      "contributor": null
+    },
+    {
+      "id": "project_vibecount",
+      "label": "VibeCount: Automated Cell Counting Pipeline (SAM2, AWS)",
+      "file_type": "project",
+      "source_file": "Projects/VibeCount/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-06-04",
+      "author": "Ilya Yakavets",
+      "contributor": null
+    },
+    {
+      "id": "project_lab_sensor",
+      "label": "Lab Sensor: SDL Sensor Monitoring and Alert Routing (Digital Discovery Tutorial)",
+      "file_type": "project",
+      "source_file": "Projects/Lab Sensor/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-06-04",
+      "author": "Ilya Yakavets",
+      "contributor": null
+    },
+    {
+      "id": "project_uoft_ehs_benchmark",
+      "label": "UofT EHS Biosafety Benchmark (GPT-5.5 QA Evaluation)",
+      "file_type": "project",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/UofT EHS Biosafety Benchmark.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-06-04",
+      "author": "Ilya Yakavets",
+      "contributor": null
+    },
+    {
+      "id": "project_grant_applications",
+      "label": "Grant Applications Table (2026)",
+      "file_type": "project",
+      "source_file": "Projects/Grant Applications/Grant applications table.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-06-04",
+      "author": "Ilya Yakavets",
+      "contributor": null
+    },
+    {
+      "id": "concept_bayesian_optimization",
+      "label": "Bayesian Optimization",
+      "file_type": "concept",
+      "source_file": "Projects/LH_BO_Preprint/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_liquid_handling_calibration",
+      "label": "Liquid Handling Calibration (AC-SDL6)",
+      "file_type": "concept",
+      "source_file": "Projects/LH_BO_Preprint/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_sam2_cell_counting",
+      "label": "SAM2-Based Cell Counting Pipeline",
+      "file_type": "concept",
+      "source_file": "Projects/VibeCount/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_sdl_sensor_monitoring",
+      "label": "SDL Sensor Monitoring and Alert Routing",
+      "file_type": "concept",
+      "source_file": "Projects/Lab Sensor/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ehs_qa_benchmark",
+      "label": "EHS Biosafety QA Benchmark (Iterative LLM Evaluation)",
+      "file_type": "concept",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/UofT EHS Biosafety Benchmark.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "person_aspuru_guzik",
+      "label": "Alán Aspuru-Guzik",
+      "file_type": "person",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "person_milica_radisic",
+      "label": "Milica Radisic",
+      "file_type": "person",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "person_ilya_yakavets",
+      "label": "Ilya Yakavets",
+      "file_type": "person",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "venue_digital_discovery",
+      "label": "Digital Discovery (RSC Journal)",
+      "file_type": "venue",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - DD Tutorial - lo2024_frugal_twin.md",
+      "source_location": null,
+      "source_url": "https://rsc.li/digitaldiscovery",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "project_readme_moc",
+      "target": "project_lh_bo_preprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_readme_moc",
+      "target": "project_vibecount",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_readme_moc",
+      "target": "project_lab_sensor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_readme_moc",
+      "target": "project_uoft_ehs_benchmark",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_lh_bo_preprint",
+      "target": "concept_bayesian_optimization",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/LH_BO_Preprint/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_lh_bo_preprint",
+      "target": "concept_liquid_handling_calibration",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/LH_BO_Preprint/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_vibecount",
+      "target": "concept_sam2_cell_counting",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/VibeCount/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_lab_sensor",
+      "target": "concept_sdl_sensor_monitoring",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/Lab Sensor/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_lab_sensor",
+      "target": "venue_digital_discovery",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/Lab Sensor/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_uoft_ehs_benchmark",
+      "target": "concept_ehs_qa_benchmark",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/UofT EHS Biosafety Benchmark.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_digital_pipette_v2",
+      "target": "person_aspuru_guzik",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_digital_pipette_v2",
+      "target": "person_milica_radisic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_digital_pipette_v2",
+      "target": "person_ilya_yakavets",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_digital_pipette_v2",
+      "target": "venue_digital_discovery",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_digital_pipette_v2",
+      "target": "concept_liquid_handling_calibration",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5dd00336a.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "project_lh_bo_preprint",
+      "target": "paper_digital_pipette_v2",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/LH_BO_Preprint/README.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "paper_frugal_twin_sdl",
+      "target": "venue_digital_discovery",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - DD Tutorial - lo2024_frugal_twin.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_frugal_twin_sdl",
+      "target": "person_aspuru_guzik",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - DD Tutorial - lo2024_frugal_twin.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_frugal_twin_sdl",
+      "target": "paper_digital_pipette_v2",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - DD Tutorial - lo2024_frugal_twin.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "paper_ai_agent_safety_sdl",
+      "target": "project_lab_sensor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - AI Agent Safety.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "paper_liu2026_sdl_bioprinting",
+      "target": "paper_frugal_twin_sdl",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Liu 2026 Biofabrication 18 013001.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "paper_wu2025_sdl_plasmonic_nanoparticles",
+      "target": "paper_frugal_twin_sdl",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Wu,-Tianyi-2025-02-08-Self-driving-lab-for-the-photochemical-synthesis-of-plasmoni.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "paper_organ_on_chip_guide",
+      "target": "paper_s41551_organ_chip_robotic",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Leung,-Chak-Ming-2022-05-12-A-guide-to-the-organ-on-a-chip.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "paper_digilocs_organ_chip_simulation",
+      "target": "paper_organ_on_chip_guide",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Digilocs a leap forward in predicti.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "paper_digilocs_organ_chip_simulation",
+      "target": "concept_tumor_on_chip_ml",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Digilocs a leap forward in predicti.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "paper_optimizing_multidrug_cancer",
+      "target": "concept_tumor_on_chip_ml",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Optimizing Patient-Specific Multidrug Regimens Cancer Therapy Feb 28 IY.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_optimizing_multidrug_cancer",
+      "target": "paper_s11912_surgical_margins_hnc",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Optimizing Patient-Specific Multidrug Regimens Cancer Therapy Feb 28 IY.md",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "paper_zerocostdl4mic",
+      "target": "project_vibecount",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41467-021-22518-0.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "paper_edgenat_edge_detection",
+      "target": "project_vibecount",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - 2408.10527v1.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "paper_zieger2024_3d_cell_culture_automation",
+      "target": "paper_organ_on_chip_guide",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Zieger Towards Automation in 3D Cell Culture Selective and Gentle HighThroughput.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "person_milica_radisic",
+      "target": "project_grant_applications",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/Grant Applications/Grant applications table.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "person_ilya_yakavets",
+      "target": "project_grant_applications",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Projects/Grant Applications/Grant applications table.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "project_readme_moc",
+      "target": "project_grant_applications",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/README.md",
+      "source_location": null,
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

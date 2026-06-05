@@ -1,0 +1,22 @@
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/EHS_BIOSAFETY_EVAL_README.md
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/EHS_WIKI_GRAPH_AUDIT.md
+Projects/VibeCount/README.md
+Projects/graphify-out/converted/grant_table_b0b27ea7.md
+SDL6 - HOM/SDL_access_facility_overview.md
+SDL6 - HOM/OKR_SDL6.md
+SDL6 - HOM/Grants/CFI 2024/CFI_pre-proposal_SDL6.md
+SDL6 - HOM/Grants/CFI 2024/CFI_Brandon_equipment_notes.md
+SDL6 - HOM/Grants/CFI 2024/README.md
+SDL6 - HOM/Grants/CFI 2024/SDL_HOM_research_objectives.md
+SDL6 - HOM/Grants/CFI 2024/CFI_HOM_SDL_Equipment_Justification.md
+SDL6 - HOM/Grants/CFI 2024/PotentialCFI_Equipment_May21.md
+SDL6 - HOM/Reproducibility ML Study/ML Cell Counting Reproducibility Study.md
+SDL6 - HOM/Reproducibility ML Study/_attachments/p7.pdf
+SDL6 - HOM/Reproducibility ML Study/_attachments/experience_livecount_benefit.png
+SDL6 - HOM/Reproducibility ML Study/_attachments/participant_time_statistics.png
+SDL6 - HOM/Reproducibility ML Study/_attachments/participant_speed_vs_viability.png

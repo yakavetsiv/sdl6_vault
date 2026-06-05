@@ -1,29 +1,26 @@
 filters:
   or:
-    - 'type == "literature-note"'
-    - 'type == "paper-note"'
-
+    - type == "literature-note"
+    - type == "paper-note"
 properties:
   title:
-    displayName: "Title"
+    displayName: Title
   tags:
-    displayName: "Tags"
+    displayName: Tags
   date:
-    displayName: "Date"
-
+    displayName: Date
 views:
   - type: table
-    name: "All Papers"
+    name: All Papers
+    groupBy:
+      property: date
+      direction: DESC
     order:
       - title
       - tags
       - date
-    groupBy:
-      property: date
-      direction: DESC
-
   - type: cards
-    name: "Card View"
+    name: Card View
     order:
       - title
       - tags

@@ -1,0 +1,692 @@
+{
+  "nodes": [
+    {
+      "id": "coley2019_autonomous_discovery_outlook",
+      "label": "Autonomous Discovery in the Chemical Sciences Part II: Outlook (Coley 2019)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - coley2019_autonomous_discovery_outlook.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1002/anie.201909989",
+      "captured_at": null,
+      "author": "Coley, Connor W.; Eyke, Natalie S.; Jensen, Klavs F.",
+      "contributor": null,
+      "year": "2019",
+      "citation_count": 271,
+      "topics": ["Self-Driving Labs", "Lab Automation", "Autonomous Experimentation", "Active Learning", "Bayesian Optimization", "QSAR Modeling"]
+    },
+    {
+      "id": "abolhasani2023_rise_sdl",
+      "label": "The Rise of Self-Driving Labs in Chemical and Materials Sciences (Abolhasani 2023)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s44160-022-00231-0",
+      "captured_at": null,
+      "author": "Abolhasani, Milad; Kumacheva, Eugenia",
+      "contributor": null,
+      "year": "2023",
+      "citation_count": 498,
+      "topics": ["Self-Driving Labs", "Lab Automation", "Autonomous Experimentation", "Materials Discovery", "Robotics"]
+    },
+    {
+      "id": "burger2020_mobile_robotic_chemist",
+      "label": "A Mobile Robotic Chemist (Burger 2020)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - burger2020_mobile_robotic_chemist.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s41586-020-2442-2",
+      "captured_at": null,
+      "author": "Burger, Benjamin; Maffettone, Phillip M.; Cooper, Andrew I.",
+      "contributor": null,
+      "year": "2020",
+      "citation_count": 1405,
+      "topics": ["Self-Driving Labs", "Mobile Robotics", "Bayesian Optimization", "Photocatalysis", "Autonomous Experimentation"]
+    },
+    {
+      "id": "boiko2023_llm_autonomous_chemical_research",
+      "label": "Autonomous Chemical Research with Large Language Models (Boiko 2023)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - boiko2023_llm_autonomous_chemical_research.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s41586-023-06792-0",
+      "captured_at": null,
+      "author": "Boiko, Daniil A.; MacKnight, Robert; Gomes, Gabe",
+      "contributor": null,
+      "year": "2023",
+      "citation_count": 778,
+      "topics": ["Self-Driving Labs", "Large Language Models", "Coscientist", "Autonomous Experimentation", "Chemical Synthesis Planning"]
+    },
+    {
+      "id": "bai2022_platform_to_knowledge_graph",
+      "label": "From Platform to Knowledge Graph: Evolution of Laboratory Automation (Bai 2022)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1021/jacsau.1c00438",
+      "captured_at": null,
+      "author": "Bai, Jiaru; Cao, Liwei; Mosbach, Sebastian; Kraft, Markus",
+      "contributor": null,
+      "year": "2022",
+      "citation_count": 108,
+      "topics": ["Self-Driving Labs", "Knowledge Graphs", "Laboratory Automation", "Semantic Web", "Digital Twin", "Data Interoperability"]
+    },
+    {
+      "id": "macleod2020_thin_film_sdl",
+      "label": "Self-Driving Laboratory for Accelerated Discovery of Thin-Film Materials (MacLeod 2020)",
+      "file_type": "document",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - macleod2020_thin_film_sdl.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1126/sciadv.aaz8867",
+      "captured_at": null,
+      "author": "MacLeod, B. P.; Parlane, F. G. L.; Berlinguette, C. P.",
+      "contributor": null,
+      "year": "2020",
+      "citation_count": 43,
+      "topics": ["Self-Driving Labs", "Thin-Film Materials", "Autonomous Experimentation", "Organic Semiconductors"]
+    },
+    {
+      "id": "sdl_writing_patterns_concept_bottleneck",
+      "label": "SDL Writing Pattern: Bottleneck-First Narrative",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Executive Pattern",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sdl_writing_patterns_abstract_structure",
+      "label": "SDL Writing Pattern: Four-Move Abstract Structure",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Abstract Style",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sdl_writing_patterns_claim_levels",
+      "label": "SDL Writing Pattern: Three-Level Claim Hierarchy",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Claim Style",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sdl_writing_patterns_quantification",
+      "label": "SDL Writing Pattern: Early Quantification of Scale",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Quantification Pattern",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sdl_writing_patterns_figure_order",
+      "label": "SDL Writing Pattern: Figure Sequence (System→Task→Results→Interpretation→Generalization)",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Figure Pattern",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sdl_writing_patterns_style_rules",
+      "label": "SDL Writing Pattern: Active Verb and Field-Level Noun Style Rules",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Style Rules Observed",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "labsense_style_deslop_rules",
+      "label": "LabSense Style: Banned Patterns and Deslop Rules",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/LabSense Paper Writing Style Profile.md",
+      "source_location": "Deslop Rules",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "labsense_style_voice",
+      "label": "LabSense Style: Voice, Register, and Audience Definition",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/LabSense Paper Writing Style Profile.md",
+      "source_location": "Voice and Register",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "labsense_style_sentence_patterns",
+      "label": "LabSense Style: Preferred Sentence Patterns",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/LabSense Paper Writing Style Profile.md",
+      "source_location": "Sentence Patterns",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "digital_discovery_guide_core_principle",
+      "label": "Digital Discovery Tutorial Guide: Onboarding Machine Principle",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/Digital Discovery Tutorial Paper Writing Guide.md",
+      "source_location": "Core Principle",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "digital_discovery_guide_five_impact_moves",
+      "label": "Digital Discovery Tutorial Guide: Five Impact Moves",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/Digital Discovery Tutorial Paper Writing Guide.md",
+      "source_location": "What Makes The Paper Impactful",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "digital_discovery_guide_topic_scorecard",
+      "label": "Digital Discovery Tutorial Guide: Topic Selection Scorecard",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/Digital Discovery Tutorial Paper Writing Guide.md",
+      "source_location": "Choose A Tutorial Topic",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vibecount_style_no_filler",
+      "label": "VibeCount Style: No Filler, No AI Slop Rules",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/VibeCount Manuscript Writing Style Profile.md",
+      "source_location": "Prose Style",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vibecount_style_intro_structure",
+      "label": "VibeCount Style: Introduction Paragraph Order",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Writing Guides/VibeCount Manuscript Writing Style Profile.md",
+      "source_location": "Structure Preferences",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_sdl_closed_loop",
+      "label": "Concept: Self-Driving Lab Closed-Loop Architecture",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": "SDLs in chemical and materials sciences",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_bayesian_optimization",
+      "label": "Concept: Bayesian Optimization for Experiment Selection",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - burger2020_mobile_robotic_chemist.md",
+      "source_location": "Bayesian search algorithm",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_knowledge_graph_lab_automation",
+      "label": "Concept: Knowledge Graph for Laboratory Automation",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": "Dynamic knowledge-graph-based approach",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_llm_agent_chemistry",
+      "label": "Concept: LLM-Driven Autonomous Agent for Chemical Research (Coscientist)",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - boiko2023_llm_autonomous_chemical_research.md",
+      "source_location": "Coscientist system architecture",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_mobile_robot_automation",
+      "label": "Concept: Mobile Robotic Automation of Conventional Lab Instruments",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - burger2020_mobile_robotic_chemist.md",
+      "source_location": "Mobile robot platform",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_active_learning_experiment_selection",
+      "label": "Concept: Active Learning for Autonomous Experiment Selection",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - coley2019_autonomous_discovery_outlook.md",
+      "source_location": "Section 3.3 Selection of experiments for validation and feedback",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_sdl_data_interoperability",
+      "label": "Concept: SDL Data Interoperability and Standardized Data Representation",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": "Section 3 Data representation and exchange protocols",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "abolhasani2023_rise_sdl",
+      "target": "coley2019_autonomous_discovery_outlook",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": "References section",
+      "weight": 1.0
+    },
+    {
+      "source": "abolhasani2023_rise_sdl",
+      "target": "burger2020_mobile_robotic_chemist",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": "Reference 21 and Fig. 2e",
+      "weight": 1.0
+    },
+    {
+      "source": "abolhasani2023_rise_sdl",
+      "target": "macleod2020_thin_film_sdl",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": "References 29-30, Fig. 2d",
+      "weight": 1.0
+    },
+    {
+      "source": "abolhasani2023_rise_sdl",
+      "target": "bai2022_platform_to_knowledge_graph",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": "Reference 38",
+      "weight": 1.0
+    },
+    {
+      "source": "bai2022_platform_to_knowledge_graph",
+      "target": "coley2019_autonomous_discovery_outlook",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": "Reference 30 (Coley et al.)",
+      "weight": 1.0
+    },
+    {
+      "source": "bai2022_platform_to_knowledge_graph",
+      "target": "burger2020_mobile_robotic_chemist",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": "Reference 16 (Burger et al.)",
+      "weight": 1.0
+    },
+    {
+      "source": "boiko2023_llm_autonomous_chemical_research",
+      "target": "burger2020_mobile_robotic_chemist",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - boiko2023_llm_autonomous_chemical_research.md",
+      "source_location": "Reference 22 (mobile platforms)",
+      "weight": 1.0
+    },
+    {
+      "source": "coley2019_autonomous_discovery_outlook",
+      "target": "concept_active_learning_experiment_selection",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - coley2019_autonomous_discovery_outlook.md",
+      "source_location": "Section 3.3",
+      "weight": 0.95
+    },
+    {
+      "source": "burger2020_mobile_robotic_chemist",
+      "target": "concept_bayesian_optimization",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - burger2020_mobile_robotic_chemist.md",
+      "source_location": "Bayesian search algorithm section",
+      "weight": 0.98
+    },
+    {
+      "source": "burger2020_mobile_robotic_chemist",
+      "target": "concept_mobile_robot_automation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - burger2020_mobile_robotic_chemist.md",
+      "source_location": "Abstract and methods",
+      "weight": 0.99
+    },
+    {
+      "source": "abolhasani2023_rise_sdl",
+      "target": "concept_sdl_closed_loop",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": "SDLs in chemical and materials sciences",
+      "weight": 0.98
+    },
+    {
+      "source": "bai2022_platform_to_knowledge_graph",
+      "target": "concept_knowledge_graph_lab_automation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": "Section 4",
+      "weight": 0.99
+    },
+    {
+      "source": "bai2022_platform_to_knowledge_graph",
+      "target": "concept_sdl_data_interoperability",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": "Section 3",
+      "weight": 0.99
+    },
+    {
+      "source": "boiko2023_llm_autonomous_chemical_research",
+      "target": "concept_llm_agent_chemistry",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.99,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - boiko2023_llm_autonomous_chemical_research.md",
+      "source_location": "Coscientist system architecture",
+      "weight": 0.99
+    },
+    {
+      "source": "coley2019_autonomous_discovery_outlook",
+      "target": "abolhasani2023_rise_sdl",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - coley2019_autonomous_discovery_outlook.md",
+      "source_location": null,
+      "weight": 0.88
+    },
+    {
+      "source": "coley2019_autonomous_discovery_outlook",
+      "target": "burger2020_mobile_robotic_chemist",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - coley2019_autonomous_discovery_outlook.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "abolhasani2023_rise_sdl",
+      "target": "burger2020_mobile_robotic_chemist",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "abolhasani2023_rise_sdl",
+      "target": "boiko2023_llm_autonomous_chemical_research",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": null,
+      "weight": 0.82
+    },
+    {
+      "source": "burger2020_mobile_robotic_chemist",
+      "target": "macleod2020_thin_film_sdl",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.87,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - burger2020_mobile_robotic_chemist.md",
+      "source_location": null,
+      "weight": 0.87
+    },
+    {
+      "source": "bai2022_platform_to_knowledge_graph",
+      "target": "abolhasani2023_rise_sdl",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.84,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": null,
+      "weight": 0.84
+    },
+    {
+      "source": "boiko2023_llm_autonomous_chemical_research",
+      "target": "bai2022_platform_to_knowledge_graph",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - boiko2023_llm_autonomous_chemical_research.md",
+      "source_location": null,
+      "weight": 0.78
+    },
+    {
+      "source": "sdl_writing_patterns_concept_bottleneck",
+      "target": "burger2020_mobile_robotic_chemist",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Executive Pattern",
+      "weight": 0.9
+    },
+    {
+      "source": "sdl_writing_patterns_quantification",
+      "target": "burger2020_mobile_robotic_chemist",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.92,
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Quantification Pattern - Burger: 8 days, 688 experiments",
+      "weight": 0.92
+    },
+    {
+      "source": "sdl_writing_patterns_quantification",
+      "target": "macleod2020_thin_film_sdl",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.88,
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Quantification Pattern - MacLeod example",
+      "weight": 0.88
+    },
+    {
+      "source": "labsense_style_deslop_rules",
+      "target": "vibecount_style_no_filler",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "Literature Wiki/Writing Guides/LabSense Paper Writing Style Profile.md",
+      "source_location": "Deslop Rules",
+      "weight": 0.88
+    },
+    {
+      "source": "digital_discovery_guide_five_impact_moves",
+      "target": "sdl_writing_patterns_concept_bottleneck",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Literature Wiki/Writing Guides/Digital Discovery Tutorial Paper Writing Guide.md",
+      "source_location": "What Makes The Paper Impactful - Move 1",
+      "weight": 0.85
+    },
+    {
+      "source": "sdl_writing_patterns_abstract_structure",
+      "target": "digital_discovery_guide_five_impact_moves",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md",
+      "source_location": "Abstract Style",
+      "weight": 0.82
+    },
+    {
+      "source": "concept_sdl_closed_loop",
+      "target": "concept_bayesian_optimization",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.92,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md",
+      "source_location": null,
+      "weight": 0.92
+    },
+    {
+      "source": "concept_knowledge_graph_lab_automation",
+      "target": "concept_sdl_data_interoperability",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md",
+      "source_location": "Section 4",
+      "weight": 0.95
+    },
+    {
+      "source": "concept_llm_agent_chemistry",
+      "target": "concept_sdl_closed_loop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.83,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - boiko2023_llm_autonomous_chemical_research.md",
+      "source_location": null,
+      "weight": 0.83
+    },
+    {
+      "source": "concept_active_learning_experiment_selection",
+      "target": "concept_bayesian_optimization",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - coley2019_autonomous_discovery_outlook.md",
+      "source_location": "Section 3.3",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "sdl_paradigm_progression",
+      "label": "SDL Paradigm Progression Papers",
+      "nodes": [
+        "coley2019_autonomous_discovery_outlook",
+        "burger2020_mobile_robotic_chemist",
+        "macleod2020_thin_film_sdl",
+        "abolhasani2023_rise_sdl",
+        "boiko2023_llm_autonomous_chemical_research",
+        "bai2022_platform_to_knowledge_graph"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.92,
+      "source_file": "Literature Wiki/Maps/Map - Self-Driving Lab Stack.md"
+    },
+    {
+      "id": "sdl_writing_guide_cluster",
+      "label": "SDL Writing Style and Guide Documents",
+      "nodes": [
+        "sdl_writing_patterns_concept_bottleneck",
+        "sdl_writing_patterns_abstract_structure",
+        "sdl_writing_patterns_claim_levels",
+        "sdl_writing_patterns_quantification",
+        "sdl_writing_patterns_figure_order",
+        "sdl_writing_patterns_style_rules",
+        "labsense_style_deslop_rules",
+        "labsense_style_voice",
+        "labsense_style_sentence_patterns",
+        "digital_discovery_guide_core_principle",
+        "digital_discovery_guide_five_impact_moves",
+        "digital_discovery_guide_topic_scorecard",
+        "vibecount_style_no_filler",
+        "vibecount_style_intro_structure"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md"
+    },
+    {
+      "id": "sdl_key_concepts_cluster",
+      "label": "Core SDL Conceptual Building Blocks",
+      "nodes": [
+        "concept_sdl_closed_loop",
+        "concept_bayesian_optimization",
+        "concept_knowledge_graph_lab_automation",
+        "concept_llm_agent_chemistry",
+        "concept_mobile_robot_automation",
+        "concept_active_learning_experiment_selection",
+        "concept_sdl_data_interoperability"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

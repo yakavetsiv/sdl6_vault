@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "",
+      "query": "sdl",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5526240
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.20037694620893787,
-  "close": false
+  "scale": 0.24129940293628657,
+  "close": true
 }

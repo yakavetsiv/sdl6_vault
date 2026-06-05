@@ -1,0 +1,377 @@
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py
+Literature Wiki/Maps/Map - AI for Bioimage Analysis.md
+Literature Wiki/Maps/Map - Digital Discovery Tutorial Papers.md
+Literature Wiki/Maps/Map - Nanomedicine SDL.md
+Literature Wiki/Maps/Map - Self-Driving Labs and Orchestration.md
+Literature Wiki/Maps/Map - Materials and Therapeutics.md
+Literature Wiki/Maps/Map - Self-Driving Lab Stack.md
+Literature Wiki/Maps/Map - Biofabrication and Cell Systems.md
+Literature Wiki/Writing Guides/SDL High-Impact Writing Patterns.md
+Literature Wiki/Writing Guides/LabSense Paper Writing Style Profile.md
+Literature Wiki/Writing Guides/Digital Discovery Tutorial Paper Writing Guide.md
+Literature Wiki/Papers/Paper - Gisperg Bayesian Optimization in Bioprocess Engineering Where Do We Stand Today.md
+Literature Wiki/Papers/Paper - hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-c.md
+Literature Wiki/Papers/Paper - Wenckstern,-Johann-2025-01-10-AI-powered-virtual-tissues-from-spatial-proteomics-f.md
+Literature Wiki/Papers/Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam.md
+Literature Wiki/Papers/Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation (2).md
+Literature Wiki/Papers/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md
+Literature Wiki/Papers/Paper - Self driving laboratories in Japan.md
+Literature Wiki/Papers/Paper - AI Agent Safety.md
+Literature Wiki/Papers/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md
+Literature Wiki/Papers/Paper - Automatic Cell Counting With YOLOv5 A Fluorescence.md
+Literature Wiki/Papers/Paper - TakaHuman Robotic Automation Advisor JD 8.md
+Literature Wiki/Papers/Paper - An artificial intelligence enabled chemical synthesis robot for exploration and op.md
+Literature Wiki/Papers/Paper - El Agente An autonomous agent for quantum chemistry.md
+Literature Wiki/Papers/Paper - Feb 16 CellSAM A Foundation Model for Cell Segmentation.md
+Literature Wiki/Papers/Paper - Leung,-Chak-Ming-2022-05-12-A-guide-to-the-organ-on-a-chip.md
+Literature Wiki/Papers/Paper - Robotics Engineering Assistant Job Post.md
+Literature Wiki/Papers/Paper - 7 3 Robust cardiomyocyte differentiation from human pluripotent stem cells via tem.md
+Literature Wiki/Papers/Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation.md
+Literature Wiki/Papers/Paper - How to build the virtual cell with artificial intelligence Priorities and opportun.md
+Literature Wiki/Papers/Paper - el agente.md
+Literature Wiki/Papers/Paper - SI BhiCC Drug Testing ACS AMI Final.md
+Literature Wiki/Papers/Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam (2).md
+Literature Wiki/Papers/Paper - SharfPauker Scaling Up Synthetic Cell Production Using Robotics and Machine Learni.md
+Literature Wiki/Papers/Paper - Huang-K-06-02-2025-Biomni--A-General-Purpose-Biomedical-AI-Agent---PubMed.md
+Literature Wiki/Papers/Paper - Gonzales,Woods-Digital.Image.Processing.4th.Edition.md
+Literature Wiki/Papers/Paper - Empowering biomedical discovery with AI agents.md
+Literature Wiki/Papers/Paper - Abolhasani,-Milad-2023-01-30-The-rise-of-self-driving-labs-in-chemical-and-materia.md
+Literature Wiki/Papers/Paper - Nov A human kidney and liver organoid based multi organ on a chip model to study t.md
+Literature Wiki/Papers/Paper - Undermind - Comparative analyses of organoid and organ-on-chip biofabrication work.md
+Literature Wiki/Papers/Paper - Optimizing Patient-Specific Multidrug Regimens Cancer Therapy Feb 28 IY.md
+Literature Wiki/Papers/Paper - Wu,-Tianyi-2025-02-08-Self-driving-lab-for-the-photochemical-synthesis-of-plasmoni.md
+Literature Wiki/Papers/Paper - 933a2911-7176-451f-8c84-304ee18e03ba ML Image Analysis.md
+Literature Wiki/Papers/Paper - Zieger Towards Automation in 3D Cell Culture Selective and Gentle HighThroughput.md
+Literature Wiki/Concepts/Concept - Lab Automation.md
+Literature Wiki/Concepts/Concept - Reference and Textbook.md
+Literature Wiki/Concepts/Concept - Organoids.md
+Literature Wiki/Concepts/Concept - Biosensors and Diagnostics.md
+Literature Wiki/Concepts/Concept - iPSC and Stem Cells.md
+Literature Wiki/Concepts/Concept - Self-Driving Labs.md
+Literature Wiki/Concepts/Concept - AI Safety and Governance.md
+Literature Wiki/Concepts/Concept - Microfluidics.md
+Literature Wiki/Concepts/Concept - Foundation Models.md
+Literature Wiki/Concepts/Concept - Optimization and Bayesian Search.md
+Literature Wiki/Concepts/Concept - Biofabrication.md
+Literature Wiki/Concepts/Concept - Digital Twins and Modeling.md
+Literature Wiki/Concepts/Concept - Organ-on-Chip.md
+Literature Wiki/Concepts/Concept - Computer Vision for Biology.md
+Literature Wiki/Concepts/Concept - Biomedical AI Agents.md
+Literature Wiki/Concepts/Concept - Cancer and Therapeutics.md
+Literature Wiki/Concepts/Concept - Materials Discovery.md
+Literature Wiki/_data/markitdown/Paper - DD Tutorial - niroomand2024_energy_landscapes_ml.md
+Literature Wiki/_data/markitdown/Paper - s44222-024-00207-z.md
+Literature Wiki/_data/markitdown/Paper - Wenckstern,-Johann-2025-01-10-AI-powered-virtual-tissues-from-spatial-proteomics-f.md
+Literature Wiki/_data/markitdown/Paper - 80ad2aab-cab1-429f-a9c8-ce701b44784d.md
+Literature Wiki/_data/markitdown/Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam -2-.md
+Literature Wiki/_data/markitdown/Paper - Kane-KIW-02-11-2019-Automated-microfluidic-cell-culture-of-stem-cell-derived-dopam.md
+Literature Wiki/_data/markitdown/Paper - s41746-025-01836-3.md
+Literature Wiki/_data/markitdown/Paper - s41598-025-17876-4.md
+Literature Wiki/_data/markitdown/Paper - Undermind - Software wrappers and intermediate device OSs for Pythonic lab automat.md
+Literature Wiki/_data/markitdown/Paper - Bridging silicon and carbon worlds.md
+Literature Wiki/_data/markitdown/Paper - mirror coloration.md
+Literature Wiki/_data/markitdown/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md
+Literature Wiki/_data/markitdown/Paper - s41392-024-01856-7.md
+Literature Wiki/_data/markitdown/Paper - Self driving laboratories in Japan.md
+Literature Wiki/_data/markitdown/Paper - s44386-024-00004-z.md
+Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md
+Literature Wiki/_data/markitdown/Paper - s41598-025-89069-y.md
+Literature Wiki/_data/markitdown/Paper - TakaHuman Robotic Automation Advisor JD 8.md
+Literature Wiki/_data/markitdown/Paper - An artificial intelligence enabled chemical synthesis robot for exploration and op.md
+Literature Wiki/_data/markitdown/Paper - 2501.09223v2.md
+Literature Wiki/_data/markitdown/Paper - 70.md
+Literature Wiki/_data/markitdown/Paper - nmeth.3507.md
+Literature Wiki/_data/markitdown/Paper - 2026P4.md
+Literature Wiki/_data/markitdown/Paper - s41587-024-02490-y.md
+Literature Wiki/_data/markitdown/Paper - DD Tutorial - gaidimas2026_computer_vision_materials_synthesis.md
+Literature Wiki/_data/markitdown/Paper - luo-et-al-2024-review-of-ionic-conductivity-properties-of-nasicon-type-inorganic-s.md
+Literature Wiki/_data/markitdown/Paper - s43588-025-00885-8.md
+Literature Wiki/_data/markitdown/Paper - s41467-021-22518-0 1.md
+Literature Wiki/_data/markitdown/Paper - Lyu Crystal Structure Engineering Enables Enhanced Ionic Conductivity in LAGP Soli.md
+Literature Wiki/_data/markitdown/Paper - s41573-020-0090-8.md
+Literature Wiki/_data/markitdown/Paper - 2026P5.md
+Literature Wiki/_data/markitdown/Paper - sciadv.adt1851.md
+Literature Wiki/_data/markitdown/Paper - elife-77007-v1.md
+Literature Wiki/_data/markitdown/Paper - f0ac5fa4.md
+Literature Wiki/_data/markitdown/Paper - Robotics Engineering Assistant Job Post.md
+Literature Wiki/_data/markitdown/Paper - 7 3 Robust cardiomyocyte differentiation from human pluripotent stem cells via tem.md
+Literature Wiki/_data/markitdown/Paper - DD Tutorial - maroulis2026_self_driving_liquid_handling_lab.md
+Literature Wiki/_data/markitdown/Paper - 2023-09-01 UofT Lash Miller - Issued for 100 CD - Laboratories 1 1.md
+Literature Wiki/_data/markitdown/Paper - s41551-022-00882-6.md
+Literature Wiki/_data/markitdown/Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation.md
+Literature Wiki/_data/markitdown/Paper - fmats-10-1337485.md
+Literature Wiki/_data/markitdown/Paper - 56.md
+Literature Wiki/_data/markitdown/Paper - 2026P6.md
+Literature Wiki/_data/markitdown/Paper - s41598-017-01013-x.md
+Literature Wiki/_data/markitdown/Paper - d5nj00172b.md
+Literature Wiki/_data/markitdown/Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation -2-.md
+Literature Wiki/_data/markitdown/Paper - biosensors-14-00401-v2.md
+Literature Wiki/_data/markitdown/Paper - s41467-025-56818-6.md
+Literature Wiki/_data/markitdown/Paper - 27079184.md
+Literature Wiki/_data/markitdown/Paper - el agente.md
+Literature Wiki/_data/markitdown/Paper - 840d371c-c2d8-4005-855c-1ae125aef259.md
+Literature Wiki/_data/markitdown/Paper - SI BhiCC Drug Testing ACS AMI Final.md
+Literature Wiki/_data/markitdown/Paper - adhm.202504669.md
+Literature Wiki/_data/markitdown/Paper - fig 2 barplot.md
+Literature Wiki/_data/markitdown/Paper - 27 392.md
+Literature Wiki/_data/markitdown/Paper - 2026P3.md
+Literature Wiki/_data/markitdown/Paper - SharfPauker Scaling Up Synthetic Cell Production Using Robotics and Machine Learni.md
+Literature Wiki/_data/markitdown/Paper - 1-s2.0-S259025712200030X-main.md
+Literature Wiki/_data/markitdown/Paper - 1-s2.0-S1385894725029535-main.md
+Literature Wiki/_data/markitdown/Paper - 2025 07 12 Carpenter AACR.md
+Literature Wiki/_data/markitdown/Paper - gic aisci faqs.md
+Literature Wiki/_data/markitdown/Paper - nn1c11421 si 001.md
+Literature Wiki/_data/markitdown/Paper - 2026P7.md
+Literature Wiki/_data/markitdown/Paper - Gonzales,Woods-Digital.Image.Processing.4th.Edition.md
+Literature Wiki/_data/markitdown/Paper - 1010 001 dec2025 iy.md
+Literature Wiki/_data/markitdown/Paper - 68.md
+Literature Wiki/_data/markitdown/Paper - d5lc00311c.md
+Literature Wiki/_data/markitdown/Paper - Abolhasani,-Milad-2023-01-30-The-rise-of-self-driving-labs-in-chemical-and-materia.md
+Literature Wiki/_data/markitdown/Paper - fig8a.md
+Literature Wiki/_data/markitdown/Paper - 20bf06fe.md
+Literature Wiki/_data/markitdown/Paper - 2026P8.md
+Literature Wiki/_data/markitdown/Paper - fig8.md
+Literature Wiki/_data/markitdown/Paper - 1-s2.0-S0272884224059509-main.md
+Literature Wiki/_data/markitdown/Paper - 267.md
+Literature Wiki/_data/markitdown/Paper - Undermind - Comparative analyses of organoid and organ-on-chip biofabrication work.md
+Literature Wiki/_data/markitdown/Paper - 2026P9.md
+Literature Wiki/_data/markitdown/Paper - Optimizing Patient-Specific Multidrug Regimens Cancer Therapy Feb 28 IY.md
+Literature Wiki/_data/markitdown/Paper - 2023-09-01 UofT Lash Miller - Issued for 100 CD - Laboratories 1.md
+Literature Wiki/_data/markitdown/Paper - DD Tutorial - lo2024_frugal_twin.md
+Literature Wiki/_data/markitdown/Paper - Wu,-Tianyi-2025-02-08-Self-driving-lab-for-the-photochemical-synthesis-of-plasmoni.md
+Literature Wiki/_data/markitdown/Paper - 933a2911-7176-451f-8c84-304ee18e03ba ML Image Analysis.md
+Literature Wiki/_data/markitdown/Paper - Zieger Towards Automation in 3D Cell Culture Selective and Gentle HighThroughput.md
+Literature Wiki/_data/markitdown/Paper - 184031 MEen.md
+Literature Wiki/_data/markitdown/Paper - s41551-019-0497-x.md
+Literature Wiki/_data/markitdown/Paper - s41467-021-22518-0.md
+SDL6 - HOM/SDL_access_facility_overview.md
+SDL6 - HOM/OKR_SDL6.md
+SDL6 - HOM/Grants/CFI 2024/CFI_pre-proposal_SDL6.md
+SDL6 - HOM/Grants/CFI 2024/CFI_Brandon_equipment_notes.md
+SDL6 - HOM/Grants/CFI 2024/README.md
+SDL6 - HOM/Grants/CFI 2024/SDL_HOM_research_objectives.md
+SDL6 - HOM/Grants/CFI 2024/CFI_HOM_SDL_Equipment_Justification.md
+SDL6 - HOM/Grants/CFI 2024/PotentialCFI_Equipment_May21.md
+SDL6 - HOM/Reproducibility ML Study/ML Cell Counting Reproducibility Study.md
+Projects/README.md
+Projects/Lab Sensor/README.md
+Projects/UofT EHS Biosafety Benchmark/UofT EHS Biosafety Benchmark.md
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/EHS_BIOSAFETY_EVAL_README.md
+Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/EHS_WIKI_GRAPH_AUDIT.md
+Projects/LH_BO_Preprint/README.md
+Projects/Grant Applications/Grant applications table.md
+Projects/graphify-out/converted/grant_table_b0b27ea7.md
+Projects/VibeCount/README.md
+AI Resources/vault-dump-skill.md
+AI Resources/claude-skills.md
+AI Resources/Free Claude Code.md
+AI Resources/Skill Curator.md
+AI Resources/Auto Research Agent.md
+AI Resources/Unreviewed Links.md
+AI Resources/Diagram Generation.md
+AI Resources/Claude Training Course.md
+AI Resources/Kami Design.md
+AI Resources/Open AI Scientists.md
+AI Resources/On Device LLM.md
+AI Resources/Agent Memory.md
+AI Resources/Live UI Generation.md
+AI Resources/Agent Charts.md
+AI Resources/Deep Research Tools.md
+AI Resources/Map - AI Tools and Agents (May 2026).md
+AI Resources/Hyperspace Pods.md
+AI Resources/AC-image-style-guide.md
+AI Resources/Agent Filesystem.md
+AI Resources/AI Scientist Skills.md
+AI Resources/Website Builder AI.md
+AI Resources/Agent From Scratch.md
+AI Resources/Obsidian AI Integration.md
+AI Resources/Claude Code Memory Systems.md
+AI Resources/Data Scientist Agent.md
+AI Resources/Agent Architecture.md
+AI Resources/Skills/SDL-3d-illustrations-skill.md
+AI Resources/Skills/deslop-writing-style.md
+AI Resources/Skills/research-plots-skill.md
+AI Resources/Skills/AC-presentation-skill.md
+AI Resources/Skills/dark-futuristic-diagram-skill.md
+AI Resources/Skills/SDL-schematics-skill.md
+AI Resources/Skills/ehs-biosafety-benchmark-workflow.md
+GitHub/uostore.md
+GitHub/image_analysis_uos.md
+GitHub/claude-obsidian.md
+GitHub/LH_BO_Preprint.md
+GitHub/VibeCount.md
+GitHub/obsidian-skills.md
+GitHub/reproducibility.md
+Literature Wiki/Literature Wiki Home.md
+Literature Wiki/Writing Guides/VibeCount Manuscript Writing Style Profile.md
+Literature Wiki/Papers/Paper - s13206-023-00114-2.md
+Literature Wiki/Papers/Paper - DD Tutorial - niroomand2024_energy_landscapes_ml.md
+Literature Wiki/Papers/Paper - SDL - bai2024_dynamic_kg_distributed_sdl.md
+Literature Wiki/Papers/Paper - s44222-024-00207-z.md
+Literature Wiki/Papers/Paper - jamasurgery gowrishankar 2025 rv 250005 1749660686.74699-2.md
+Literature Wiki/Papers/Paper - 80ad2aab-cab1-429f-a9c8-ce701b44784d.md
+Literature Wiki/Papers/Paper - s41573-022-00615-z.md
+Literature Wiki/Papers/Paper - s41746-025-01836-3.md
+Literature Wiki/Papers/Paper - s41598-025-17876-4.md
+Literature Wiki/Papers/Paper - Undermind - Software wrappers and intermediate device OSs for Pythonic lab automat.md
+Literature Wiki/Papers/Paper - Bridging silicon and carbon worlds.md
+Literature Wiki/Papers/Paper - mirror coloration.md
+Literature Wiki/Papers/Paper - Digital twin enhanced three organ m.md
+Literature Wiki/Papers/Paper - 1-s2.0-S0272884222036471-main.md
+Literature Wiki/Papers/Paper - SDL - rooney2022_sdl_adhesive_materials.md
+Literature Wiki/Papers/Paper - 10.48550 arxiv.2501.06039.md
+Literature Wiki/Papers/Paper - 2025.02.14.638383v1.full.md
+Literature Wiki/Papers/Paper - DD Tutorial - lo2023_selfies_library.md
+Literature Wiki/Papers/Paper - Heliyon.md
+Literature Wiki/Papers/Paper - s41392-024-01856-7.md
+Literature Wiki/Papers/Paper - s11671-021-03553-8.md
+Literature Wiki/Papers/Paper - s44386-024-00004-z.md
+Literature Wiki/Papers/Paper - 2025.04.28.651001v1.full.md
+Literature Wiki/Papers/Paper - 2025.02.14.638383v1.full 1.md
+Literature Wiki/Papers/Paper - s41598-025-89069-y.md
+Literature Wiki/Papers/Paper - SDL - szymanski2021_autonomous_inorganic_design.md
+Literature Wiki/Papers/Paper - 2501.09223v2.md
+Literature Wiki/Papers/Paper - 70.md
+Literature Wiki/Papers/Paper - 2408.10527v1.md
+Literature Wiki/Papers/Paper - 2020 iPSC Advances WadkinIntro Math Modelling.md
+Literature Wiki/Papers/Paper - nmeth.3507.md
+Literature Wiki/Papers/Paper - 2026P4.md
+Literature Wiki/Papers/Paper - s41587-024-02490-y.md
+Literature Wiki/Papers/Paper - DD Tutorial - gaidimas2026_computer_vision_materials_synthesis.md
+Literature Wiki/Papers/Paper - luo-et-al-2024-review-of-ionic-conductivity-properties-of-nasicon-type-inorganic-s.md
+Literature Wiki/Papers/Paper - medip,1388-5211-1-CE.md
+Literature Wiki/Papers/Paper - SDL - roch2020_chemos.md
+Literature Wiki/Papers/Paper - s43588-025-00885-8.md
+Literature Wiki/Papers/Paper - SDL - stein2019_automated_autonomous_workflows.md
+Literature Wiki/Papers/Paper - s41467-021-22518-0 1.md
+Literature Wiki/Papers/Paper - Lyu Crystal Structure Engineering Enables Enhanced Ionic Conductivity in LAGP Soli.md
+Literature Wiki/Papers/Paper - s41573-020-0090-8.md
+Literature Wiki/Papers/Paper - d5dd00336a.md
+Literature Wiki/Papers/Paper - 2026P5.md
+Literature Wiki/Papers/Paper - 2603.15553v1.md
+Literature Wiki/Papers/Paper - s12951-024-02625-y.md
+Literature Wiki/Papers/Paper - sciadv.adt1851.md
+Literature Wiki/Papers/Paper - SDL - szymanski2023_autonomous_inorganic_materials.md
+Literature Wiki/Papers/Paper - elife-77007-v1.md
+Literature Wiki/Papers/Paper - f0ac5fa4.md
+Literature Wiki/Papers/Paper - DD Tutorial - maroulis2026_self_driving_liquid_handling_lab.md
+Literature Wiki/Papers/Paper - 2023-09-01 UofT Lash Miller - Issued for 100 CD - Laboratories 1 1.md
+Literature Wiki/Papers/Paper - d3dd00115f.md
+Literature Wiki/Papers/Paper - s41551-022-00882-6.md
+Literature Wiki/Papers/Paper - fmats-10-1337485.md
+Literature Wiki/Papers/Paper - 56.md
+Literature Wiki/Papers/Paper - 2026P6.md
+Literature Wiki/Papers/Paper - mmc2.md
+Literature Wiki/Papers/Paper - s41598-017-01013-x.md
+Literature Wiki/Papers/Paper - d5nj00172b.md
+Literature Wiki/Papers/Paper - journal.pone.0291625.md
+Literature Wiki/Papers/Paper - yin2019.md
+Literature Wiki/Papers/Paper - biosensors-14-00401-v2.md
+Literature Wiki/Papers/Paper - s41467-025-56818-6.md
+Literature Wiki/Papers/Paper - SDL - bai2022_platform_to_knowledge_graph.md
+Literature Wiki/Papers/Paper - 27079184.md
+Literature Wiki/Papers/Paper - Liu 2026 Biofabrication 18 013001.md
+Literature Wiki/Papers/Paper - SDL - soldatov2021_sdl_functional_materials.md
+Literature Wiki/Papers/Paper - 840d371c-c2d8-4005-855c-1ae125aef259.md
+Literature Wiki/Papers/Paper - adhm.202504669.md
+Literature Wiki/Papers/Paper - 2404.10242v1.md
+Literature Wiki/Papers/Paper - fig 2 barplot.md
+Literature Wiki/Papers/Paper - 27 392.md
+Literature Wiki/Papers/Paper - SDL - boiko2023_llm_autonomous_chemical_research.md
+Literature Wiki/Papers/Paper - 2026P3.md
+Literature Wiki/Papers/Paper - Digilocs a leap forward in predicti.md
+Literature Wiki/Papers/Paper - SDL - abolhasani2023_rise_sdl.md
+Literature Wiki/Papers/Paper - 1-s2.0-S259025712200030X-main.md
+Literature Wiki/Papers/Paper - 1-s2.0-S1385894725029535-main.md
+Literature Wiki/Papers/Paper - 2025 07 12 Carpenter AACR.md
+Literature Wiki/Papers/Paper - gic aisci faqs.md
+Literature Wiki/Papers/Paper - SDL - macleod2020_thin_film_sdl.md
+Literature Wiki/Papers/Paper - nn1c11421 si 001.md
+Literature Wiki/Papers/Paper - 2026P7.md
+Literature Wiki/Papers/Paper - SDL - coley2019_autonomous_discovery_outlook.md
+Literature Wiki/Papers/Paper - Alexandra-Dunnum-VandeLoo-Sep-8,-2025-SAMCell--Generalized-label-free-biological-c.md
+Literature Wiki/Papers/Paper - 2111.06377v3.md
+Literature Wiki/Papers/Paper - 2309.07778v5.md
+Literature Wiki/Papers/Paper - 1010 001 dec2025 iy.md
+Literature Wiki/Papers/Paper - 68.md
+Literature Wiki/Papers/Paper - d5lc00311c.md
+Literature Wiki/Papers/Paper - fig8a.md
+Literature Wiki/Papers/Paper - 20bf06fe.md
+Literature Wiki/Papers/Paper - 2026P8.md
+Literature Wiki/Papers/Paper - fig8.md
+Literature Wiki/Papers/Paper - 1-s2.0-S0272884224059509-main.md
+Literature Wiki/Papers/Paper - 267.md
+Literature Wiki/Papers/Paper - 2304.07193v2.md
+Literature Wiki/Papers/Paper - 2026P9.md
+Literature Wiki/Papers/Paper - 2603.15553v1 1.md
+Literature Wiki/Papers/Paper - jamasurgery gowrishankar 2025 rv 250005 1749660686.74699.md
+Literature Wiki/Papers/Paper - s11912-020-00942-7.md
+Literature Wiki/Papers/Paper - 2023-09-01 UofT Lash Miller - Issued for 100 CD - Laboratories 1.md
+Literature Wiki/Papers/Paper - SDL - burger2020_mobile_robotic_chemist.md
+Literature Wiki/Papers/Paper - DD Tutorial - lo2024_frugal_twin.md
+Literature Wiki/Papers/Paper - 10547921.md
+Literature Wiki/Papers/Paper - 184031 MEen.md
+Literature Wiki/Papers/Paper - s41551-019-0497-x.md
+Literature Wiki/Papers/Paper - s41467-021-22518-0.md
+Literature Wiki/Papers/Paper - Li,-Songhao-2025-09-24-A-co-evolving-agentic-AI-system-for-medical-imaging-analysi.md
+Literature Wiki/Concepts/Concept - Research Papers.md
+Literature Wiki/_data/markitdown/Paper - hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-c.md
+Literature Wiki/_data/markitdown/Paper - jamasurgery gowrishankar 2025 rv 250005 1749660686.74699-2.md
+Literature Wiki/_data/markitdown/Paper - Digital twin enhanced three organ m.md
+Literature Wiki/_data/markitdown/Paper - 1-s2.0-S0272884222036471-main.md
+Literature Wiki/_data/markitdown/Paper - 10.48550 arxiv.2501.06039.md
+Literature Wiki/_data/markitdown/Paper - DD Tutorial - lo2023_selfies_library.md
+Literature Wiki/_data/markitdown/Paper - Heliyon.md
+Literature Wiki/_data/markitdown/Paper - s11671-021-03553-8.md
+Literature Wiki/_data/markitdown/Paper - 2025.04.28.651001v1.full.md
+Literature Wiki/_data/markitdown/Paper - AI Agent Safety.md
+Literature Wiki/_data/markitdown/Paper - 2408.10527v1.md
+Literature Wiki/_data/markitdown/Paper - 2020 iPSC Advances WadkinIntro Math Modelling.md
+Literature Wiki/_data/markitdown/Paper - d5dd00336a.md
+Literature Wiki/_data/markitdown/Paper - Leung,-Chak-Ming-2022-05-12-A-guide-to-the-organ-on-a-chip.md
+Literature Wiki/_data/markitdown/Paper - d3dd00115f.md
+Literature Wiki/_data/markitdown/Paper - yin2019.md
+Literature Wiki/_data/markitdown/Paper - Liu 2026 Biofabrication 18 013001.md
+Literature Wiki/_data/markitdown/Paper - Digilocs a leap forward in predicti.md
+Literature Wiki/_data/markitdown/Paper - jamasurgery gowrishankar 2025 rv 250005 1749660686.74699.md
+Literature Wiki/_data/markitdown/Paper - s11912-020-00942-7.md
+Literature Wiki/_attachments/Digital Discovery/lo2024_frugal_twin.pdf
+Literature Wiki/_attachments/Digital Discovery/gaidimas2026_computer_vision_materials_synthesis.pdf
+Literature Wiki/_attachments/Digital Discovery/maroulis2026_self_driving_liquid_handling_lab.pdf
+Literature Wiki/_attachments/Digital Discovery/lo2023_selfies_library.pdf
+Literature Wiki/_attachments/Digital Discovery/niroomand2024_energy_landscapes_ml.pdf
+Literature Wiki/_attachments/Self-Driving Labs/burger2020_mobile_robotic_chemist.pdf
+Literature Wiki/_attachments/Self-Driving Labs/coley2019_autonomous_discovery_chemical_sciences_outlook.pdf
+Literature Wiki/_attachments/Self-Driving Labs/rooney2022_sdl_adhesive_materials.pdf
+Literature Wiki/_attachments/Self-Driving Labs/macleod2020_thin_film_sdl.pdf
+Literature Wiki/_attachments/Self-Driving Labs/boiko2023_llm_autonomous_chemical_research.pdf
+Literature Wiki/_attachments/Self-Driving Labs/stein2019_automated_autonomous_workflows.pdf
+Literature Wiki/_attachments/Self-Driving Labs/szymanski2023_autonomous_inorganic_materials.pdf
+Literature Wiki/_attachments/Self-Driving Labs/roch2020_chemos_orchestration_autonomous_discovery.pdf
+Literature Wiki/_attachments/Self-Driving Labs/szymanski2021_autonomous_design_synthesis_inorganic_materials.pdf
+Literature Wiki/_attachments/Self-Driving Labs/bai2022_platform_to_knowledge_graph.pdf
+Literature Wiki/_attachments/Self-Driving Labs/bai2024_dynamic_knowledge_graph_distributed_sdl.pdf
+Literature Wiki/_attachments/Self-Driving Labs/abolhasani2023_rise_self_driving_labs.pdf
+Literature Wiki/_attachments/Self-Driving Labs/soldatov2021_sdl_functional_materials.pdf
+SDL6 - HOM/Reproducibility ML Study/_attachments/p7.pdf
+GitHub/lab_sensor.md
+SDL6 - HOM/Reproducibility ML Study/_attachments/experience_livecount_benefit.png
+SDL6 - HOM/Reproducibility ML Study/_attachments/participant_time_statistics.png
+SDL6 - HOM/Reproducibility ML Study/_attachments/participant_speed_vs_viability.png
+SDL6 - HOM/Reproducibility ML Study/_attachments/p7.png
+SDL6 - HOM/Reproducibility ML Study/_attachments/participant_count_agreement.png
+SDL6 - HOM/Reproducibility ML Study/_attachments/all_tasks_hypotheses.png
+Projects/Grant Applications/_attachments/grant_table_preview.png

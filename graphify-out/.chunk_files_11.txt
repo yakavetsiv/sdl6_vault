@@ -1,0 +1,22 @@
+Literature Wiki/_data/markitdown/Paper - mirror coloration.md
+Literature Wiki/_data/markitdown/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md
+Literature Wiki/_data/markitdown/Paper - s41392-024-01856-7.md
+Literature Wiki/_data/markitdown/Paper - Self driving laboratories in Japan.md
+Literature Wiki/_data/markitdown/Paper - s44386-024-00004-z.md
+Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md
+Literature Wiki/_data/markitdown/Paper - s41598-025-89069-y.md
+Literature Wiki/_data/markitdown/Paper - TakaHuman Robotic Automation Advisor JD 8.md
+Literature Wiki/_data/markitdown/Paper - An artificial intelligence enabled chemical synthesis robot for exploration and op.md
+Literature Wiki/_data/markitdown/Paper - 2501.09223v2.md
+Literature Wiki/_data/markitdown/Paper - 70.md
+Literature Wiki/_data/markitdown/Paper - nmeth.3507.md
+Literature Wiki/_data/markitdown/Paper - 2026P4.md
+Literature Wiki/_data/markitdown/Paper - s41587-024-02490-y.md
+Literature Wiki/_data/markitdown/Paper - DD Tutorial - gaidimas2026_computer_vision_materials_synthesis.md
+Literature Wiki/_data/markitdown/Paper - luo-et-al-2024-review-of-ionic-conductivity-properties-of-nasicon-type-inorganic-s.md
+Literature Wiki/_data/markitdown/Paper - s43588-025-00885-8.md
+Literature Wiki/_data/markitdown/Paper - s41467-021-22518-0 1.md
+Literature Wiki/_data/markitdown/Paper - Lyu Crystal Structure Engineering Enables Enhanced Ionic Conductivity in LAGP Soli.md
+Literature Wiki/_data/markitdown/Paper - s41573-020-0090-8.md
+Literature Wiki/_data/markitdown/Paper - 2026P5.md
+Literature Wiki/_data/markitdown/Paper - sciadv.adt1851.md

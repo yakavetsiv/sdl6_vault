@@ -1,0 +1,3278 @@
+{
+  "nodes": [
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "label": "run_gpt55_ehs_eval.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "run_gpt55_ehs_eval_tokens",
+      "label": "tokens()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L19"
+    },
+    {
+      "id": "run_gpt55_ehs_eval_heuristic_score",
+      "label": "heuristic_score()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L29"
+    },
+    {
+      "id": "run_gpt55_ehs_eval_classify",
+      "label": "classify()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L40"
+    },
+    {
+      "id": "run_gpt55_ehs_eval_ask",
+      "label": "ask()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L48"
+    },
+    {
+      "id": "run_gpt55_ehs_eval_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L70"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_add_canadian_biosafety_handbook_reference_py",
+      "label": "add_canadian_biosafety_handbook_reference.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "add_canadian_biosafety_handbook_reference_replace_wikilink_targets",
+      "label": "replace_wikilink_targets()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L102"
+    },
+    {
+      "id": "add_canadian_biosafety_handbook_reference_append_unique_link",
+      "label": "append_unique_link()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L115"
+    },
+    {
+      "id": "add_canadian_biosafety_handbook_reference_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L134"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "label": "build_ehs_biosafety_qa_dataset.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_evidence",
+      "label": "Evidence",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L121"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_stable_id",
+      "label": "stable_id()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L130"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_clean_text",
+      "label": "clean_text()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L134"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_frontmatter_value",
+      "label": "frontmatter_value()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L144"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_title_from_text",
+      "label": "title_from_text()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L149"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_split_snippets",
+      "label": "split_snippets()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L156"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_terms_in",
+      "label": "terms_in()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L216"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_anchor_from_answer",
+      "label": "anchor_from_answer()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L221"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "label": "collect_evidence()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L231"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_make_questions",
+      "label": "make_questions()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L266"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_diversify",
+      "label": "diversify()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L326"
+    },
+    {
+      "id": "build_ehs_biosafety_qa_dataset_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L347"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "label": "iterate_ehs_biosafety_benchmark.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "iterate_ehs_biosafety_benchmark_run",
+      "label": "run()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L11"
+    },
+    {
+      "id": "iterate_ehs_biosafety_benchmark_count_jsonl",
+      "label": "count_jsonl()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L16"
+    },
+    {
+      "id": "iterate_ehs_biosafety_benchmark_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L22"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_clean_ehs_root_indexes_py",
+      "label": "clean_ehs_root_indexes.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "clean_ehs_root_indexes_render_home",
+      "label": "render_home()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L33"
+    },
+    {
+      "id": "clean_ehs_root_indexes_render_pdf_index",
+      "label": "render_pdf_index()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L109"
+    },
+    {
+      "id": "clean_ehs_root_indexes_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L126"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "label": "download_canadian_biosafety_standards_guidelines.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "label": "CanadaPageParser",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L44"
+    },
+    {
+      "id": "htmlparser",
+      "label": "HTMLParser",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": ""
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_canadapageparser_init",
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L45"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_starttag",
+      "label": ".handle_starttag()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L54"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_endtag",
+      "label": ".handle_endtag()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L72"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_data",
+      "label": ".handle_data()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L89"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_canadapageparser_flush",
+      "label": ".flush()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L93"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_fetch",
+      "label": "fetch()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L104"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_parse_blocks",
+      "label": "parse_blocks()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L119"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_link_markdown",
+      "label": "link_markdown()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L126"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_render_note",
+      "label": "render_note()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L135"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_append_unique_link",
+      "label": "append_unique_link()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L223"
+    },
+    {
+      "id": "download_canadian_biosafety_standards_guidelines_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L241"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_repair_literature_note_spacing_py",
+      "label": "repair_literature_note_spacing.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "repair_literature_note_spacing_repair_text",
+      "label": "repair_text()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L12"
+    },
+    {
+      "id": "repair_literature_note_spacing_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L18"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "label": "refill_literature_reading_notes_from_markitdown.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "refill_literature_reading_notes_from_markitdown_title_from_note",
+      "label": "title_from_note()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L29"
+    },
+    {
+      "id": "refill_literature_reading_notes_from_markitdown_load_report",
+      "label": "load_report()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L34"
+    },
+    {
+      "id": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "label": "extract_from_markdown()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L41"
+    },
+    {
+      "id": "refill_literature_reading_notes_from_markitdown_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L54"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "label": "convert_literature_pdfs_markitdown.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "convert_literature_pdfs_markitdown_frontmatter_value",
+      "label": "frontmatter_value()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L19"
+    },
+    {
+      "id": "convert_literature_pdfs_markitdown_safe_name",
+      "label": "safe_name()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L24"
+    },
+    {
+      "id": "convert_literature_pdfs_markitdown_paper_notes",
+      "label": "paper_notes()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L30"
+    },
+    {
+      "id": "convert_literature_pdfs_markitdown_selected_notes",
+      "label": "selected_notes()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L34"
+    },
+    {
+      "id": "convert_literature_pdfs_markitdown_convert_one",
+      "label": "convert_one()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L47"
+    },
+    {
+      "id": "convert_literature_pdfs_markitdown_write_report",
+      "label": "write_report()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L93"
+    },
+    {
+      "id": "convert_literature_pdfs_markitdown_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L107"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py",
+      "label": "dedupe_ehs_wiki_pages.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "dedupe_ehs_wiki_pages_replace_wikilink_targets",
+      "label": "replace_wikilink_targets()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L39"
+    },
+    {
+      "id": "dedupe_ehs_wiki_pages_update_heading",
+      "label": "update_heading()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L52"
+    },
+    {
+      "id": "dedupe_ehs_wiki_pages_duplicate_groups",
+      "label": "duplicate_groups()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L60"
+    },
+    {
+      "id": "dedupe_ehs_wiki_pages_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L69"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "label": "refill_ehs_biosafety_questions.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "refill_ehs_biosafety_questions_load_jsonl",
+      "label": "load_jsonl()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L61"
+    },
+    {
+      "id": "refill_ehs_biosafety_questions_stable_id",
+      "label": "stable_id()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L67"
+    },
+    {
+      "id": "refill_ehs_biosafety_questions_qa_only",
+      "label": "qa_only()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L71"
+    },
+    {
+      "id": "refill_ehs_biosafety_questions_anchor_from_row",
+      "label": "anchor_from_row()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L78"
+    },
+    {
+      "id": "refill_ehs_biosafety_questions_sanitize_question",
+      "label": "sanitize_question()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L90"
+    },
+    {
+      "id": "refill_ehs_biosafety_questions_has_banned_question_terms",
+      "label": "has_banned_question_terms()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L126"
+    },
+    {
+      "id": "refill_ehs_biosafety_questions_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L131"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "label": "update_literature_reading_notes.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "update_literature_reading_notes_extractednotes",
+      "label": "ExtractedNotes",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L32"
+    },
+    {
+      "id": "update_literature_reading_notes_frontmatter_value",
+      "label": "frontmatter_value()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L42"
+    },
+    {
+      "id": "update_literature_reading_notes_clean_text",
+      "label": "clean_text()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L47"
+    },
+    {
+      "id": "update_literature_reading_notes_sentence_split",
+      "label": "sentence_split()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L53"
+    },
+    {
+      "id": "update_literature_reading_notes_first_sentences",
+      "label": "first_sentences()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L59"
+    },
+    {
+      "id": "update_literature_reading_notes_find_section",
+      "label": "find_section()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L69"
+    },
+    {
+      "id": "update_literature_reading_notes_extract_abstract",
+      "label": "extract_abstract()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L97"
+    },
+    {
+      "id": "update_literature_reading_notes_extract_method",
+      "label": "extract_method()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L106"
+    },
+    {
+      "id": "update_literature_reading_notes_extract_dataset_system",
+      "label": "extract_dataset_system()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L124"
+    },
+    {
+      "id": "update_literature_reading_notes_extract_limitation",
+      "label": "extract_limitation()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L134"
+    },
+    {
+      "id": "update_literature_reading_notes_reusable_idea",
+      "label": "reusable_idea()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L144"
+    },
+    {
+      "id": "update_literature_reading_notes_key_figure",
+      "label": "key_figure()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L159"
+    },
+    {
+      "id": "update_literature_reading_notes_parse_topics",
+      "label": "parse_topics()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L169"
+    },
+    {
+      "id": "update_literature_reading_notes_extract_notes",
+      "label": "extract_notes()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L176"
+    },
+    {
+      "id": "update_literature_reading_notes_render_reading_notes",
+      "label": "render_reading_notes()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L221"
+    },
+    {
+      "id": "update_literature_reading_notes_update_status",
+      "label": "update_status()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L232"
+    },
+    {
+      "id": "update_literature_reading_notes_is_empty_template",
+      "label": "is_empty_template()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L236"
+    },
+    {
+      "id": "update_literature_reading_notes_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L240"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "label": "rebuild_ehs_biosafety_semantic_graph.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_section",
+      "label": "Section",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L14"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_notelinks",
+      "label": "NoteLinks",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L20"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_page",
+      "label": "page()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L25"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_pdf",
+      "label": "pdf()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L29"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_all_note_stems",
+      "label": "all_note_stems()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L356"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_render_semantic_links",
+      "label": "render_semantic_links()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L360"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_strip_existing_semantic_links",
+      "label": "strip_existing_semantic_links()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L370"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_insertion_index",
+      "label": "insertion_index()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L375"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_update_note",
+      "label": "update_note()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L381"
+    },
+    {
+      "id": "rebuild_ehs_biosafety_semantic_graph_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L390"
+    },
+    {
+      "id": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "label": "crawl_canada_biosafety_references.py",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_crawltarget",
+      "label": "CrawlTarget",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L18"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_frontmatter",
+      "label": "frontmatter()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L71"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_clean_markdown",
+      "label": "clean_markdown()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L87"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_semantic_links",
+      "label": "semantic_links()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L135"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_render_note",
+      "label": "render_note()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L168"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_append_unique_link",
+      "label": "append_unique_link()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L185"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_crawl_targets",
+      "label": "crawl_targets()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L203"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_main_async",
+      "label": "main_async()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L212"
+    },
+    {
+      "id": "crawl_canada_biosafety_references_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L280"
+    }
+  ],
+  "edges": [
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "os",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "time",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "openai",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "run_gpt55_ehs_eval_tokens",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "run_gpt55_ehs_eval_heuristic_score",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "run_gpt55_ehs_eval_classify",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "run_gpt55_ehs_eval_ask",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "target": "run_gpt55_ehs_eval_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L70",
+      "weight": 1.0
+    },
+    {
+      "source": "run_gpt55_ehs_eval_heuristic_score",
+      "target": "run_gpt55_ehs_eval_tokens",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "run_gpt55_ehs_eval_main",
+      "target": "run_gpt55_ehs_eval_ask",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L99",
+      "weight": 1.0
+    },
+    {
+      "source": "run_gpt55_ehs_eval_main",
+      "target": "run_gpt55_ehs_eval_heuristic_score",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L100",
+      "weight": 1.0
+    },
+    {
+      "source": "run_gpt55_ehs_eval_main",
+      "target": "run_gpt55_ehs_eval_classify",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L106",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_add_canadian_biosafety_handbook_reference_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_add_canadian_biosafety_handbook_reference_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_add_canadian_biosafety_handbook_reference_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_add_canadian_biosafety_handbook_reference_py",
+      "target": "add_canadian_biosafety_handbook_reference_replace_wikilink_targets",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L102",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_add_canadian_biosafety_handbook_reference_py",
+      "target": "add_canadian_biosafety_handbook_reference_append_unique_link",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_add_canadian_biosafety_handbook_reference_py",
+      "target": "add_canadian_biosafety_handbook_reference_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "add_canadian_biosafety_handbook_reference_main",
+      "target": "add_canadian_biosafety_handbook_reference_append_unique_link",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/add_canadian_biosafety_handbook_reference.py",
+      "source_location": "L161",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "hashlib",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "random",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "dataclasses",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_evidence",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L121",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_stable_id",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L130",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_clean_text",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_frontmatter_value",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L144",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_title_from_text",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L149",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_split_snippets",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L156",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_terms_in",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L216",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_anchor_from_answer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L221",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L231",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_make_questions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L266",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_diversify",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L326",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "target": "build_ehs_biosafety_qa_dataset_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L347",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_split_snippets",
+      "target": "build_ehs_biosafety_qa_dataset_clean_text",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L194",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "target": "build_ehs_biosafety_qa_dataset_title_from_text",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L236",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "target": "build_ehs_biosafety_qa_dataset_terms_in",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L239",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "target": "build_ehs_biosafety_qa_dataset_frontmatter_value",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L245",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "target": "build_ehs_biosafety_qa_dataset_split_snippets",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L247",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "target": "build_ehs_biosafety_qa_dataset_evidence",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L254",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_make_questions",
+      "target": "build_ehs_biosafety_qa_dataset_anchor_from_answer",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L272",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_make_questions",
+      "target": "build_ehs_biosafety_qa_dataset_stable_id",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L307",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_main",
+      "target": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L354",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_main",
+      "target": "build_ehs_biosafety_qa_dataset_make_questions",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L358",
+      "weight": 1.0
+    },
+    {
+      "source": "build_ehs_biosafety_qa_dataset_main",
+      "target": "build_ehs_biosafety_qa_dataset_diversify",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/build_ehs_biosafety_qa_dataset.py",
+      "source_location": "L363",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "target": "os",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "target": "subprocess",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "target": "sys",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "target": "iterate_ehs_biosafety_benchmark_run",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "target": "iterate_ehs_biosafety_benchmark_count_jsonl",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py",
+      "target": "iterate_ehs_biosafety_benchmark_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "iterate_ehs_biosafety_benchmark_main",
+      "target": "iterate_ehs_biosafety_benchmark_count_jsonl",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "iterate_ehs_biosafety_benchmark_main",
+      "target": "iterate_ehs_biosafety_benchmark_run",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/iterate_ehs_biosafety_benchmark.py",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_clean_ehs_root_indexes_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_clean_ehs_root_indexes_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_clean_ehs_root_indexes_py",
+      "target": "clean_ehs_root_indexes_render_home",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_clean_ehs_root_indexes_py",
+      "target": "clean_ehs_root_indexes_render_pdf_index",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L109",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_clean_ehs_root_indexes_py",
+      "target": "clean_ehs_root_indexes_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L126",
+      "weight": 1.0
+    },
+    {
+      "source": "clean_ehs_root_indexes_main",
+      "target": "clean_ehs_root_indexes_render_home",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "clean_ehs_root_indexes_main",
+      "target": "clean_ehs_root_indexes_render_pdf_index",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/clean_ehs_root_indexes.py",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "html",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "urllib_request",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "html_parser",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "urllib_parse",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "target": "htmlparser",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_init",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_starttag",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_endtag",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L72",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_data",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L89",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_flush",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L93",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "download_canadian_biosafety_standards_guidelines_fetch",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "download_canadian_biosafety_standards_guidelines_parse_blocks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "download_canadian_biosafety_standards_guidelines_link_markdown",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L126",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "download_canadian_biosafety_standards_guidelines_render_note",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "download_canadian_biosafety_standards_guidelines_append_unique_link",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L223",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "target": "download_canadian_biosafety_standards_guidelines_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L241",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_starttag",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_flush",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_endtag",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_flush",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_parse_blocks",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L120",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_parse_blocks",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_flush",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_render_note",
+      "target": "download_canadian_biosafety_standards_guidelines_parse_blocks",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L136",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_render_note",
+      "target": "download_canadian_biosafety_standards_guidelines_link_markdown",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L156",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_main",
+      "target": "download_canadian_biosafety_standards_guidelines_fetch",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L248",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_main",
+      "target": "download_canadian_biosafety_standards_guidelines_render_note",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L249",
+      "weight": 1.0
+    },
+    {
+      "source": "download_canadian_biosafety_standards_guidelines_main",
+      "target": "download_canadian_biosafety_standards_guidelines_append_unique_link",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/download_canadian_biosafety_standards_guidelines.py",
+      "source_location": "L276",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_repair_literature_note_spacing_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_repair_literature_note_spacing_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_repair_literature_note_spacing_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_repair_literature_note_spacing_py",
+      "target": "repair_literature_note_spacing_repair_text",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_repair_literature_note_spacing_py",
+      "target": "repair_literature_note_spacing_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "repair_literature_note_spacing_main",
+      "target": "repair_literature_note_spacing_repair_text",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/repair_literature_note_spacing.py",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "csv",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "update_literature_reading_notes",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "refill_literature_reading_notes_from_markitdown_title_from_note",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "refill_literature_reading_notes_from_markitdown_load_report",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "target": "refill_literature_reading_notes_from_markitdown_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_main",
+      "target": "refill_literature_reading_notes_from_markitdown_load_report",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_main",
+      "target": "refill_literature_reading_notes_from_markitdown_title_from_note",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_main",
+      "target": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "csv",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "markitdown",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "convert_literature_pdfs_markitdown_frontmatter_value",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "convert_literature_pdfs_markitdown_safe_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "convert_literature_pdfs_markitdown_paper_notes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "convert_literature_pdfs_markitdown_selected_notes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "convert_literature_pdfs_markitdown_convert_one",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "convert_literature_pdfs_markitdown_write_report",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L93",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py",
+      "target": "convert_literature_pdfs_markitdown_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L107",
+      "weight": 1.0
+    },
+    {
+      "source": "convert_literature_pdfs_markitdown_selected_notes",
+      "target": "convert_literature_pdfs_markitdown_paper_notes",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "convert_literature_pdfs_markitdown_convert_one",
+      "target": "convert_literature_pdfs_markitdown_frontmatter_value",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "convert_literature_pdfs_markitdown_convert_one",
+      "target": "convert_literature_pdfs_markitdown_safe_name",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "convert_literature_pdfs_markitdown_main",
+      "target": "convert_literature_pdfs_markitdown_selected_notes",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L121",
+      "weight": 1.0
+    },
+    {
+      "source": "convert_literature_pdfs_markitdown_main",
+      "target": "convert_literature_pdfs_markitdown_convert_one",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L124",
+      "weight": 1.0
+    },
+    {
+      "source": "convert_literature_pdfs_markitdown_main",
+      "target": "convert_literature_pdfs_markitdown_write_report",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/convert_literature_pdfs_markitdown.py",
+      "source_location": "L130",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py",
+      "target": "dedupe_ehs_wiki_pages_replace_wikilink_targets",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py",
+      "target": "dedupe_ehs_wiki_pages_update_heading",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py",
+      "target": "dedupe_ehs_wiki_pages_duplicate_groups",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py",
+      "target": "dedupe_ehs_wiki_pages_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "dedupe_ehs_wiki_pages_main",
+      "target": "dedupe_ehs_wiki_pages_replace_wikilink_targets",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L82",
+      "weight": 1.0
+    },
+    {
+      "source": "dedupe_ehs_wiki_pages_main",
+      "target": "dedupe_ehs_wiki_pages_update_heading",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L96",
+      "weight": 1.0
+    },
+    {
+      "source": "dedupe_ehs_wiki_pages_main",
+      "target": "dedupe_ehs_wiki_pages_duplicate_groups",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/dedupe_ehs_wiki_pages.py",
+      "source_location": "L114",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "hashlib",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "random",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "build_ehs_biosafety_qa_dataset",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "refill_ehs_biosafety_questions_load_jsonl",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "refill_ehs_biosafety_questions_stable_id",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "refill_ehs_biosafety_questions_qa_only",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L71",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "refill_ehs_biosafety_questions_anchor_from_row",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "refill_ehs_biosafety_questions_sanitize_question",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L90",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "refill_ehs_biosafety_questions_has_banned_question_terms",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L126",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "target": "refill_ehs_biosafety_questions_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L131",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_sanitize_question",
+      "target": "refill_ehs_biosafety_questions_qa_only",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L91",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_sanitize_question",
+      "target": "refill_ehs_biosafety_questions_anchor_from_row",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L95",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_sanitize_question",
+      "target": "refill_ehs_biosafety_questions_stable_id",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_main",
+      "target": "refill_ehs_biosafety_questions_load_jsonl",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L147",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_main",
+      "target": "refill_ehs_biosafety_questions_sanitize_question",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L154",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_main",
+      "target": "refill_ehs_biosafety_questions_has_banned_question_terms",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L155",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_main",
+      "target": "refill_ehs_biosafety_questions_qa_only",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L190",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "csv",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "dataclasses",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "pdfminer_high_level",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_extractednotes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_frontmatter_value",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_clean_text",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_sentence_split",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_first_sentences",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_find_section",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_extract_abstract",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L97",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_extract_method",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L106",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_extract_dataset_system",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L124",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_extract_limitation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_reusable_idea",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L144",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_key_figure",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L159",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_parse_topics",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_extract_notes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L176",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_render_reading_notes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L221",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_update_status",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L232",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_is_empty_template",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L236",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "target": "update_literature_reading_notes_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L240",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_sentence_split",
+      "target": "update_literature_reading_notes_clean_text",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_first_sentences",
+      "target": "update_literature_reading_notes_sentence_split",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_first_sentences",
+      "target": "update_literature_reading_notes_clean_text",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_abstract",
+      "target": "update_literature_reading_notes_find_section",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L98",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_abstract",
+      "target": "update_literature_reading_notes_first_sentences",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L103",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_method",
+      "target": "update_literature_reading_notes_find_section",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L107",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_method",
+      "target": "update_literature_reading_notes_first_sentences",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L113",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_dataset_system",
+      "target": "update_literature_reading_notes_sentence_split",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_limitation",
+      "target": "update_literature_reading_notes_sentence_split",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_key_figure",
+      "target": "update_literature_reading_notes_clean_text",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L163",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_extractednotes",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L178",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_clean_text",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L199",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_parse_topics",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L209",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_extract_abstract",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L211",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_key_figure",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L212",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_extract_method",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L213",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_extract_dataset_system",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L214",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_extract_limitation",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L215",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_extract_notes",
+      "target": "update_literature_reading_notes_reusable_idea",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L216",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_main",
+      "target": "update_literature_reading_notes_is_empty_template",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L249",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_main",
+      "target": "update_literature_reading_notes_frontmatter_value",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L257",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_main",
+      "target": "update_literature_reading_notes_extract_notes",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L260",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_main",
+      "target": "update_literature_reading_notes_render_reading_notes",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L261",
+      "weight": 1.0
+    },
+    {
+      "source": "update_literature_reading_notes_main",
+      "target": "update_literature_reading_notes_update_status",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/update_literature_reading_notes.py",
+      "source_location": "L262",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "dataclasses",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_section",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_notelinks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_page",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_pdf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_all_note_stems",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L356",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_render_semantic_links",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L360",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_strip_existing_semantic_links",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L370",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_insertion_index",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L375",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_update_note",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L381",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "target": "rebuild_ehs_biosafety_semantic_graph_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L390",
+      "weight": 1.0
+    },
+    {
+      "source": "rebuild_ehs_biosafety_semantic_graph_update_note",
+      "target": "rebuild_ehs_biosafety_semantic_graph_strip_existing_semantic_links",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L383",
+      "weight": 1.0
+    },
+    {
+      "source": "rebuild_ehs_biosafety_semantic_graph_update_note",
+      "target": "rebuild_ehs_biosafety_semantic_graph_render_semantic_links",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L384",
+      "weight": 1.0
+    },
+    {
+      "source": "rebuild_ehs_biosafety_semantic_graph_update_note",
+      "target": "rebuild_ehs_biosafety_semantic_graph_insertion_index",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L385",
+      "weight": 1.0
+    },
+    {
+      "source": "rebuild_ehs_biosafety_semantic_graph_main",
+      "target": "rebuild_ehs_biosafety_semantic_graph_all_note_stems",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L398",
+      "weight": 1.0
+    },
+    {
+      "source": "rebuild_ehs_biosafety_semantic_graph_main",
+      "target": "rebuild_ehs_biosafety_semantic_graph_update_note",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/rebuild_ehs_biosafety_semantic_graph.py",
+      "source_location": "L412",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "asyncio",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "dataclasses",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl4ai",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_crawltarget",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_frontmatter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L71",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_clean_markdown",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L87",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_semantic_links",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_render_note",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L168",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_append_unique_link",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L185",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_crawl_targets",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L203",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_main_async",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L212",
+      "weight": 1.0
+    },
+    {
+      "source": "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "target": "crawl_canada_biosafety_references_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L280",
+      "weight": 1.0
+    },
+    {
+      "source": "crawl_canada_biosafety_references_render_note",
+      "target": "crawl_canada_biosafety_references_clean_markdown",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
+      "source": "crawl_canada_biosafety_references_render_note",
+      "target": "crawl_canada_biosafety_references_frontmatter",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L173",
+      "weight": 1.0
+    },
+    {
+      "source": "crawl_canada_biosafety_references_render_note",
+      "target": "crawl_canada_biosafety_references_semantic_links",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L180",
+      "weight": 1.0
+    },
+    {
+      "source": "crawl_canada_biosafety_references_main_async",
+      "target": "crawl_canada_biosafety_references_crawl_targets",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L219",
+      "weight": 1.0
+    },
+    {
+      "source": "crawl_canada_biosafety_references_main_async",
+      "target": "crawl_canada_biosafety_references_render_note",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L224",
+      "weight": 1.0
+    },
+    {
+      "source": "crawl_canada_biosafety_references_main_async",
+      "target": "crawl_canada_biosafety_references_append_unique_link",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L267",
+      "weight": 1.0
+    },
+    {
+      "source": "crawl_canada_biosafety_references_main",
+      "target": "crawl_canada_biosafety_references_main_async",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L285",
+      "weight": 1.0
+    },
+    {
+      "source": "run_gpt55_ehs_eval_main",
+      "target": "download_canadian_biosafety_standards_guidelines_canadapageparser_flush",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/run_gpt55_ehs_eval.py",
+      "source_location": "L109",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "target": "update_literature_reading_notes_parse_topics",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "target": "update_literature_reading_notes_extractednotes",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "target": "update_literature_reading_notes_extract_abstract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "target": "update_literature_reading_notes_key_figure",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "target": "update_literature_reading_notes_extract_method",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "target": "update_literature_reading_notes_extract_dataset_system",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "target": "update_literature_reading_notes_extract_limitation",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "target": "update_literature_reading_notes_reusable_idea",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_main",
+      "target": "update_literature_reading_notes_render_reading_notes",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_literature_reading_notes_from_markitdown_main",
+      "target": "update_literature_reading_notes_update_status",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_literature_reading_notes_from_markitdown.py",
+      "source_location": "L82",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_anchor_from_row",
+      "target": "build_ehs_biosafety_qa_dataset_anchor_from_answer",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L87",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_main",
+      "target": "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L158",
+      "weight": 1.0
+    },
+    {
+      "source": "refill_ehs_biosafety_questions_main",
+      "target": "build_ehs_biosafety_qa_dataset_make_questions",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/refill_ehs_biosafety_questions.py",
+      "source_location": "L162",
+      "weight": 1.0
+    },
+    {
+      "source": "crawl_canada_biosafety_references_main",
+      "target": "iterate_ehs_biosafety_benchmark_run",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Projects/UofT EHS Biosafety Benchmark/_attachments/project-files/crawl_canada_biosafety_references.py",
+      "source_location": "L285",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

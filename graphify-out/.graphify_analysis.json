@@ -1,0 +1,778 @@
+{
+  "communities": {
+    "0": [
+      "bridging_silicon_carbon_worlds",
+      "cellpose_sam",
+      "concept_biofabrication",
+      "concept_biosensors_diagnostics",
+      "concept_cancer_therapeutics",
+      "concept_computer_vision_biology",
+      "concept_digital_image_processing",
+      "concept_digital_twins",
+      "concept_digital_twins_modeling",
+      "concept_foundation_models",
+      "concept_ipsc",
+      "concept_ipsc_stem_cells",
+      "concept_microfluidics",
+      "concept_ml_interpretability",
+      "concept_optimization_bayesian",
+      "concept_organ_on_chip",
+      "concept_organoids",
+      "concept_reference_textbook",
+      "digital_twin_three_organ",
+      "dinat_edge_detection",
+      "foundations_llm_textbook",
+      "ipsc_math_modelling_wadkin",
+      "literature_wiki_home",
+      "map_ai_bioimage_analysis",
+      "map_biofabrication_cell_systems",
+      "map_digital_discovery_tutorials",
+      "map_materials_therapeutics",
+      "map_nanomedicine_sdl",
+      "map_sdl_stack",
+      "nmeth3507_ipsc_automation",
+      "paper_bhicc_drug_testing",
+      "paper_cellsam_foundation",
+      "paper_gonzaleswoodsdip",
+      "paper_gowrishankar2025_hnscc_surgery",
+      "paper_hardman_2024_agent_based_muscle",
+      "paper_kane2019_automated_microfluidic",
+      "paper_kane_2019_microfluidic_dopaminergic",
+      "paper_leung_2022_ooc_guide",
+      "paper_lian_2012_cardiomyocyte_wnt",
+      "paper_ml_image_analysis_933a",
+      "paper_multidrug_cancer_iy",
+      "paper_nguyen2022_kidney_liver_ooc",
+      "paper_niroomand2024_energy_landscapes_ml",
+      "paper_ooc_dataset_1",
+      "paper_ooc_dataset_2",
+      "paper_s13206_mvn_segmentation",
+      "paper_s41573_rational_cancer_combo",
+      "paper_s41598_ipsc_gene_editing",
+      "paper_s44222_organoid_ooc_integration",
+      "paper_virtual_cell_bunne",
+      "paper_wenckstern_2025_virtual_tissues",
+      "paper_yolov5_cell_counting",
+      "repo_vibecount",
+      "s0272884222036471",
+      "s12951-2024_spheroids_oral_cancer",
+      "s41551-2022_multiorgan_tissue_chip",
+      "sciadv_adt1851_ml_drug_regimens",
+      "virtues_spatial_proteomics"
+    ],
+    "1": [
+      "2603_15553v1_bootleg_ssl",
+      "adaptive_3d_printing_bayesian",
+      "anl_autonomous_lab_biotech",
+      "concept_ai_safety_governance",
+      "concept_bayesian_optimization",
+      "concept_biomedical_ai_agents",
+      "concept_closed_loop_experimentation",
+      "concept_computer_vision",
+      "concept_knowledge_graphs",
+      "concept_lab_automation",
+      "concept_liquid_handling_robotics",
+      "concept_materials_discovery",
+      "concept_mof_synthesis",
+      "concept_molecular_representations",
+      "concept_self_driving_labs",
+      "concept_self_supervised_learning",
+      "d3dd00115f_robotic_pipette",
+      "d5dd00336a_digital_pipette_v2",
+      "elife77007_robotic_ipsc_rpe",
+      "gaidimas2026_cv_materials_synthesis",
+      "lo2023_selfies_library",
+      "lumi_lab_lnp_mrna",
+      "lumi_lab_lnp_mrna_copy",
+      "map_sdl_orchestration",
+      "maroulis2026_self_driving_liquid_handling",
+      "paper_abolhasani2023_sdl_rise",
+      "paper_ai_agent_safety",
+      "paper_ai_edison_synthesis_robot",
+      "paper_bai2024_dynamic_kg_sdl",
+      "paper_collins_2025_sdl_biotech",
+      "paper_el_agente_preprint",
+      "paper_el_agente_quantum",
+      "paper_gao2024_empowering_biomedical_ai",
+      "paper_gisperg_bayesian_optimization",
+      "paper_huang2025_biomni",
+      "paper_robotics_jd",
+      "paper_sdl_japan",
+      "paper_sharfpauker2025_synthetic_cell_production",
+      "paper_takahuman_jd",
+      "paper_undermind_biofabrication_gaps",
+      "paper_undermind_lab_software_wrappers",
+      "paper_wang_2024_ionizable_lipids",
+      "paper_wu2025_sdl_plasmonic_nanoparticles",
+      "paper_zieger2024_3d_cell_culture_automation",
+      "repo_lab_sensor",
+      "roch2020_chemos",
+      "rooney2022_sdl_adhesive_materials",
+      "s41467-2021-zerocostdl4mic",
+      "s43588-025-00885-8_sdl_biotechnology",
+      "stein2019_automated_autonomous_workflows",
+      "szymanski2021_autonomous_inorganic_design",
+      "szymanski2023_autonomous_inorganic_materials",
+      "uoft_lash_miller_lab_2023"
+    ],
+    "2": [
+      "acceleration_consortium",
+      "ccbr_location",
+      "cfi_2024_readme",
+      "cfi_brandon_equipment_notes",
+      "cfi_grant_2024",
+      "cfi_hom_sdl_equipment_justification",
+      "cfi_pre_proposal_sdl6",
+      "cpdd_facility",
+      "equip_cold_storage",
+      "equip_flow_cytometry",
+      "equip_imaging_plate_reader",
+      "equip_incubator",
+      "equip_liquid_handler",
+      "equip_robotic_arm",
+      "github_reproducibility",
+      "github_vibecount",
+      "labelstudio_tool",
+      "livecount_tool",
+      "ml_cell_counting_reproducibility_study",
+      "nanomedicine_concept",
+      "okr_kr1_labour_reduction",
+      "okr_kr4_reproducibility",
+      "okr_kr5_ai_dataset",
+      "okr_sdl6",
+      "organ_on_chip_concept",
+      "organoid_concept",
+      "pan_canadian_sdl_network",
+      "potential_cfi_equipment_may21",
+      "sdl6_hom_project",
+      "sdl_access_facility_overview",
+      "sdl_hom_research_objectives",
+      "sdl_v1_cfref",
+      "sdl_v2_cfi",
+      "vibecount_aws_deployment",
+      "vibecount_center_distance_nms",
+      "vibecount_hitl_correction",
+      "vibecount_pipeline",
+      "vibecount_readme",
+      "vibecount_sam2"
+    ],
+    "3": [
+      "agent_charts",
+      "agent_filesystem",
+      "agent_from_scratch",
+      "agent_memory",
+      "ai_scientist_skills",
+      "auto_research_agent",
+      "claude_training_course",
+      "deep_research_tools",
+      "diagram_generation",
+      "free_claude_code",
+      "hyperspace_pods",
+      "kami_design",
+      "live_ui_generation",
+      "map_ai_tools",
+      "on_device_llm",
+      "on_device_llm_llama_cpp",
+      "on_device_llm_lmstudio",
+      "on_device_llm_mlx",
+      "on_device_llm_ollama",
+      "open_ai_scientists",
+      "open_ai_scientists_medea",
+      "open_ai_scientists_tooluni",
+      "open_ai_scientists_txagent",
+      "ref_agent_architecture",
+      "ref_claude_code_memory",
+      "ref_data_scientist_agent",
+      "ref_zitnik_lab",
+      "skill_curator",
+      "unreviewed_links",
+      "website_builder_ai"
+    ],
+    "4": [
+      "abolhasani2023_rise_sdl",
+      "abolhasani2023_rise_self_driving_labs",
+      "bai2022_platform_to_knowledge_graph",
+      "boiko2023_llm_autonomous_chemical_research",
+      "burger2020_mobile_robotic_chemist",
+      "coley2019_autonomous_discovery",
+      "coley2019_autonomous_discovery_outlook",
+      "collins2025_concept_active_learning_biochem",
+      "collins2025_concept_directed_evolution_sdl",
+      "collins2025_sdl_biotechnology",
+      "concept_active_learning_experiment_selection",
+      "concept_knowledge_graph_lab_automation",
+      "concept_llm_agent_chemistry",
+      "concept_mobile_robot_automation",
+      "concept_sdl_closed_loop",
+      "concept_sdl_data_interoperability",
+      "digital_discovery_guide_five_impact_moves",
+      "gaidimas2026_computer_vision_materials_synthesis",
+      "macleod2020_thin_film_sdl",
+      "maroulis2026_self_driving_liquid_handling_lab",
+      "niroomand2024_energy_landscapes_ml",
+      "roch2020_chemos_orchestration_autonomous_discovery",
+      "sdl_writing_patterns_abstract_structure",
+      "sdl_writing_patterns_concept_bottleneck",
+      "sdl_writing_patterns_quantification",
+      "wang2024_ai_ionizable_lipids_mrna",
+      "wang2024_concept_lnp_virtual_screening",
+      "wang2024_concept_pka_prediction_lnp"
+    ],
+    "5": [
+      "canada_biosafety_handbook_second_edition",
+      "canada_biosafety_standard_third_edition",
+      "canada_biosafety_standards_external",
+      "crawl4ai_library",
+      "crawl_canada_biosafety_references_script",
+      "data_ehs_biosafety_gpt55_eval",
+      "data_ehs_biosafety_qa_seed_1000",
+      "dedupe_ehs_wiki_pages_script",
+      "ehs_biosafety_eval_readme",
+      "ehs_wiki",
+      "ehs_wiki_external_references",
+      "ehs_wiki_graph_audit",
+      "ehs_wiki_pages_folder",
+      "ehs_wiki_pdf_notes_folder",
+      "func_anchor_from_row",
+      "func_crawl_targets",
+      "func_duplicate_groups",
+      "func_render_note",
+      "func_render_semantic_links",
+      "func_replace_wikilink_targets",
+      "func_sanitize_question",
+      "func_update_note",
+      "model_gpt55",
+      "module_build_ehs_biosafety_qa_dataset",
+      "rebuild_ehs_biosafety_semantic_graph_script",
+      "refill_ehs_biosafety_questions_script",
+      "script_iterate_ehs_biosafety_benchmark",
+      "script_run_gpt55_ehs_eval"
+    ],
+    "6": [
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_literature_reading_notes_from_markitdown_py",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_update_literature_reading_notes_py",
+      "refill_literature_reading_notes_from_markitdown_extract_from_markdown",
+      "refill_literature_reading_notes_from_markitdown_load_report",
+      "refill_literature_reading_notes_from_markitdown_main",
+      "refill_literature_reading_notes_from_markitdown_title_from_note",
+      "update_literature_reading_notes_clean_text",
+      "update_literature_reading_notes_extract_abstract",
+      "update_literature_reading_notes_extract_dataset_system",
+      "update_literature_reading_notes_extract_limitation",
+      "update_literature_reading_notes_extract_method",
+      "update_literature_reading_notes_extract_notes",
+      "update_literature_reading_notes_extractednotes",
+      "update_literature_reading_notes_find_section",
+      "update_literature_reading_notes_first_sentences",
+      "update_literature_reading_notes_frontmatter_value",
+      "update_literature_reading_notes_is_empty_template",
+      "update_literature_reading_notes_key_figure",
+      "update_literature_reading_notes_main",
+      "update_literature_reading_notes_parse_topics",
+      "update_literature_reading_notes_render_reading_notes",
+      "update_literature_reading_notes_reusable_idea",
+      "update_literature_reading_notes_sentence_split",
+      "update_literature_reading_notes_update_status"
+    ],
+    "7": [
+      "build_ehs_biosafety_qa_dataset_anchor_from_answer",
+      "build_ehs_biosafety_qa_dataset_clean_text",
+      "build_ehs_biosafety_qa_dataset_collect_evidence",
+      "build_ehs_biosafety_qa_dataset_diversify",
+      "build_ehs_biosafety_qa_dataset_evidence",
+      "build_ehs_biosafety_qa_dataset_frontmatter_value",
+      "build_ehs_biosafety_qa_dataset_main",
+      "build_ehs_biosafety_qa_dataset_make_questions",
+      "build_ehs_biosafety_qa_dataset_split_snippets",
+      "build_ehs_biosafety_qa_dataset_stable_id",
+      "build_ehs_biosafety_qa_dataset_terms_in",
+      "build_ehs_biosafety_qa_dataset_title_from_text",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_build_ehs_biosafety_qa_dataset_py",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_refill_ehs_biosafety_questions_py",
+      "refill_ehs_biosafety_questions_anchor_from_row",
+      "refill_ehs_biosafety_questions_has_banned_question_terms",
+      "refill_ehs_biosafety_questions_load_jsonl",
+      "refill_ehs_biosafety_questions_main",
+      "refill_ehs_biosafety_questions_qa_only",
+      "refill_ehs_biosafety_questions_sanitize_question",
+      "refill_ehs_biosafety_questions_stable_id"
+    ],
+    "8": [
+      "download_canadian_biosafety_standards_guidelines_append_unique_link",
+      "download_canadian_biosafety_standards_guidelines_canadapageparser",
+      "download_canadian_biosafety_standards_guidelines_canadapageparser_flush",
+      "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_data",
+      "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_endtag",
+      "download_canadian_biosafety_standards_guidelines_canadapageparser_handle_starttag",
+      "download_canadian_biosafety_standards_guidelines_canadapageparser_init",
+      "download_canadian_biosafety_standards_guidelines_fetch",
+      "download_canadian_biosafety_standards_guidelines_link_markdown",
+      "download_canadian_biosafety_standards_guidelines_main",
+      "download_canadian_biosafety_standards_guidelines_parse_blocks",
+      "download_canadian_biosafety_standards_guidelines_render_note",
+      "htmlparser",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_download_canadian_biosafety_standards_guidelines_py",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_run_gpt55_ehs_eval_py",
+      "run_gpt55_ehs_eval_ask",
+      "run_gpt55_ehs_eval_classify",
+      "run_gpt55_ehs_eval_heuristic_score",
+      "run_gpt55_ehs_eval_main",
+      "run_gpt55_ehs_eval_tokens"
+    ],
+    "9": [
+      "concept_ehs_qa_benchmark",
+      "concept_liquid_handling_calibration",
+      "concept_sam2_cell_counting",
+      "concept_sdl_sensor_monitoring",
+      "paper_ai_agent_safety_sdl",
+      "paper_digital_pipette_v2",
+      "paper_edgenat_edge_detection",
+      "paper_frugal_twin_sdl",
+      "paper_liu2026_sdl_bioprinting",
+      "paper_zerocostdl4mic",
+      "person_aspuru_guzik",
+      "person_ilya_yakavets",
+      "person_milica_radisic",
+      "project_grant_applications",
+      "project_lab_sensor",
+      "project_lh_bo_preprint",
+      "project_readme_moc",
+      "project_uoft_ehs_benchmark",
+      "project_vibecount",
+      "venue_digital_discovery"
+    ],
+    "10": [
+      "crawl_canada_biosafety_references_append_unique_link",
+      "crawl_canada_biosafety_references_clean_markdown",
+      "crawl_canada_biosafety_references_crawl_targets",
+      "crawl_canada_biosafety_references_crawltarget",
+      "crawl_canada_biosafety_references_frontmatter",
+      "crawl_canada_biosafety_references_main",
+      "crawl_canada_biosafety_references_main_async",
+      "crawl_canada_biosafety_references_render_note",
+      "crawl_canada_biosafety_references_semantic_links",
+      "iterate_ehs_biosafety_benchmark_count_jsonl",
+      "iterate_ehs_biosafety_benchmark_main",
+      "iterate_ehs_biosafety_benchmark_run",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_crawl_canada_biosafety_references_py",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_iterate_ehs_biosafety_benchmark_py"
+    ],
+    "11": [
+      "concept_uoroboros",
+      "org_acceleration_consortium",
+      "project_sdl6",
+      "repo_image_analysis_uos",
+      "repo_lh_bo_preprint",
+      "repo_reproducibility",
+      "repo_uostore",
+      "skill_ac_presentation",
+      "skill_dark_futuristic_diagram",
+      "skill_deslop",
+      "skill_ehs_biosafety_benchmark",
+      "skill_research_plots",
+      "skill_sdl_3d_illustrations",
+      "skill_sdl_schematics"
+    ],
+    "12": [
+      "claude_skills_agrici_claude_obsidian",
+      "claude_skills_autoresearch",
+      "claude_skills_canvas",
+      "claude_skills_save",
+      "claude_skills_think",
+      "claude_skills_wiki",
+      "vault_dump_graphify",
+      "vault_dump_knowledge_graph",
+      "vault_dump_obsidian_vault",
+      "vault_dump_quartz",
+      "vault_dump_sdl6_vault",
+      "vault_dump_skill",
+      "vault_dump_wiki_ingest"
+    ],
+    "13": [
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_rebuild_ehs_biosafety_semantic_graph_py",
+      "rebuild_ehs_biosafety_semantic_graph_all_note_stems",
+      "rebuild_ehs_biosafety_semantic_graph_insertion_index",
+      "rebuild_ehs_biosafety_semantic_graph_main",
+      "rebuild_ehs_biosafety_semantic_graph_notelinks",
+      "rebuild_ehs_biosafety_semantic_graph_page",
+      "rebuild_ehs_biosafety_semantic_graph_pdf",
+      "rebuild_ehs_biosafety_semantic_graph_render_semantic_links",
+      "rebuild_ehs_biosafety_semantic_graph_section",
+      "rebuild_ehs_biosafety_semantic_graph_strip_existing_semantic_links",
+      "rebuild_ehs_biosafety_semantic_graph_update_note"
+    ],
+    "14": [
+      "agent_architecture",
+      "claude_code_memory_systems",
+      "concept_agent_memory",
+      "data_scientist_agent",
+      "obsidian_ai_integration",
+      "repo_claude_obsidian",
+      "repo_obsidian_skills",
+      "tool_copilot_plugin",
+      "tool_knowledge_graph_obra",
+      "tool_smart_connections"
+    ],
+    "15": [
+      "convert_literature_pdfs_markitdown_convert_one",
+      "convert_literature_pdfs_markitdown_frontmatter_value",
+      "convert_literature_pdfs_markitdown_main",
+      "convert_literature_pdfs_markitdown_paper_notes",
+      "convert_literature_pdfs_markitdown_safe_name",
+      "convert_literature_pdfs_markitdown_selected_notes",
+      "convert_literature_pdfs_markitdown_write_report",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_convert_literature_pdfs_markitdown_py"
+    ],
+    "16": [
+      "2501_09223_foundations_llm",
+      "el_agente_autonomous_quantum_chemistry",
+      "elife77007_robotic_cell_culture",
+      "paper_56_bayesian_polymeric_particles",
+      "paper_70_bayesian_3d_printing",
+      "s41598_autonomous_lab_biotechnology",
+      "sdl_japan_self_driving_labs",
+      "takahuman_robotic_automation_advisor"
+    ],
+    "17": [
+      "concept_cancer_therapy",
+      "heliyon_pegylated_liposomes",
+      "s11671_liposomal_nanomedicine",
+      "s41392_cancer_treatment_strategies",
+      "s41467_ai_drug_synergy_pancreatic",
+      "s41587_ai_lipid_nanoparticle_gene_therapy",
+      "s44386_drug_combination_surfaces",
+      "s44386_drug_combination_synergy"
+    ],
+    "18": [
+      "data_reading_notes_report",
+      "func_extract_abstract",
+      "func_extract_method",
+      "func_extract_notes",
+      "literature_wiki",
+      "pdfminer_library",
+      "update_literature_reading_notes_script"
+    ],
+    "19": [
+      "claude_skills_defuddle",
+      "claude_skills_json_canvas",
+      "claude_skills_kepano_obsidian_skills",
+      "claude_skills_obsidian_bases",
+      "claude_skills_obsidian_cli",
+      "claude_skills_obsidian_markdown"
+    ],
+    "20": [
+      "concept_tumor_on_chip_ml",
+      "paper_digilocs_organ_chip_simulation",
+      "paper_optimizing_multidrug_cancer",
+      "paper_organ_on_chip_guide",
+      "paper_s11912_surgical_margins_hnc",
+      "paper_s41551_organ_chip_robotic"
+    ],
+    "21": [
+      "dedupe_ehs_wiki_pages_duplicate_groups",
+      "dedupe_ehs_wiki_pages_main",
+      "dedupe_ehs_wiki_pages_replace_wikilink_targets",
+      "dedupe_ehs_wiki_pages_update_heading",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_dedupe_ehs_wiki_pages_py"
+    ],
+    "22": [
+      "concept_drug_delivery",
+      "concept_lipid_nanoparticles",
+      "medip1388_anticancer_side_effects",
+      "s41573-2020-nanoparticles_drug_delivery",
+      "s41587-024-02490-y_lion_lipid_nanoparticle"
+    ],
+    "23": [
+      "add_canadian_biosafety_handbook_reference_append_unique_link",
+      "add_canadian_biosafety_handbook_reference_main",
+      "add_canadian_biosafety_handbook_reference_replace_wikilink_targets",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_add_canadian_biosafety_handbook_reference_py"
+    ],
+    "24": [
+      "clean_ehs_root_indexes_main",
+      "clean_ehs_root_indexes_render_home",
+      "clean_ehs_root_indexes_render_pdf_index",
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_clean_ehs_root_indexes_py"
+    ],
+    "25": [
+      "graf2025_digital_twin_three_organ",
+      "hardman2024_abm_muscle_cells",
+      "leung2022_organ_on_chip_guide",
+      "lo2024_frugal_twin"
+    ],
+    "26": [
+      "projects_uoft_ehs_biosafety_benchmark_attachments_project_files_repair_literature_note_spacing_py",
+      "repair_literature_note_spacing_main",
+      "repair_literature_note_spacing_repair_text"
+    ],
+    "27": [
+      "concept_solid_state_electrolytes",
+      "luo2024_nasicon_latp_review",
+      "lyu2025_lagp_ionic_conductivity"
+    ],
+    "28": [
+      "ac_acceleration_consortium",
+      "ac_image_style_guide"
+    ],
+    "29": [
+      "concept_federated_learning",
+      "paper_s41746_federated_learning_healthcare"
+    ],
+    "30": [
+      "labsense_style_deslop_rules",
+      "vibecount_style_no_filler"
+    ],
+    "31": [
+      "biosensors_centrifugal_microfluidic",
+      "s41598_2017_microfluidic_immunotherapy"
+    ],
+    "32": [
+      "concept_research_papers"
+    ],
+    "33": [
+      "paper_80ad2aab_unknown"
+    ],
+    "34": [
+      "mirror_coloration"
+    ],
+    "35": [
+      "paper_2026p4"
+    ],
+    "36": [
+      "2026P5_paper"
+    ],
+    "37": [
+      "f0ac5fa4_paper"
+    ],
+    "38": [
+      "sdl_writing_patterns_claim_levels"
+    ],
+    "39": [
+      "sdl_writing_patterns_figure_order"
+    ],
+    "40": [
+      "sdl_writing_patterns_style_rules"
+    ],
+    "41": [
+      "labsense_style_voice"
+    ],
+    "42": [
+      "labsense_style_sentence_patterns"
+    ],
+    "43": [
+      "digital_discovery_guide_core_principle"
+    ],
+    "44": [
+      "digital_discovery_guide_topic_scorecard"
+    ],
+    "45": [
+      "vibecount_style_intro_structure"
+    ],
+    "46": [
+      "mirror_coloration_structural_color"
+    ],
+    "47": [
+      "d5nj00172b_latp_solid_electrolyte"
+    ],
+    "48": [
+      "paper_pdol_lagp_solid_electrolyte"
+    ]
+  },
+  "cohesion": {
+    "0": 0.08,
+    "1": 0.09,
+    "2": 0.09,
+    "3": 0.14,
+    "4": 0.1,
+    "5": 0.11,
+    "6": 0.21,
+    "7": 0.19,
+    "8": 0.17,
+    "9": 0.13,
+    "10": 0.24,
+    "11": 0.22,
+    "12": 0.21,
+    "13": 0.27,
+    "14": 0.24,
+    "15": 0.46,
+    "16": 0.32,
+    "17": 0.39,
+    "18": 0.29,
+    "19": 0.33,
+    "20": 0.33,
+    "21": 0.7,
+    "22": 0.5,
+    "23": 0.67,
+    "24": 0.83,
+    "25": 0.5,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0,
+    "47": 1.0,
+    "48": 1.0
+  },
+  "gods": [
+    {
+      "id": "concept_self_driving_labs",
+      "label": "Concept \u2014 Self-Driving Labs",
+      "degree": 35
+    },
+    {
+      "id": "concept_lab_automation",
+      "label": "Concept \u2014 Lab Automation",
+      "degree": 23
+    },
+    {
+      "id": "map_ai_tools",
+      "label": "Map \u2014 AI Tools and Agents (May 2026)",
+      "degree": 20
+    },
+    {
+      "id": "concept_materials_discovery",
+      "label": "Concept \u2014 Materials Discovery",
+      "degree": 18
+    },
+    {
+      "id": "concept_optimization_bayesian",
+      "label": "Concept \u2014 Optimization and Bayesian Search",
+      "degree": 17
+    },
+    {
+      "id": "concept_organ_on_chip",
+      "label": "Concept \u2014 Organ-on-Chip",
+      "degree": 17
+    },
+    {
+      "id": "concept_biofabrication",
+      "label": "Concept \u2014 Biofabrication",
+      "degree": 16
+    },
+    {
+      "id": "cfi_hom_sdl_equipment_justification",
+      "label": "CFI Grant \u2014 HOM SDL Equipment Justification",
+      "degree": 16
+    },
+    {
+      "id": "concept_biomedical_ai_agents",
+      "label": "Concept \u2014 Biomedical AI Agents",
+      "degree": 14
+    },
+    {
+      "id": "update_literature_reading_notes_extract_notes",
+      "label": "extract_notes()",
+      "degree": 11
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Recent Advances in SELFIES Library (Lo 2023)",
+      "target": "Coley 2019 - Autonomous Discovery in Chemical Sciences Outlook",
+      "source_files": [
+        "Literature Wiki/Papers/Paper - DD Tutorial - lo2023_selfies_library.md",
+        "Literature Wiki/_attachments/Self-Driving Labs/coley2019_autonomous_discovery_chemical_sciences_outlook.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc \u2194 paper); bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Autonomous Laboratory for Accelerated Synthesis of Inorganic Materials (Szymanski et al. 2023)",
+      "target": "Abolhasani 2023 - The Rise of Self-Driving Labs in Chemical and Materials Sciences",
+      "source_files": [
+        "Literature Wiki/Papers/Paper - SDL - szymanski2023_autonomous_inorganic_materials.md",
+        "Literature Wiki/_attachments/Self-Driving Labs/abolhasani2023_rise_self_driving_labs.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc \u2194 paper); bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Autonomous Chemical Research with Large Language Models (Boiko 2023)",
+      "target": "Coley 2019 - Autonomous Discovery in Chemical Sciences Outlook",
+      "source_files": [
+        "Literature Wiki/Papers/Paper - SDL - boiko2023_llm_autonomous_chemical_research.md",
+        "Literature Wiki/_attachments/Self-Driving Labs/coley2019_autonomous_discovery_chemical_sciences_outlook.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc \u2194 paper); semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Self-Driving Laboratory for Accelerated Discovery of Thin-Film Materials (MacLeod 2020)",
+      "target": "Abolhasani 2023 - The Rise of Self-Driving Labs in Chemical and Materials Sciences",
+      "source_files": [
+        "Literature Wiki/Papers/Paper - SDL - macleod2020_thin_film_sdl.md",
+        "Literature Wiki/_attachments/Self-Driving Labs/abolhasani2023_rise_self_driving_labs.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc \u2194 paper); semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Collins 2025 - Self-Driving Labs for Biotechnology",
+      "target": "Abolhasani 2023 - The Rise of Self-Driving Labs in Chemical and Materials Sciences",
+      "source_files": [
+        "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+        "Literature Wiki/_attachments/Self-Driving Labs/abolhasani2023_rise_self_driving_labs.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (paper \u2194 doc); semantically similar concepts with no structural link"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Concept \u2014 Self-Driving Labs` connect `Community 1` to `Community 0`, `Community 11`?",
+      "why": "High betweenness centrality (0.049) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Concept \u2014 Lab Automation` connect `Community 1` to `Community 0`?",
+      "why": "High betweenness centrality (0.036) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Concept \u2014 Materials Discovery` connect `Community 1` to `Community 0`?",
+      "why": "High betweenness centrality (0.022) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 9 inferred relationships involving `Concept \u2014 Self-Driving Labs` (e.g. with `lab_sensor \u2014 Lab Sensor Tutorial Manuscript (Digital Discovery)` and `Concept \u2014 Optimization and Bayesian Search`) actually correct?",
+      "why": "`Concept \u2014 Self-Driving Labs` has 9 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `Concept \u2014 Lab Automation` (e.g. with `Kane 2019 - Automated Microfluidic Cell Culture of Stem Cell-Derived Dopaminergic Neurons` and `UofT Lash Miller Laboratory Design Document (2023)`) actually correct?",
+      "why": "`Concept \u2014 Lab Automation` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `Concept \u2014 Materials Discovery` (e.g. with `Cancer and Therapeutics` and `Adaptive 3D Printing with Bayesian Optimization (Goulet/Laventure 2025+)`) actually correct?",
+      "why": "`Concept \u2014 Materials Discovery` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `Concept \u2014 Optimization and Bayesian Search` (e.g. with `Concept \u2014 Self-Driving Labs` and `Yoshikawa 2025: Self-Driving Laboratories in Japan`) actually correct?",
+      "why": "`Concept \u2014 Optimization and Bayesian Search` has 3 INFERRED edges - model-reasoned connections that need verification."
+    }
+  ]
+}

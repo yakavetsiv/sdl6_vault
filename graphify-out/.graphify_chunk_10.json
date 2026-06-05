@@ -1,0 +1,462 @@
+{
+  "nodes": [
+    {
+      "id": "coley2019_autonomous_discovery",
+      "label": "Coley 2019 - Autonomous Discovery in Chemical Sciences Outlook",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/coley2019_autonomous_discovery_chemical_sciences_outlook.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Coley et al.",
+      "contributor": null
+    },
+    {
+      "id": "rooney2022_sdl_adhesive_materials",
+      "label": "Rooney 2022 - Self-Driving Lab for Adhesive Materials",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/rooney2022_sdl_adhesive_materials.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Rooney et al.",
+      "contributor": null
+    },
+    {
+      "id": "macleod2020_thin_film_sdl",
+      "label": "MacLeod 2020 - Self-Driving Lab for Thin Film Photovoltaics",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/macleod2020_thin_film_sdl.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "MacLeod et al.",
+      "contributor": null
+    },
+    {
+      "id": "boiko2023_llm_autonomous_chemical_research",
+      "label": "Boiko 2023 - LLMs for Autonomous Chemical Research",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/boiko2023_llm_autonomous_chemical_research.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Boiko et al.",
+      "contributor": null
+    },
+    {
+      "id": "stein2019_automated_autonomous_workflows",
+      "label": "Stein 2019 - Automated and Autonomous Experimental Workflows",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/stein2019_automated_autonomous_workflows.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Stein et al.",
+      "contributor": null
+    },
+    {
+      "id": "szymanski2023_autonomous_inorganic_materials",
+      "label": "Szymanski 2023 - Autonomous Discovery of Inorganic Materials",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/szymanski2023_autonomous_inorganic_materials.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Szymanski et al.",
+      "contributor": null
+    },
+    {
+      "id": "roch2020_chemos_orchestration_autonomous_discovery",
+      "label": "Roch 2020 - ChemOS: Orchestrating Autonomous Chemical Discovery",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/roch2020_chemos_orchestration_autonomous_discovery.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Roch et al.",
+      "contributor": null
+    },
+    {
+      "id": "abolhasani2023_rise_self_driving_labs",
+      "label": "Abolhasani 2023 - The Rise of Self-Driving Labs in Chemical and Materials Sciences",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/abolhasani2023_rise_self_driving_labs.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Abolhasani & Kumacheva",
+      "contributor": null
+    },
+    {
+      "id": "lo2024_frugal_twin",
+      "label": "Lo 2024 - Frugal Digital Twin for Materials Optimization",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/lo2024_frugal_twin.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Lo et al.",
+      "contributor": null
+    },
+    {
+      "id": "gaidimas2026_computer_vision_materials_synthesis",
+      "label": "Gaidimas 2026 - Computer Vision for Materials Synthesis",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/gaidimas2026_computer_vision_materials_synthesis.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Gaidimas et al.",
+      "contributor": null
+    },
+    {
+      "id": "maroulis2026_self_driving_liquid_handling_lab",
+      "label": "Maroulis 2026 - Self-Driving Liquid Handling Laboratory",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/maroulis2026_self_driving_liquid_handling_lab.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Maroulis et al.",
+      "contributor": null
+    },
+    {
+      "id": "lo2023_selfies_library",
+      "label": "Lo 2023 - SELFIES Chemical Representation Library",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/lo2023_selfies_library.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Lo et al.",
+      "contributor": null
+    },
+    {
+      "id": "niroomand2024_energy_landscapes_ml",
+      "label": "Niroomand 2024 - Energy Landscapes and Machine Learning",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/niroomand2024_energy_landscapes_ml.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Niroomand et al.",
+      "contributor": null
+    },
+    {
+      "id": "burger2020_mobile_robotic_chemist",
+      "label": "Burger 2020 - Mobile Robotic Chemist",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/burger2020_mobile_robotic_chemist.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Burger et al.",
+      "contributor": null
+    },
+    {
+      "id": "collins2025_sdl_biotechnology",
+      "label": "Collins 2025 - Self-Driving Labs for Biotechnology",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s43588-025-00885-8",
+      "captured_at": "2025-10-01",
+      "author": "Evan Collins, Robert Langer, Daniel G. Anderson",
+      "contributor": null
+    },
+    {
+      "id": "collins2025_concept_directed_evolution_sdl",
+      "label": "Directed Evolution via Iterative Optimization (SDL criterion)",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": "Figure 1a",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collins2025_concept_active_learning_biochem",
+      "label": "Active Learning for Biochemical Design",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wang2024_ai_ionizable_lipids_mrna",
+      "label": "Wang 2024 - AI-Driven Rational Design of Ionizable Lipids for mRNA Delivery",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s41467-024-55072-6",
+      "captured_at": "2024-12-30",
+      "author": "Wei Wang, Kepan Chen, Ting Jiang, Yiyang Wu et al.",
+      "contributor": null
+    },
+    {
+      "id": "wang2024_concept_lnp_virtual_screening",
+      "label": "LightGBM Virtual Screening of Ionizable Lipids for LNPs",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md",
+      "source_location": "Figure 2",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wang2024_concept_pka_prediction_lnp",
+      "label": "Apparent pKa Prediction for Lipid Nanoparticles",
+      "file_type": "concept",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leung2022_organ_on_chip_guide",
+      "label": "Leung 2022 - A Guide to the Organ-on-a-Chip",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Leung,-Chak-Ming-2022-05-12-A-guide-to-the-organ-on-a-chip.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1038/s43586-022-00118-6",
+      "captured_at": "2022-05-12",
+      "author": "Chak Ming Leung, Pim de Haan, Kacey Ronaldson-Bouchard et al.",
+      "contributor": null
+    },
+    {
+      "id": "graf2025_digital_twin_three_organ",
+      "label": "Graf 2025 - Digital Twin-Enhanced Three-Organ Microphysiological System",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Digital twin enhanced three organ m.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.3389/fphar.2025.1528748",
+      "captured_at": "2025-02-12",
+      "author": "Katja Graf, José Martin Murrieta-Coxca et al.",
+      "contributor": null
+    },
+    {
+      "id": "hardman2024_abm_muscle_cells",
+      "label": "Hardman 2024 - Agent-Based Modelling for Muscle Cell Culture Optimization",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-c.md",
+      "source_location": null,
+      "source_url": "https://doi.org/10.1098/rsif.2023.0603",
+      "captured_at": "2024-01-01",
+      "author": "David Hardman, Katharina Hennig, Edgar R. Gomes, William Roman, Miguel O. Bernabeu",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "collins2025_sdl_biotechnology",
+      "target": "abolhasani2023_rise_self_driving_labs",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": "Reference 1",
+      "weight": 1.0
+    },
+    {
+      "source": "collins2025_sdl_biotechnology",
+      "target": "burger2020_mobile_robotic_chemist",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": "Reference 15",
+      "weight": 1.0
+    },
+    {
+      "source": "collins2025_sdl_biotechnology",
+      "target": "coley2019_autonomous_discovery",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": "Reference 4",
+      "weight": 1.0
+    },
+    {
+      "source": "collins2025_sdl_biotechnology",
+      "target": "collins2025_concept_directed_evolution_sdl",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": "Figure 1a",
+      "weight": 1.0
+    },
+    {
+      "source": "collins2025_sdl_biotechnology",
+      "target": "collins2025_concept_active_learning_biochem",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collins2025_sdl_biotechnology",
+      "target": "wang2024_ai_ionizable_lipids_mrna",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "wang2024_ai_ionizable_lipids_mrna",
+      "target": "wang2024_concept_lnp_virtual_screening",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md",
+      "source_location": "Figure 2",
+      "weight": 1.0
+    },
+    {
+      "source": "wang2024_ai_ionizable_lipids_mrna",
+      "target": "wang2024_concept_pka_prediction_lnp",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "graf2025_digital_twin_three_organ",
+      "target": "leung2022_organ_on_chip_guide",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Digital twin enhanced three organ m.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "hardman2024_abm_muscle_cells",
+      "target": "leung2022_organ_on_chip_guide",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-c.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "collins2025_sdl_biotechnology",
+      "target": "abolhasani2023_rise_self_driving_labs",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "boiko2023_llm_autonomous_chemical_research",
+      "target": "coley2019_autonomous_discovery",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/boiko2023_llm_autonomous_chemical_research.pdf",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "roch2020_chemos_orchestration_autonomous_discovery",
+      "target": "coley2019_autonomous_discovery",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/roch2020_chemos_orchestration_autonomous_discovery.pdf",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "szymanski2023_autonomous_inorganic_materials",
+      "target": "abolhasani2023_rise_self_driving_labs",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/szymanski2023_autonomous_inorganic_materials.pdf",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "macleod2020_thin_film_sdl",
+      "target": "abolhasani2023_rise_self_driving_labs",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_attachments/Self-Driving Labs/macleod2020_thin_film_sdl.pdf",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "maroulis2026_self_driving_liquid_handling_lab",
+      "target": "abolhasani2023_rise_self_driving_labs",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/maroulis2026_self_driving_liquid_handling_lab.pdf",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "lo2024_frugal_twin",
+      "target": "graf2025_digital_twin_three_organ",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/lo2024_frugal_twin.pdf",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "gaidimas2026_computer_vision_materials_synthesis",
+      "target": "roch2020_chemos_orchestration_autonomous_discovery",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/gaidimas2026_computer_vision_materials_synthesis.pdf",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "lo2023_selfies_library",
+      "target": "coley2019_autonomous_discovery",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/lo2023_selfies_library.pdf",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "niroomand2024_energy_landscapes_ml",
+      "target": "roch2020_chemos_orchestration_autonomous_discovery",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Literature Wiki/_attachments/Digital Discovery/niroomand2024_energy_landscapes_ml.pdf",
+      "source_location": null,
+      "weight": 0.65
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

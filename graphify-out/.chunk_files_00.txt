@@ -1,0 +1,22 @@
+AI Resources/vault-dump-skill.md
+AI Resources/claude-skills.md
+AI Resources/Free Claude Code.md
+AI Resources/Skill Curator.md
+AI Resources/Auto Research Agent.md
+AI Resources/Unreviewed Links.md
+AI Resources/Diagram Generation.md
+AI Resources/Claude Training Course.md
+AI Resources/Kami Design.md
+AI Resources/Open AI Scientists.md
+AI Resources/On Device LLM.md
+AI Resources/Agent Memory.md
+AI Resources/Live UI Generation.md
+AI Resources/Agent Charts.md
+AI Resources/Deep Research Tools.md
+AI Resources/Map - AI Tools and Agents (May 2026).md
+AI Resources/Hyperspace Pods.md
+AI Resources/AC-image-style-guide.md
+AI Resources/Agent Filesystem.md
+AI Resources/AI Scientist Skills.md
+AI Resources/Website Builder AI.md
+AI Resources/Agent From Scratch.md

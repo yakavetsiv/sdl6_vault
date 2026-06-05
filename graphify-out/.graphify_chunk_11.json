@@ -1,0 +1,366 @@
+{
+  "nodes": [
+    {
+      "id": "mirror_coloration_structural_color",
+      "label": "Mirror Coloration / Structural Color",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - mirror coloration.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "s41392_cancer_treatment_strategies",
+      "label": "Cancer Tumor Treatment Strategies Review",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41392-024-01856-7.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Beilei Liu et al.",
+      "contributor": null
+    },
+    {
+      "id": "sdl_japan_self_driving_labs",
+      "label": "Self-Driving Laboratories in Japan",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Self driving laboratories in Japan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Naruki Yoshikawa",
+      "contributor": null
+    },
+    {
+      "id": "s44386_drug_combination_surfaces",
+      "label": "Predicting Drug Combination Response Surfaces",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s44386-024-00004-z.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Riikka Huusari et al.",
+      "contributor": null
+    },
+    {
+      "id": "s41598_autonomous_lab_biotechnology",
+      "label": "Autonomous Lab System for Biotechnology Research (ANL)",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41598-025-89069-y.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Keiji Fushimi et al.",
+      "contributor": null
+    },
+    {
+      "id": "takahuman_robotic_automation_advisor",
+      "label": "TakaHuman Robotic Automation Advisor Job Description",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - TakaHuman Robotic Automation Advisor JD 8.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "TakaHuman LLC",
+      "contributor": null
+    },
+    {
+      "id": "2501_09223_foundations_llm",
+      "label": "Foundations of Large Language Models",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - 2501.09223v2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Tong Xiao, Jingbo Zhu",
+      "contributor": null
+    },
+    {
+      "id": "paper_70_bayesian_3d_printing",
+      "label": "Self-Driven Process Optimization in Pneumatic 3D Printing via Bayesian Methods",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - 70.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Maxime Goulet, Audrey Laventure",
+      "contributor": null
+    },
+    {
+      "id": "nmeth3507_ipsc_automation",
+      "label": "Automated High-Throughput iPSC Derivation and Differentiation",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - nmeth.3507.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Daniel Paull et al.",
+      "contributor": null
+    },
+    {
+      "id": "s41587_ai_lipid_nanoparticle_gene_therapy",
+      "label": "AI-Guided Design of Lipid Nanoparticles for Pulmonary Gene Therapy",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41587-024-02490-y.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Jacob Witten et al.",
+      "contributor": null
+    },
+    {
+      "id": "elife77007_robotic_cell_culture",
+      "label": "Robotic Search for Optimal Cell Culture in Regenerative Medicine",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - elife-77007-v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Genki N Kanda et al.",
+      "contributor": null
+    },
+    {
+      "id": "paper_56_bayesian_polymeric_particles",
+      "label": "Constrained Composite Bayesian Optimization for Polymeric Particle Synthesis",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - 56.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Fanjin Wang et al.",
+      "contributor": null
+    },
+    {
+      "id": "s41598_2017_microfluidic_immunotherapy",
+      "label": "3D Microfluidic Model for Immunotherapy Efficacy by Tracking Dendritic Cell Behaviour",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41598-017-01013-x.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Stefania Parlato et al.",
+      "contributor": null
+    },
+    {
+      "id": "d5nj00172b_latp_solid_electrolyte",
+      "label": "Sb3+ Doping Effect on LATP Solid Electrolyte Electrochemical Performance",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - d5nj00172b.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Jiale Yuan et al.",
+      "contributor": null
+    },
+    {
+      "id": "biosensors_centrifugal_microfluidic",
+      "label": "Centrifugal Microfluidic Cell Culture Platform for Virus Infection Studies",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - biosensors-14-00401-v2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Juliane Fjelrad Christfort et al.",
+      "contributor": null
+    },
+    {
+      "id": "s41467_ai_drug_synergy_pancreatic",
+      "label": "AI-Driven Discovery of Synergistic Drug Combinations Against Pancreatic Cancer",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41467-025-56818-6.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "el_agente_autonomous_quantum_chemistry",
+      "label": "El Agente: Autonomous Agents for Quantum Chemistry",
+      "file_type": "paper",
+      "source_file": "Literature Wiki/_data/markitdown/Paper - el agente.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Yunheng Zou, Austin H. Cheng, Ilya Yakavets et al.",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "sdl_japan_self_driving_labs",
+      "target": "s41598_autonomous_lab_biotechnology",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Self driving laboratories in Japan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sdl_japan_self_driving_labs",
+      "target": "elife77007_robotic_cell_culture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Self driving laboratories in Japan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sdl_japan_self_driving_labs",
+      "target": "el_agente_autonomous_quantum_chemistry",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - Self driving laboratories in Japan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "s41598_autonomous_lab_biotechnology",
+      "target": "elife77007_robotic_cell_culture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.90,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41598-025-89069-y.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "s41598_autonomous_lab_biotechnology",
+      "target": "paper_70_bayesian_3d_printing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41598-025-89069-y.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "paper_70_bayesian_3d_printing",
+      "target": "paper_56_bayesian_polymeric_particles",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - 70.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_70_bayesian_3d_printing",
+      "target": "s41598_autonomous_lab_biotechnology",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - 70.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "s41467_ai_drug_synergy_pancreatic",
+      "target": "s44386_drug_combination_surfaces",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.92,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41467-025-56818-6.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "s41467_ai_drug_synergy_pancreatic",
+      "target": "s41392_cancer_treatment_strategies",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41467-025-56818-6.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "s41587_ai_lipid_nanoparticle_gene_therapy",
+      "target": "s41467_ai_drug_synergy_pancreatic",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.77,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41587-024-02490-y.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "s41587_ai_lipid_nanoparticle_gene_therapy",
+      "target": "s41392_cancer_treatment_strategies",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - s41587-024-02490-y.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "nmeth3507_ipsc_automation",
+      "target": "elife77007_robotic_cell_culture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.83,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - nmeth.3507.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nmeth3507_ipsc_automation",
+      "target": "sdl_japan_self_driving_labs",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - nmeth.3507.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "biosensors_centrifugal_microfluidic",
+      "target": "s41598_2017_microfluidic_immunotherapy",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.87,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - biosensors-14-00401-v2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "el_agente_autonomous_quantum_chemistry",
+      "target": "s41598_autonomous_lab_biotechnology",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - el agente.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "el_agente_autonomous_quantum_chemistry",
+      "target": "2501_09223_foundations_llm",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - el agente.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "takahuman_robotic_automation_advisor",
+      "target": "sdl_japan_self_driving_labs",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "Literature Wiki/_data/markitdown/Paper - TakaHuman Robotic Automation Advisor JD 8.md",
+      "source_location": null,
+      "weight": 0.7
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
