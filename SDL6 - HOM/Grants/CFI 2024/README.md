@@ -4,11 +4,12 @@ date: 2026-06-04
 project: SDL6-HOM
 type: index
 tags:
-  - CFI
-  - SDL6
-  - HOM
+  - sdl6
+  - sdl6/cfi
+  - type/index
+  - project/sdl6-hom
   - grants
-  - Acceleration-Consortium
+  - acceleration-consortium
 ---
 
 # SDL6 HOM — CFI 2024 Grant Folder

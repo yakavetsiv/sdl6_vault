@@ -4,6 +4,8 @@ date: 2026-06-04
 project: VibeCount
 type: github-repo
 tags:
+  - type/github-repo
+  - project/vibecount
   - github
   - cell-counting
   - deep-learning

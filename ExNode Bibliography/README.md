@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: ExNode Bibliography Wiki
 type: index
 source_bibliography: includes/references.bib

@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions"
 bibtex_key: hou_model_2025
 zotero_key: U4DMT36G

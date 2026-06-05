@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/extraction-index
+  - lit/sdl
 title: Available PDF Markdown Extraction
 type: extraction-index
 ---

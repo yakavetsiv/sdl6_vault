@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Science acceleration and accessibility with self-driving labs"
 bibtex_key: canty_science_2025
 zotero_key: GX66LZYC

@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "A dynamic knowledge graph approach to distributed self-driving laboratories"
 doi: 10.1038/s41467-023-44599-9
 source_url: https://www.nature.com/articles/s41467-023-44599-9.pdf

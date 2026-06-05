@@ -3,6 +3,8 @@ title: AC Image Style Guide
 date: 2026-06-04
 type: reference
 tags:
+  - ai
+  - type/reference
   - AC
   - branding
   - design

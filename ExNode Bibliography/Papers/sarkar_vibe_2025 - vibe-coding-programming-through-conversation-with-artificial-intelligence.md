@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "Vibe coding: programming through conversation with artificial intelligence"
 bibtex_key: sarkar_vibe_2025
 zotero_key: IHNR5M8G

@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/biofabrication
 type: literature-note
 source_note: "Papers/Paper - Digilocs a leap forward in predicti.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Aravindakshan-2025-Digilocs-a-leap-forward-in-predicti.pdf"

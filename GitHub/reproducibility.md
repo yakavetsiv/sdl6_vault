@@ -4,7 +4,7 @@ date: 2026-06-04
 type: github-repo
 tags:
   - github
-  - SDL6
+  - sdl6
   - reproducibility
   - liquid-handling
   - ML

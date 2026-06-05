@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/extraction-index
+  - lit/sdl
 title: "Self-driving laboratory for accelerated discovery of thin-film materials"
 type: extraction-index
 lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - SDL - macleod2020_thin_film_sdl]]"

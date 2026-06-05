@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: Citation Matrix
 type: matrix
 ---

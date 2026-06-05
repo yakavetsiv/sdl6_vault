@@ -1,3 +1,11 @@
+---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/nanomedicine
+---
+
 Article
 
 https://doi.org/10.1038/s41467-023-37139-y

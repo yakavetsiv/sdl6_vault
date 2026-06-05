@@ -5,6 +5,8 @@ project: VibeCount
 type: index
 tags:
   - project
+  - project/vibecount
+  - type/index
   - preprint
   - computer-vision
   - cell-counting

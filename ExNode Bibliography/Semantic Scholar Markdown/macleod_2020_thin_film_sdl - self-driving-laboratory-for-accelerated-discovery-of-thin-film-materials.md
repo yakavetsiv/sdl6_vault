@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Self-driving laboratory for accelerated discovery of thin-film materials"
 doi: 10.1126/sciadv.aaz8867
 source_url: https://advances.sciencemag.org/content/advances/6/20/eaaz8867.full.pdf

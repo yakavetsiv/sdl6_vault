@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "A foundational representation for an orchestrated lab"
 bibtex_key: gottstein_foundational_2026
 zotero_key: 95Q249HP

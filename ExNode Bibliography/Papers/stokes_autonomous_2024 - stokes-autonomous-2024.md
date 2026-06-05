@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "stokes_autonomous_2024"
 bibtex_key: stokes_autonomous_2024
 zotero_key: not-found

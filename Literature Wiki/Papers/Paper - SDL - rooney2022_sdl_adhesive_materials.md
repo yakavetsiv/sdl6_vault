@@ -1,4 +1,10 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/ai-methods
+  - lit/digital-discovery
 type: literature-note
 status: converted
 source_type: pdf

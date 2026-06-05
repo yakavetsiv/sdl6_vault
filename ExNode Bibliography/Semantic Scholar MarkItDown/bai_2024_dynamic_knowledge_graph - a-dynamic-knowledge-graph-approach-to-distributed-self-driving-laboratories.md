@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/extraction-index
+  - lit/sdl
 title: "A dynamic knowledge graph approach to distributed self-driving laboratories"
 type: extraction-index
 lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - SDL - bai2024_dynamic_kg_distributed_sdl]]"

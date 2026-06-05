@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "Controlling an organic synthesis robot with machine learning to search for new reactivity"
 doi: 10.1038/s41586-018-0307-8
 source_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223543

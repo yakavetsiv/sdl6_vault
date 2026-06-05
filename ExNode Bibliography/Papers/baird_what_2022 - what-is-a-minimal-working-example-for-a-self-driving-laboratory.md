@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "What is a minimal working example for a self-driving laboratory?"
 bibtex_key: baird_what_2022
 zotero_key: 4KTM4JKA

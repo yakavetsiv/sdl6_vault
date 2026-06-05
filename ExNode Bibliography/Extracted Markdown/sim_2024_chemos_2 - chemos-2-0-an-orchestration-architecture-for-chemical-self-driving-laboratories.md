@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/nanomedicine
 title: "ChemOS 2.0: An orchestration architecture for chemical self-driving laboratories"
 zotero_item_key: 59MIFXX2
 zotero_attachment_key: 5QTIEIIH

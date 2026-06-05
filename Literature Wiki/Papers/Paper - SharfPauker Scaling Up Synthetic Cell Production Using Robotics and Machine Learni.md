@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/biofabrication
+  - lit/ai-methods
 type: literature-note
 status: needs-review-too_short
 source_type: pdf

@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/extraction-index
+  - lit/sdl
 title: "A User's Guide to Your First Self-Driving Liquid Handling Lab"
 bibtex_key: maroulis_users_2025
 zotero_key: EK2DHWE9

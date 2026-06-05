@@ -3,6 +3,7 @@ title: image_analysis_uos
 date: 2026-06-04
 type: github-repo
 tags:
+  - type/github-repo
   - github
   - image-analysis
   - UOroboros

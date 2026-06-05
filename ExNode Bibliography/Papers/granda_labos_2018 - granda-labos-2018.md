@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "granda_labos_2018"
 bibtex_key: granda_labos_2018
 zotero_key: not-found

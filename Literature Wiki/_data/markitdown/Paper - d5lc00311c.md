@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/nanomedicine
+  - lit/biofabrication
 type: literature-note
 source_note: "Papers/Paper - d5lc00311c.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/d5lc00311c.pdf"

@@ -1,3 +1,10 @@
+---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+---
+
 ARTICLE
 
 https://doi.org/10.1038/s41467-020-19597-w

@@ -3,10 +3,11 @@ title: Claude Code Skills
 date: 2026-06-04
 type: reference
 tags:
+  - ai
+  - type/reference
   - claude-code
   - skills
   - setup
-  - AI
 project: SDL6-HOM
 ---
 

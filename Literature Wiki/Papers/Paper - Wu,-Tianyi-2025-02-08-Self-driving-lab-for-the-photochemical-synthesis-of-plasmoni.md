@@ -1,4 +1,10 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/nanomedicine
+  - lit/ai-methods
 type: literature-note
 status: reading-notes-extracted
 source_type: pdf

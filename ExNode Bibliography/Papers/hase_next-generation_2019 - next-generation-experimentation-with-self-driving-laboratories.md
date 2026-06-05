@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Next-Generation Experimentation with Self-Driving Laboratories"
 bibtex_key: hase_next-generation_2019
 zotero_key: F768X997

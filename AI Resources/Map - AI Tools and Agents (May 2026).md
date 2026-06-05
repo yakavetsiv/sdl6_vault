@@ -1,6 +1,6 @@
 ---
 title: "Map - AI Tools and Agents (May 2026)"
-tags: [MOC, map-of-content, AI, agents, tools]
+tags: [ai, type/map, type/index, MOC, map-of-content, agents, tools]
 date_created: 2026-05-13
 type: MOC
 ---

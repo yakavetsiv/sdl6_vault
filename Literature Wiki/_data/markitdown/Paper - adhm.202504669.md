@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/nanomedicine
+  - lit/biofabrication
 type: literature-note
 source_note: "Papers/Paper - adhm.202504669.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/adhm.202504669.pdf"

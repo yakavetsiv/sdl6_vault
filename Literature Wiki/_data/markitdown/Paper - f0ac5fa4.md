@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 type: literature-note
 source_note: "Papers/Paper - f0ac5fa4.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/f0ac5fa4.pdf"

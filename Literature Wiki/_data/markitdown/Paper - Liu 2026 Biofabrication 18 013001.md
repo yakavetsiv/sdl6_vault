@@ -1,4 +1,11 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/nanomedicine
+  - lit/biofabrication
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - Liu 2026 Biofabrication 18 013001.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Liu_2026_Biofabrication_18_013001.pdf"

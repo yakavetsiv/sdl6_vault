@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "The SiLA 2 Manager for rapid device integration and workflow automation"
 bibtex_key: bromig_sila_2022
 zotero_key: 4TCKC22E

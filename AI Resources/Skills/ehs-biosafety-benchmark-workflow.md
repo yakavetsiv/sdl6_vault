@@ -4,7 +4,9 @@ date: 2026-06-04
 type: skill
 status: developing
 tags:
-  - skill
+  - ai
+  - type/skill
+  - sdl6
   - evaluation
   - biosafety
   - obsidian

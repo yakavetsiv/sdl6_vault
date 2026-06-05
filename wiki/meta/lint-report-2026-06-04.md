@@ -6,6 +6,8 @@ updated: 2026-06-04
 tags:
   - meta
   - lint
+  - type/reference
+  - vault
 status: reviewed
 ---
 

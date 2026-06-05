@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/biofabrication
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - Zieger Towards Automation in 3D Cell Culture Selective and Gentle HighThroughput.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Adv Healthcare Materials - 2024 - Zieger - Towards Automation in 3D Cell Culture  Selective and Gentle High%E2%80%90Throughput.pdf"

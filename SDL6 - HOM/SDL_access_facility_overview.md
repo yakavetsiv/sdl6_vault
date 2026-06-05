@@ -4,13 +4,16 @@ date: 2026-06-04
 project: SDL6-HOM
 type: reference
 tags:
-  - SDL6
-  - HOM
+  - sdl6
+  - sdl6/automation
+  - type/reference
+  - project/sdl6-hom
+  - ehs
   - facility
   - access
   - nanomedicine
   - CCBR
-  - Acceleration-Consortium
+  - acceleration-consortium
 ---
 
 # SDL-HOM Facility Overview & Access Policy

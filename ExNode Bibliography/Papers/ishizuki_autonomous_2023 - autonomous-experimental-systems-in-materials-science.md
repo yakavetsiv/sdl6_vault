@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Autonomous experimental systems in materials science"
 bibtex_key: ishizuki_autonomous_2023
 zotero_key: Q3PTAVM5

@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/ai-methods
+  - lit/digital-discovery
 type: literature-note
 ---
 

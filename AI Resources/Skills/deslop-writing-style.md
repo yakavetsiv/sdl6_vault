@@ -3,12 +3,14 @@ title: Deslop — Writing Style Reference
 date: 2026-06-04
 type: skill-reference
 tags:
+  - ai
+  - type/skill
+  - sdl6
   - writing
   - deslop
   - style
   - AI-patterns
   - scientific-writing
-  - skills
 ---
 
 # Deslop — Writing Style Reference

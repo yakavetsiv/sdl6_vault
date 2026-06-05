@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "Design Patterns: Elements of Reusable Object-Oriented Software"
 bibtex_key: gamma_design_1994
 zotero_key: 9IXW98P2

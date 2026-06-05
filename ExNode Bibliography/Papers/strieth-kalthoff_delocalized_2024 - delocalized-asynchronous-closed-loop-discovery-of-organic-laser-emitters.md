@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Delocalized, asynchronous, closed-loop discovery of organic laser emitters"
 bibtex_key: strieth-kalthoff_delocalized_2024
 zotero_key: IYLH6IDL

@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/nanomedicine
 title: "A self-driving laboratory advances the Pareto front for material properties"
 doi: 10.1038/s41467-022-28580-6
 source_url: https://www.nature.com/articles/s41467-022-28580-6.pdf

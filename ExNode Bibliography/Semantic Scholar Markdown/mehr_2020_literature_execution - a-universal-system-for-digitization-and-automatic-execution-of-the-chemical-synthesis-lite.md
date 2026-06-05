@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "A universal system for digitization and automatic execution of the chemical synthesis literature"
 doi: 10.1126/science.abc2986
 source_url: http://eprints.gla.ac.uk/221626/1/221626.pdf

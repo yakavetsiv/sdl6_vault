@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/biofabrication
 type: literature-note
 source_note: "Papers/Paper - biosensors-14-00401-v2.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/biosensors-14-00401-v2.pdf"

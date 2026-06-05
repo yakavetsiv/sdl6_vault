@@ -1,3 +1,9 @@
+---
+tags:
+  - literature
+  - type/paper
+---
+
 The Automation of Science
 Ross D. King, et al.
 Science 324, 85 (2009);

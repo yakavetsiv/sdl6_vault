@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: Orchestration and Workflow Systems
 type: theme
 ---

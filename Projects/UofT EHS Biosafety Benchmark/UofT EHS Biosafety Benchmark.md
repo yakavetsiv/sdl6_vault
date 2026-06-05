@@ -6,9 +6,12 @@ type: index
 status: active
 tags:
   - project
+  - project/ehs-benchmark
+  - type/index
+  - ehs
+  - benchmark
   - biosafety
   - uoft-ehs
-  - benchmark
   - evaluation
 related:
   - "[[EHS Wiki Home]]"

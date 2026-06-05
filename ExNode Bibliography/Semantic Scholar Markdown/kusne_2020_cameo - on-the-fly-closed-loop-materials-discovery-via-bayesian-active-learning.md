@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "On-the-fly closed-loop materials discovery via Bayesian active learning"
 doi: 10.1038/s41467-020-19597-w
 source_url: https://www.nature.com/articles/s41467-020-19597-w.pdf

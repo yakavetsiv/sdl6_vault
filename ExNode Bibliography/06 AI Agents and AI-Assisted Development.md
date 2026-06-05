@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: AI Agents and AI-Assisted Development
 type: theme
 ---

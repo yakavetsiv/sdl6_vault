@@ -4,10 +4,12 @@ date: 2026-06-04
 project: LH_BO_Preprint
 type: github-repo
 tags:
+  - type/github-repo
+  - project/lh-bo-preprint
   - github
   - liquid-handling
   - bayesian-optimization
-  - SDL6
+  - sdl6
   - preprint
   - calibration
 ---

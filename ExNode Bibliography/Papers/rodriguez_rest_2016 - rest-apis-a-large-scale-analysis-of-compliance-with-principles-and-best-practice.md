@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "REST APIs: A Large-Scale Analysis of Compliance with Principles and Best Practices"
 bibtex_key: rodriguez_rest_2016
 zotero_key: 593E2FQ7

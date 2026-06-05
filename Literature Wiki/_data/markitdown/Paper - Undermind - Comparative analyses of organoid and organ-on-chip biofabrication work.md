@@ -1,4 +1,10 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/nanomedicine
+  - lit/biofabrication
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - Undermind - Comparative analyses of organoid and organ-on-chip biofabrication work.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Undermind - Comparative analyses of organoid and organ-on-chip biofabrication workflows exposing automation gaps for self-driving systems.pdf"

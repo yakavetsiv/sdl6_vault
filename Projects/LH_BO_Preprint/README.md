@@ -5,6 +5,8 @@ project: LH_BO_Preprint
 type: index
 tags:
   - project
+  - project/lh-bo-preprint
+  - type/index
   - preprint
   - liquid-handling
   - bayesian-optimization

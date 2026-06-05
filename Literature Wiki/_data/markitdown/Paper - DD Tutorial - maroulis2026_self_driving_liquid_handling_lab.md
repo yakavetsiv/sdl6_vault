@@ -1,4 +1,11 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/nanomedicine
+  - lit/ai-methods
+  - lit/digital-discovery
 type: literature-note
 ---
 

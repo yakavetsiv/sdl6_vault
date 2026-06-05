@@ -4,14 +4,14 @@ date: 2026-06-04
 project: SDL6-HOM
 type: okr
 tags:
-  - SDL6
-  - HOM
-  - OKR
+  - sdl6
+  - sdl6/automation
+  - type/okr
+  - project/sdl6-hom
   - objectives
   - organ-on-chip
   - organoids
   - AI
-  - automation
 ---
 
 # OKR — SDL6 Human Organ Mimicry

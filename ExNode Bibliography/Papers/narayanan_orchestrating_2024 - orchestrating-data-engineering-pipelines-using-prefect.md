@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "Orchestrating Data Engineering Pipelines using Prefect"
 bibtex_key: narayanan_orchestrating_2024
 zotero_key: 3Y4KZU9X

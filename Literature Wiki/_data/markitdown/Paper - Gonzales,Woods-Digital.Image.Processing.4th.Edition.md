@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - Gonzales,Woods-Digital.Image.Processing.4th.Edition.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf"

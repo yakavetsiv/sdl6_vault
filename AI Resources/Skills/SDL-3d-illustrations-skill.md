@@ -4,8 +4,9 @@ date: 2026-06-04
 project: SDL6-HOM
 type: skill
 tags:
-  - skill
-  - SDL6
+  - ai
+  - type/skill
+  - sdl6
   - visualization
   - AC
 ---

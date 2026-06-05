@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/biofabrication
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - 2020 iPSC Advances WadkinIntro Math Modelling.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/2020_iPSC_Advances_WadkinIntro_Math_Modelling.pdf"

@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "An autonomous laboratory for the accelerated synthesis of inorganic materials"
 doi: 10.1038/s41586-023-06734-w
 source_url: https://www.nature.com/articles/s41586-023-06734-w.pdf

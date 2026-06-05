@@ -3,6 +3,8 @@ title: claude-obsidian
 date: 2026-06-04
 type: github-repo
 tags:
+  - type/github-repo
+  - ai
   - github
   - obsidian
   - agent-skills

@@ -3,6 +3,8 @@ title: Projects MOC
 date: 2026-06-04
 type: index
 tags:
+  - project
+  - type/index
   - projects
   - MOC
 ---

@@ -1,4 +1,10 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/ai-methods
+  - lit/digital-discovery
 type: literature-note
 source_note: "Papers/Paper - Undermind - Software wrappers and intermediate device OSs for Pythonic lab automat.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Undermind - Software wrappers and intermediate device OSs for Pythonic lab automation.pdf"

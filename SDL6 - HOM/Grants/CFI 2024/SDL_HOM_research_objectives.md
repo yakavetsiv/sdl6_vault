@@ -4,9 +4,10 @@ date: 2026-06-04
 project: SDL6-HOM
 type: source
 tags:
-  - SDL6
-  - HOM
-  - CFI
+  - sdl6
+  - sdl6/cfi
+  - type/source
+  - project/sdl6-hom
   - V2
   - organ-on-chip
   - organoids

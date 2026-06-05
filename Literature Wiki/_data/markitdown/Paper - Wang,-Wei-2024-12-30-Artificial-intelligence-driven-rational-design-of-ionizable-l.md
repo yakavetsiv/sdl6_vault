@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/nanomedicine
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-l.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Wang,-Wei-2024-12-30-Artificial-intelligence-driven-rational-design-of-ionizable-lipids-for-mRNA-delivery.pdf"

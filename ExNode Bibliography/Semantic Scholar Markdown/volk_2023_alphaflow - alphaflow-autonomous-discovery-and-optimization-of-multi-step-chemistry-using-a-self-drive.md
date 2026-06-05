@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/nanomedicine
 title: "AlphaFlow: autonomous discovery and optimization of multi-step chemistry using a self-driven fluidic lab guided by reinforcement learning"
 doi: 10.1038/s41467-023-37139-y
 source_url: https://www.nature.com/articles/s41467-023-37139-y.pdf

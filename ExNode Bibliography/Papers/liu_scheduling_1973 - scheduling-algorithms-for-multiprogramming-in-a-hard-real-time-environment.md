@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment"
 bibtex_key: liu_scheduling_1973
 zotero_key: L2JZYJBC

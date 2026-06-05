@@ -4,8 +4,7 @@ date: 2026-06-04
 project: SDL6-HOM
 type: index
 tags:
-  - SDL6
-  - HOM
+  - sdl6
   - reproducibility
   - ML
   - cell-counting

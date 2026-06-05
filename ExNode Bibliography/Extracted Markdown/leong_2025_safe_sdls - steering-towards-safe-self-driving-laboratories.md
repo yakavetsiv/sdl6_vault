@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Steering towards safe self-driving laboratories"
 zotero_item_key: QKPQAUE3
 zotero_attachment_key: TD2NMMX4

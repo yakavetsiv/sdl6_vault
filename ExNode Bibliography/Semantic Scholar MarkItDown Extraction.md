@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/extraction-index
 title: Semantic Scholar MarkItDown Extraction
 type: extraction-index
 ---

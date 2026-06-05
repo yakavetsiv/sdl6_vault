@@ -6,7 +6,7 @@ project: SDL6-HOM
 tags:
   - map
   - nanomedicine
-  - SDL6
+  - sdl6
   - organ-on-chip
   - organoids
   - nanoparticle

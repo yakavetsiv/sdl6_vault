@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 type: literature-note
 status: reading-notes-extracted
 source_type: pdf

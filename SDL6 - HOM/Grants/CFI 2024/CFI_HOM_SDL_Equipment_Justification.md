@@ -4,14 +4,15 @@ date: 2026-06-04
 project: SDL6-HOM
 type: output
 tags:
-  - CFI
-  - SDL6
-  - HOM
-  - nanomedicine
-  - organ-on-chip
+  - sdl6
+  - sdl6/nanomedicine
+  - sdl6/organ-on-chip
+  - sdl6/cfi
+  - type/output
+  - project/sdl6-hom
   - organoids
   - grant-writing
-  - Acceleration-Consortium
+  - acceleration-consortium
 ---
 
 # CFI Grant — HOM SDL Equipment Justification

@@ -1,4 +1,9 @@
 ---
+tags:
+  - ai
+  - type/skill
+  - claude-code
+  - sdl6
 name: vault-dump
 description: >
   Full session wrapper for any Claude Code session — code repos, grants, scripts,
@@ -13,6 +18,10 @@ description: >
   
   Also trigger END mode proactively at the end of any session involving file creation,
   grant writing, literature review, LaTeX editing, or code work.
+tags:
+  - ai
+  - type/skill
+  - claude-code
 ---
 
 # vault-dump

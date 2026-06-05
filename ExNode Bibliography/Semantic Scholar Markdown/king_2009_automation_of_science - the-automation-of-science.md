@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "The Automation of Science"
 doi: 10.1126/science.1165620
 source_url: https://pure.manchester.ac.uk/ws/files/21728779/POST-PEER-REVIEW-PUBLISHERS.PDF

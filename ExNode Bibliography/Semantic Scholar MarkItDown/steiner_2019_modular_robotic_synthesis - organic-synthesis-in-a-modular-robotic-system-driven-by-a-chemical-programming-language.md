@@ -1,3 +1,9 @@
+---
+tags:
+  - literature
+  - type/paper
+---
+
 Steiner, S. et al. (2018) Organic synthesis in a modular robotic system driven by a
 chemical programming language. Science, (doi:10.1126/science.aav2211).
 

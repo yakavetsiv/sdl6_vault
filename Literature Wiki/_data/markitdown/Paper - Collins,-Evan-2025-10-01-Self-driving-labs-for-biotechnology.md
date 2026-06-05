@@ -1,4 +1,10 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/nanomedicine
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology.pdf"

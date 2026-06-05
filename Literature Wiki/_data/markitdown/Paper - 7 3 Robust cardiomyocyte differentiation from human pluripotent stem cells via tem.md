@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/biofabrication
 type: literature-note
 source_note: "Papers/Paper - 7 3 Robust cardiomyocyte differentiation from human pluripotent stem cells via tem.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Xiaojun-Lian-2012-7-3-Robust-cardiomyocyte-differentiation-from-human-pluripotent-stem-cells-via-temporal-modulation-of-canonical-Wnt-signaling.pdf"

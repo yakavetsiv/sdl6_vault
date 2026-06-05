@@ -1,4 +1,10 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/nanomedicine
+  - lit/biofabrication
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - sciadv.adt1851.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/sciadv.adt1851.pdf"

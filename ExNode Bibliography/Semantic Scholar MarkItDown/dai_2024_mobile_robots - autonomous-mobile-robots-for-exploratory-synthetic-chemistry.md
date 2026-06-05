@@ -1,3 +1,10 @@
+---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+---
+
 Autonomous mobile robots for exploratory
 synthetic chemistry
 

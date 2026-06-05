@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: Bibliography Audit
 type: audit
 source_bibliography: includes/references.bib

@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Integrating autonomy into automated research platforms"
 zotero_item_key: V33GJI4D
 zotero_attachment_key: 87DCU9W7

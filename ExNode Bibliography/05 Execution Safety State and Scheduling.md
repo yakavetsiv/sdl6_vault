@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: Execution Safety State and Scheduling
 type: theme
 ---

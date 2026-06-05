@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Perspectives for self-driving labs in synthetic biology"
 bibtex_key: martin_perspectives_2023
 zotero_key: SKHNYM78

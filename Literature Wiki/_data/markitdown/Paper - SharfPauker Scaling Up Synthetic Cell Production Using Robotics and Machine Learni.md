@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - SharfPauker Scaling Up Synthetic Cell Production Using Robotics and Machine Learni.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Advanced Biology - 2025 - Sharf%E2%80%90Pauker - Scaling Up Synthetic Cell Production Using Robotics and Machine Learning Toward.pdf"

@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "What is missing in autonomous discovery: open challenges for the community"
 bibtex_key: maffettone_what_2023
 zotero_key: G3PMVFS8

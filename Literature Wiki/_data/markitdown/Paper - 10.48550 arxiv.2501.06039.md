@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - 10.48550 arxiv.2501.06039.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/10.48550_arxiv.2501.06039.pdf"

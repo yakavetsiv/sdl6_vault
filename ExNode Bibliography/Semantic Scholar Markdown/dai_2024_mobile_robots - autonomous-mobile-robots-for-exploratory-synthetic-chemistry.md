@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Autonomous mobile robots for exploratory synthetic chemistry"
 doi: 10.1038/s41586-024-08173-7
 source_url: https://www.nature.com/articles/s41586-024-08173-7.pdf

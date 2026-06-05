@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "PyLabRobot: An open-source, hardware-agnostic interface for liquid-handling robots and accessories"
 bibtex_key: wierenga_pylabrobot_2023
 zotero_key: Q8R3X4BE

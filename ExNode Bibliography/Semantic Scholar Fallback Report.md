@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: Semantic Scholar Fallback Report
 type: external-resolution-report
 ---

@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "The SiLA 2 Manager for rapid device integration and workflow automation"
 zotero_item_key: 4TCKC22E
 zotero_attachment_key: PXJA4KNT

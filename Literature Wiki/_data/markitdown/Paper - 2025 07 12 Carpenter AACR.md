@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - 2025 07 12 Carpenter AACR.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/2025_07_12_Carpenter_AACR.pdf"

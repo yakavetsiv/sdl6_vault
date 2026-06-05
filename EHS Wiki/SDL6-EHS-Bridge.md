@@ -5,7 +5,7 @@ type: reference
 project: SDL6-HOM
 tags:
   - EHS
-  - SDL6
+  - sdl6
   - biosafety
   - nanomedicine
   - cell-culture

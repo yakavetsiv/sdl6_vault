@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "gao_autonomous_2023"
 bibtex_key: gao_autonomous_2023
 zotero_key: not-found

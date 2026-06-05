@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: Device Integration and Protocol Interfaces
 type: theme
 ---

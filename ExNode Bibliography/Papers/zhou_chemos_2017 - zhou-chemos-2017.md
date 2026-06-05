@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "zhou_chemos_2017"
 bibtex_key: zhou_chemos_2017
 zotero_key: not-found

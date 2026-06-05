@@ -1,3 +1,9 @@
+---
+tags:
+  - literature
+  - type/paper
+---
+
 Mehr, S. H. M., Craven, M., Leonov, A. I., Keenan, G. and Cronin, L. (2020) A
 universal system for digitization and automatic execution of the chemical synthesis
 literature. Science, 370(6512), pp. 101-108.

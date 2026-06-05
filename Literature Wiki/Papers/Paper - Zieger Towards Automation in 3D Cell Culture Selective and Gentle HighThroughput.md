@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/biofabrication
 type: literature-note
 status: reading-notes-extracted
 source_type: pdf

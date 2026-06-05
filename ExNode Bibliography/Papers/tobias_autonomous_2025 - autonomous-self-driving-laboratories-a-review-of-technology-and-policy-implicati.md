@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Autonomous ‘self-driving’ laboratories: a review of technology and policy implications"
 bibtex_key: tobias_autonomous_2025
 zotero_key: 7TE6KHLK

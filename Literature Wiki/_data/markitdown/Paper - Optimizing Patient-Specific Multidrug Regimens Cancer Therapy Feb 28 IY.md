@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/biofabrication
+  - lit/ai-methods
 type: literature-note
 source_note: "Papers/Paper - Optimizing Patient-Specific Multidrug Regimens Cancer Therapy Feb 28 IY.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/Optimizing Patient-Specific Multidrug Regimens Cancer Therapy_Feb 28_IY.pdf"

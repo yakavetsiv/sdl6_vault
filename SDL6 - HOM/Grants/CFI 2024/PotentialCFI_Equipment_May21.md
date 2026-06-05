@@ -4,9 +4,10 @@ date: 2026-06-04
 project: SDL6-HOM
 type: source
 tags:
-  - CFI
-  - SDL6
-  - HOM
+  - sdl6
+  - sdl6/cfi
+  - type/source
+  - project/sdl6-hom
   - CPDD
   - equipment
   - formulation

@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: PDF Extraction Report
 type: extraction-report
 ---

@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "Towards robotic laboratory automation plug & play: Reference architecture model for robot integration"
 bibtex_key: wolf_towards_2024
 zotero_key: QKJKN8WE

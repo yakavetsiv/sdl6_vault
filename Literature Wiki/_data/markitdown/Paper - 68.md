@@ -1,4 +1,9 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
+  - lit/digital-discovery
 type: literature-note
 source_note: "Papers/Paper - 68.md"
 source_pdf: "/Users/iyakavets/Downloads/Sorted_2026-05-09/PDFs/Research_Papers/68.pdf"

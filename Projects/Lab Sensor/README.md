@@ -5,6 +5,8 @@ project: lab-sensor
 type: index
 tags:
   - project
+  - project/lab-sensor
+  - type/index
   - preprint
   - lab-sensor
   - digital-discovery

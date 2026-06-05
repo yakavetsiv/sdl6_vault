@@ -1,4 +1,7 @@
 ---
+tags:
+  - literature
+  - type/paper
 title: "Organic synthesis in a modular robotic system driven by a chemical programming language"
 doi: 10.1126/science.aav2211
 source_url: https://science.sciencemag.org/content/sci/363/6423/eaav2211.full.pdf

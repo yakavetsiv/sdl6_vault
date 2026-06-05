@@ -1,4 +1,8 @@
 ---
+tags:
+  - literature
+  - type/paper
+  - lit/sdl
 title: "Self-Driving Laboratories for Chemistry and Materials Science"
 bibtex_key: tom_self-driving_2024
 zotero_key: FQ7TUPZ9
