@@ -67,3 +67,9 @@ Brandon version uses different instrument selection (Echo liquid handler, Union 
 - Versa/standard liquid handler with organoid-compatible modules
 - Imaging plate reader (confocal) instead of separate imaging system
 - Standard well-plate flow cytometer instead of cell sorter
+
+---
+
+## Related Notes
+- [[CFI_HOM_SDL_Equipment_Justification]]
+- [[PotentialCFI_Equipment_May21]]

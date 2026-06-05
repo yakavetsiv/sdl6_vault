@@ -38,3 +38,15 @@ Pan-Canadian Drug Discovery SDL Network proposal connecting U of T, UBC, Univers
 - Establishes CFI context: HOM SDL is node in pan-Canadian network
 - Justifies "no existing Canadian platform" claim in equipment section
 - Drug delivery and nanomedicine screening positioned as critical gap
+
+---
+
+## Related Notes
+- [[OKR_SDL6]]
+- [[SDL_HOM_research_objectives]]
+- [[CFI_HOM_SDL_Equipment_Justification]]
+
+## Related Literature
+- [[Map - Self-Driving Lab Stack]]
+- [[Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology]]
+- [[Paper - Self driving laboratories in Japan]]

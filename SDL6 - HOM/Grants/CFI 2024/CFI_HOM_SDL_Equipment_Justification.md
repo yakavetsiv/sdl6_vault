@@ -79,3 +79,19 @@ An imaging plate reader ($400K CAD) combining wide-field fluorescence, spinning-
 Human organoids and organ-on-chip devices derived from patient biopsies or induced pluripotent stem cells carry patient-specific genetic material, reflecting inter-individual differences in receptor expression, enzyme activity, and immune function that cell lines erase and rodent models do not reproduce. Organ-on-chip systems support co-culture of immune cells with parenchymal tissue, allowing direct assessment of nanomedicine-induced inflammatory activation and complement response in a human immune context. Rodents differ from humans in innate immune receptor repertoire and complement pathway activation, both of which govern nanoparticle clearance and toxicity, risks that animal studies routinely fail to detect. Physiological flow and advection recreate the hemodynamic forces driving nanoparticle transport across vascular endothelium, a process static cultures cannot replicate and one that largely determines in vivo delivery efficiency.
 
 Parameters such as shear rate, matrix stiffness, cell composition, and perfusion rate can be varied independently to identify what limits nanomedicine performance in vivo. The SDL platform assesses toxicity and efficacy concurrently in the same well plate, using multiplexed imaging and flow cytometry to capture both endpoints from a single run, cutting the number of assays per candidate and producing paired human-tissue data to strengthen the preclinical case for Canadian nanomedicine programs moving toward clinical evaluation.
+
+---
+
+## Related Notes
+- [[OKR_SDL6]] — OKR metrics cited in equipment section
+- [[SDL_HOM_research_objectives]] — V1/V2 rationale
+- [[SDL_access_facility_overview]] — facility context
+
+## Related Literature
+- [[Map - Biofabrication and Cell Systems]]
+- [[Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology]]
+- [[Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation (2)]]
+- [[Paper - Wenckstern,-Johann-2025-01-10-AI-powered-virtual-tissues-from-spatial-proteomics-f]]
+- [[Paper - 2025.02.14.638383v1.full]] — lipid nanoparticle delivery
+- [[Paper - s41587-024-02490-y]] — nanoparticle LNP
+- [[Paper - s11671-021-03553-8]] — nanomedicine

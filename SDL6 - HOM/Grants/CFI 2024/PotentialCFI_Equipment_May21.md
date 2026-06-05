@@ -87,3 +87,10 @@ Broader CPDD (Centre for Preclinical Drug Discovery) facility infrastructure req
 - Establishes formulation-to-screening pipeline context
 - HOM SDL = biological screening endpoint of a larger CPDD infrastructure network
 - Supports "no existing platform couples formulation design with autonomous biological screening" claim
+
+---
+
+## Related Notes
+- [[CFI_Brandon_equipment_notes]]
+- [[CFI_HOM_SDL_Equipment_Justification]]
+- [[SDL_HOM_research_objectives]]

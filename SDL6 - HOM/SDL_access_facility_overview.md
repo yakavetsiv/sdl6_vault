@@ -54,3 +54,14 @@ Terrence Donnelly Centre for Cellular & Biomolecular Research (CCBR), University
 - Confirms nanomedicine as explicit use case
 - Supports CFI "need for infrastructure" argument (integrated system, not individual instruments)
 - Establishes public/industry access = Canadian benefit criterion
+
+---
+
+## Related Notes
+- [[OKR_SDL6]]
+- [[CFI_HOM_SDL_Equipment_Justification]]
+- [[README]]
+
+## Related Literature
+- [[Map - Biofabrication and Cell Systems]]
+- [[Paper - TakaHuman Robotic Automation Advisor JD 8]]

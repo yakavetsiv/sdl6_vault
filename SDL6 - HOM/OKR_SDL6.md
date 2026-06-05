@@ -68,3 +68,17 @@ Build a SDL that can accelerate drug screening and disease modeling with high pr
 - KR1.1 and KR1.2 directly cited in equipment section opening paragraph (labour reduction, walk-away time)
 - KR2.1 and KR2.3 justify imaging plate reader and flow cytometry as AI dataset generators
 - KR3.x justify organoid/organ-on-chip model section (Section 2)
+
+---
+
+## Related Notes
+- [[CFI_HOM_SDL_Equipment_Justification]]
+- [[SDL_HOM_research_objectives]]
+- [[SDL_access_facility_overview]]
+
+## Related Literature
+- [[Map - Self-Driving Lab Stack]]
+- [[Map - Biofabrication and Cell Systems]]
+- [[Paper - Collins,-Evan-2025-10-01-Self-driving-labs-for-biotechnology]]
+- [[Paper - Self driving laboratories in Japan]]
+- [[Paper - hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-c]]

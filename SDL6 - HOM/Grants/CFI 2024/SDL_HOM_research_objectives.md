@@ -46,3 +46,16 @@ tags:
 - Directly supports V2 equipment request narrative
 - V1 limitations justify each V2 instrument
 - RO3 (AI integration) justifies imaging plate reader as AI feedback loop node
+
+---
+
+## Related Notes
+- [[OKR_SDL6]]
+- [[CFI_HOM_SDL_Equipment_Justification]]
+- [[CFI_pre-proposal_SDL6]]
+
+## Related Literature
+- [[Map - Biofabrication and Cell Systems]]
+- [[Paper - hardman-et-al-2024-an-in-vitro-agent-based-modelling-approach-to-optimization-of-c]]
+- [[Paper - Organ On A Chip OOC Image Dataset for Machine Learning and Tissue Model Evaluation (2)]]
+- [[Paper - Digital twin enhanced three organ m]]
