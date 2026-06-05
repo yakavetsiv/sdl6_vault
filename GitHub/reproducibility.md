@@ -3,6 +3,7 @@ title: reproducibility
 date: 2026-06-04
 type: github-repo
 tags:
+  - type/github-repo
   - github
   - sdl6
   - reproducibility

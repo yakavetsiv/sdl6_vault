@@ -2,14 +2,11 @@
 tags:
   - ai
   - type/skill
+  - sdl6
   - visualization
   - acceleration-consortium
 name: ac-presentation
 description: "Use this skill for creating or improving presentations for the Acceleration Consortium (AC) — research talks, conference presentations, lab meetings, grant briefings, seminar slides, or any deck representing AC/University of Toronto. Triggers on: 'AC presentation', 'AC slides', 'make slides', 'conference talk', 'research deck', 'thesis defense', 'grant briefing', 'seminar presentation', or any request to build/edit a .pptx in this project. Also triggers when the user shares research content (ML results, bioimaging data, materials science findings) and asks to present it. Governs AC brand compliance + academic content structure. For technical .pptx file creation/editing, also use the pptx skill."
-tags:
-  - ai
-  - type/skill
-  - sdl6
 ---
 
 # Acceleration Consortium Presentation Skill

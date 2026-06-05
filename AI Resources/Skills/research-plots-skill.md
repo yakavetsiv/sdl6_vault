@@ -2,14 +2,10 @@
 tags:
   - ai
   - type/skill
-  - visualization
   - sdl6
+  - visualization
 name: research-plots
 description: "Use this skill for creating, formatting, and reviewing publication-quality research figures with statistics for high-profile journals (Nature, Science, Cell, and their family journals), and for reproducing the SDL6 reproducibility repository R plot style. Triggers on: 'publication figure', 'research plot', 'journal figure', 'Nature figure', 'Science figure', 'plot for paper', 'format statistics', 'error bars', 'p-value plot', 'manuscript figure', 'reproducibility plot', 'CV plot', 'robot plot', 'participant plot', or any request to make or improve a scientific figure intended for submission. Covers technical specs (size, DPI, font, color), statistical display standards, plot type selection, and Python/R code templates."
-tags:
-  - ai
-  - type/skill
-  - sdl6
 ---
 
 # Research Plot Formatting Skill
