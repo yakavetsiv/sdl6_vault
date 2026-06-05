@@ -1,118 +1,170 @@
 ---
-title: vault-dump skill
 name: vault-dump
-tags:
-  - ai
-  - type/skill
-  - claude-code
-  - sdl6
+description: >
+  Full session wrapper for any Claude Code session — code repos, grants, scripts,
+  LaTeX, or literature work. START mode: graphify + wiki-ingest on repo. END mode:
+  daily note, GitHub notes, project log, KG re-index, Quartz rebuild, git push to
+  https://github.com/yakavetsiv/sdl6_vault.git. Enforces YAML frontmatter rules.
+  Trigger START: "open session", "start project", "graphify this".
+  Trigger END: "dump session", "save to vault", "commit vault", "wrap up", "end session".
+  Also trigger END proactively at end of any session with file creation, grant writing,
+  literature review, LaTeX editing, or code work.
 ---
 
 # vault-dump
 
-Full session wrapper. START mode builds context from a repo or docs folder.
-END mode saves session to vault, re-indexes, rebuilds site, and pushes to git.
-
 ## Vault
-`/Users/iyakavets/Documents/obsidian/viprorok`
+`/Users/iyakavets/Documents/obsidian/viprorok`  
+**Git remote:** `https://github.com/yakavetsiv/sdl6_vault.git` (branch: `main`)
+
+---
+
+## YAML Frontmatter Rules (enforce on every new/edited file)
+
+These rules prevent Quartz build failures. Apply when writing any vault note.
+
+```yaml
+# CORRECT — block list format
+tags:
+  - sdl6
+  - type/paper
+
+# WRONG — inline list (breaks Quartz YAML parser)
+tags:   - sdl6   - type/paper
+
+# WRONG — duplicate keys (breaks Quartz)
+tags:
+  - sdl6
+tags:
+  - type/paper
+```
+
+**Rules:**
+- Tags always as block list: `tags:\n  - value`
+- No duplicate frontmatter keys — merge into one block
+- No `key:   - value` inline list syntax
+- All files need: `title`, `date`, `type`, `tags`
+
+---
+
+## Vault Structure
+
+```
+viprorok/
+├── Daily/              ← daily session notes (type: daily)
+├── GitHub/             ← repo notes (type: github-repo)
+├── Projects/           ← active project MOCs
+│   ├── README.md       ← Projects MOC (entry point)
+│   ├── LH_BO_Preprint/
+│   ├── VibeCount/
+│   ├── Lab Sensor/
+│   └── UofT EHS Biosafety Benchmark/
+├── SDL6 - HOM/         ← SDL6 project core
+│   ├── Grants/CFI 2024/README.md  ← SDL6 grant MOC
+│   └── Reproducibility ML Study/
+├── Literature Wiki/    ← research papers + concepts + maps
+├── EHS Wiki/           ← safety/compliance (369 files)
+├── ExNode Bibliography/ ← extraction indexes
+├── AI Resources/       ← tools, skills, style guides
+│   └── Skills/         ← Claude Code skill files
+├── wiki/meta/          ← lint reports, revision plans, graph analysis
+├── graphify-out/       ← semantic graph (excluded from Quartz)
+└── Daily/Daily.base    ← Bases views
+```
+
+## Active Projects
+
+| Project | MOC path | project: tag |
+|---|---|---|
+| SDL6-HOM grant | `SDL6 - HOM/Grants/CFI 2024/README.md` | `project/sdl6-hom` |
+| ML Reproducibility | `SDL6 - HOM/Reproducibility ML Study/ML Cell Counting Reproducibility Study.md` | `project/sdl6-hom` |
+| LH_BO_Preprint | `Projects/LH_BO_Preprint/README.md` | `project/lh-bo-preprint` |
+| VibeCount | `Projects/VibeCount/README.md` | `project/vibecount` |
+| Lab Sensor | `Projects/Lab Sensor/README.md` | `project/lab-sensor` |
+| UofT EHS Benchmark | `Projects/UofT EHS Biosafety Benchmark/UofT EHS Biosafety Benchmark.md` | `project/ehs-benchmark` |
+
+## Tag Taxonomy
+
+```
+sdl6, sdl6/cfi, sdl6/nanomedicine, sdl6/organ-on-chip, sdl6/automation
+literature, type/paper, type/concept, type/map
+lit/sdl, lit/nanomedicine, lit/biofabrication, lit/ai-methods, lit/digital-discovery
+ehs, ehs/biosafety, ehs/chemical-safety, ehs/laboratory-operations
+ai, type/skill, type/reference, type/github-repo, type/index, type/daily, type/okr, type/output, type/source
+project, project/sdl6-hom, project/lh-bo-preprint, project/vibecount, project/ehs-benchmark, project/lab-sensor
+```
 
 ---
 
 # START MODE — Open a repo or project
 
-Run when user opens a new repo, script folder, or LaTeX project.
-
 ## START Step 1 — Graphify the repo
 
-If the current working directory is a code/LaTeX/script repo (not the vault):
-
 ```bash
-# Check if graphify-out/ already exists (skip if already indexed)
 ls graphify-out/ 2>/dev/null && echo "already indexed" || echo "needs indexing"
 ```
 
-If not yet indexed, invoke the `graphify` skill on the current directory.
-Graphify creates `graphify-out/` with a persistent knowledge graph of the codebase.
-Report: what the repo does, key files, structure summary.
+If not indexed: invoke `graphify` skill on current directory.  
+Report: repo purpose, key files, structure summary.
 
 ## START Step 2 — Wiki-ingest key docs
 
-Invoke `wiki-ingest` on:
-- `README.md` if present
-- Any `.md` docs in the repo
-- Key source files the user mentions
+Invoke `wiki-ingest` on README.md + any .md docs + key source files.  
+Files go to `GitHub/REPO-NAME/` in vault.
 
-This files the repo context into the vault as structured notes under `GitHub/REPO-NAME/`.
+## START Step 3 — Create GitHub vault note
 
-## START Step 3 — Create GitHub vault note (if not exists)
-
-Create `GitHub/REPO-NAME.md` with repo metadata (see END Step 4 format).
-Link to graphify output and ingested docs.
+Create `GitHub/REPO-NAME.md` with frontmatter:
+```yaml
+---
+title: REPO-NAME
+date: YYYY-MM-DD
+type: github-repo
+tags:
+  - type/github-repo
+  - github
+  - [relevant project tag]
+---
+```
 
 ---
 
 # END MODE — Save session and push
 
-Run at end of any session.
-
 ## END Step 1 — Gather session context
 
-Run these in parallel:
-
 ```bash
-# Date
 date +%Y-%m-%d
-
-# Recent files modified in vault (last 4 hours)
 find /Users/iyakavets/Documents/obsidian/viprorok -name "*.md" \
-  -newer /tmp/.vault_session_marker 2>/dev/null \
-  | grep -v ".obsidian" | sort
-
-# Git status of any active repos (if in a git project)
-git status --short 2>/dev/null | head -30
-
-# Git log of today's commits
+  -newer /tmp/.vault_session_marker 2>/dev/null | grep -v ".obsidian" | sort
+git status --short 2>/dev/null | head -20
 git log --oneline --since="12 hours ago" 2>/dev/null | head -10
-
-# Any GitHub repos referenced (from recent bash history)
-gh repo list --limit 5 2>/dev/null
 ```
 
-Also:
-- Note which skills were invoked this session (visible in conversation)
-- Note what files were created/written via Write tool
-- Note what docs/grants/papers were worked on
+Also note: skills invoked, files written via Write tool, docs/grants/papers worked on.
 
 ---
 
 ## END Step 2 — Identify active project(s)
 
-Scan the conversation for project signals:
-- Folder names created in vault (e.g. `SDL6 - HOM`)
-- YAML `project:` frontmatter in files written
-- Grant names, paper titles, or repo names discussed
-
-Common projects and their MOC paths:
-| Project | MOC/README path |
-|---|---|
-| SDL6-HOM | `SDL6 - HOM/Grants/CFI 2024/README.md` |
-| Literature | `Literature Wiki/Literature Wiki Home.md` |
-| EHS | `EHS Wiki/` |
+Scan conversation for: folder names, `project:` frontmatter, grant/paper/repo names.  
+Match against Projects table above.
 
 ---
 
 ## END Step 3 — Build the daily note
 
-**Path:** `Daily/YYYY-MM-DD.md`  
-Create if not exists; append if exists.
+**Path:** `Daily/YYYY-MM-DD.md` — append if exists, create if not.
 
 ```markdown
 ---
-title: Session — YYYY-MM-DD
+title: "Session — YYYY-MM-DD"
 date: YYYY-MM-DD
-project: [list active projects]
+type: daily
+project:
+  - [active projects]
 tags:
-  - daily
+  - type/daily
   - session-dump
   - [project tags]
 ---
@@ -120,99 +172,60 @@ tags:
 # Session — YYYY-MM-DD HH:MM
 
 ## Summary
-[2-3 sentence summary of what was accomplished this session]
+[2-3 sentences]
 
 ## Files Created / Modified
-[List as wikilinks for vault files, plain paths for external files]
-- [[FileName]] — brief description
-- `/path/to/external/file.md` — brief description
+- [[FileName]] — description
+- `/external/path.md` — description
 
 ## Key Decisions
-- [Decision or output 1]
-- [Decision or output 2]
+- [decision]
 
 ## Skills Used
-- [skill-name]: [what it did]
+- `skill-name`: what it did
 
 ## GitHub Repos Referenced
-- [[GitHub/repo-name]] — [description]
+- [[GitHub/repo-name]] — description
 
 ## Project Links
-- [[Project MOC or README]]
-
----
+- [[Projects/README]]
 ```
 
-If the daily note already exists, append a new `## Session — HH:MM` section rather than overwriting.
-
 ---
 
-## END Step 4 — GitHub repo notes (if repos referenced)
-
-For each GitHub repo mentioned in the session:
+## END Step 4 — GitHub repo notes
 
 ```bash
-gh repo view OWNER/REPO --json name,description,url,repositoryTopics,primaryLanguage,updatedAt
+gh repo view OWNER/REPO --json name,description,url,repositoryTopics,primaryLanguage,updatedAt \
+  2>/dev/null || curl -s "https://api.github.com/repos/OWNER/REPO" | python3 -c "..."
 ```
 
-Create or update `GitHub/REPO-NAME.md`:
+Create `GitHub/REPO-NAME.md` or append `## Sessions` entry. Use YAML rules above.
 
+---
+
+## END Step 5 — Update project MOC
+
+Append to `## Session Log` in the active project's MOC/README:
 ```markdown
----
-title: REPO-NAME
-date: YYYY-MM-DD
-type: github-repo
-tags:
-  - github
-  - [topics from repo]
----
-
-# REPO-NAME
-
-**URL:** https://github.com/OWNER/REPO  
-**Language:** [primaryLanguage]  
-**Topics:** [repositoryTopics]  
-**Last updated:** [updatedAt]
-
-## Description
-[repo description]
-
-## Sessions
-- [[Daily/YYYY-MM-DD]] — [what was done with this repo]
-
-## Related Notes
-[wikilinks to any vault notes that reference this repo]
+- **YYYY-MM-DD** — [[Daily/YYYY-MM-DD]]: one-line summary
 ```
 
-If the file exists, append to the `## Sessions` section only.
+Also update `Projects/README.md` session log if new project work.
 
 ---
 
-## END Step 5 — Update project MOC/README
-
-For each active project, append a one-line session log entry to its MOC or README under a `## Session Log` section (create the section if absent):
-
-```markdown
-## Session Log
-- **YYYY-MM-DD** — [[Daily/YYYY-MM-DD]]: [one-line summary of what was done]
-```
-
-Use Edit tool to append; never overwrite existing content.
-
----
-
-## END Step 6 — Create daily folder if needed
+## END Step 6 — Ensure folders exist
 
 ```bash
 mkdir -p /Users/iyakavets/Documents/obsidian/viprorok/Daily
 mkdir -p /Users/iyakavets/Documents/obsidian/viprorok/GitHub
+mkdir -p /Users/iyakavets/Documents/obsidian/viprorok/wiki/meta
 ```
 
 ---
 
 ## END Step 7 — Re-index knowledge graph
-
-Run after vault notes are written, before git commit.
 
 ```bash
 cd /Users/iyakavets/Documents/knowledge-graph && \
@@ -220,77 +233,53 @@ cd /Users/iyakavets/Documents/knowledge-graph && \
   npx tsx src/cli/index.ts index 2>/dev/null | tail -3
 ```
 
-Report: nodes indexed, edges indexed, communities detected.
+---
+
+## END Step 8 — Rebuild Quartz
+
+```bash
+cd /Users/iyakavets/Documents/quartz-vault && npx quartz build 2>&1 | grep -E "Done|Error|Emitted" | tail -3
+```
+
+If Quartz errors with YAML parse failure: check the failing file for duplicate keys or inline list syntax (`key:   - value`). Fix and retry.
 
 ---
 
-## END Step 8 — Rebuild Quartz site
-
-```bash
-cd /Users/iyakavets/Documents/quartz-vault && npx quartz build 2>&1 | tail -3
-```
-
-Preview locally (optional, don't block on this):
-```bash
-npx quartz serve
-# → localhost:8080
-```
-
----
-
-## END Step 9 — Git commit and push all vault changes
-
-This step always runs last, after all notes are written.
+## END Step 9 — Git commit and push
 
 ```bash
 cd /Users/iyakavets/Documents/obsidian/viprorok
 
-# Stage all new and modified files
+# Exclude .obsidian plugins from staging (large files, not needed)
 git add -A
+git reset HEAD '.obsidian/plugins/*' 2>/dev/null || true
 
-# Check if anything to commit
 git diff --cached --quiet && echo "nothing to commit" && exit 0
-
-# Build commit message from session context
-# Format: "vault: YYYY-MM-DD — [project] [brief summary]"
-# Example: "vault: 2026-06-04 — SDL6-HOM CFI equipment justification + vault setup"
-
-git commit -m "vault: YYYY-MM-DD — [project] [one-line summary of session]"
-
-# Push to origin main
+git commit -m "vault: YYYY-MM-DD — [project] [one-line summary]"
 git push origin main
 ```
 
-Report the commit hash and number of files committed.
-
-If push fails due to remote changes:
-```bash
-git pull --rebase origin main && git push origin main
-```
+On push failure: `git pull --rebase origin main && git push origin main`
 
 ---
 
 ## Output
 
-Tell the user:
-- Path to daily note created/updated
-- List of vault files committed (count + key filenames)
-- Git commit hash + push confirmation
-- Knowledge graph: nodes indexed
-- Quartz: files built
-- If >10 files added this session, suggest running `/wiki-lint`
-
-Keep it brief — one confirmation block.
+Report:
+- Daily note path
+- Files committed (count + key names)  
+- Git commit hash
+- KG: communities detected
+- Quartz: files emitted
+- Suggest `/wiki-lint` if >10 files added
 
 ---
 
 ## Notes
 
-- Never overwrite existing daily note content — always append
-- Wikilinks use filename without extension and without path: `[[FileName]]`
-- If no GitHub repos were referenced, skip Step 4
-- If no project is detected, still create the daily note — just omit project links
-- Commit message should be meaningful — summarize the session work, not just "update"
-- Touch `/tmp/.vault_session_marker` after push so next session detects new files:
-  `touch /tmp/.vault_session_marker`
-- If git push requires auth, tell user to run: `gh auth login` or set up SSH key
+- Never overwrite existing daily note — always append
+- Wikilinks: `[[FileName]]` without path or extension
+- `graphify-out/` is excluded from Quartz via `quartz.config.yaml` — do not add files there expecting them to publish
+- `.obsidian/plugins/` should NOT be committed — reset from staging if accidentally added
+- Session marker: `touch /tmp/.vault_session_marker` after push
+- Auth issues: `gh auth login` or set up SSH key
