@@ -2,7 +2,8 @@
 title: "A User's Guide to Your First Self-Driving Liquid Handling Lab"
 bibtex_key: maroulis_users_2025
 zotero_key: EK2DHWE9
-type: paper-note
+type: extraction-index
+lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - DD Tutorial - maroulis2026_self_driving_liquid_handling_lab]]"
 theme: "Practical SDL adoption"
 ---
 

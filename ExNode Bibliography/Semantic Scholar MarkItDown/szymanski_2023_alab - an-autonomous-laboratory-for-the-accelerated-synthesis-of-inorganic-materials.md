@@ -1,3 +1,9 @@
+---
+title: "An autonomous laboratory for the accelerated synthesis of inorganic materials"
+type: extraction-index
+lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - SDL - szymanski2023_autonomous_inorganic_materials]]"
+---
+
 An autonomous laboratory for the
 accelerated synthesis of inorganic materials
 

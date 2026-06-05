@@ -1,0 +1,19 @@
+filters:
+  and:
+    - 'type == "github-repo"'
+
+properties:
+  title:
+    displayName: "Repo"
+  date:
+    displayName: "Added"
+  tags:
+    displayName: "Tags"
+
+views:
+  - type: table
+    name: "Repos"
+    order:
+      - title
+      - date
+      - tags

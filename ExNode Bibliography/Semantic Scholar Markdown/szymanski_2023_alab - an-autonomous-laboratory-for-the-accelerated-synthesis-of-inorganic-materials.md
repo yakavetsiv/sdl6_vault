@@ -3,7 +3,8 @@ title: "An autonomous laboratory for the accelerated synthesis of inorganic mate
 doi: 10.1038/s41586-023-06734-w
 source_url: https://www.nature.com/articles/s41586-023-06734-w.pdf
 source_file: szymanski_2023_alab - an-autonomous-laboratory-for-the-accelerated-synthesis-of-inorganic-materials.pdf
-type: semantic-scholar-oa-fulltext
+type: extraction-index
+lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - SDL - szymanski2023_autonomous_inorganic_materials]]"
 ---
 
 # An autonomous laboratory for the accelerated synthesis of inorganic materials

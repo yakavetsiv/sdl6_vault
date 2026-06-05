@@ -1,0 +1,22 @@
+filters:
+  and:
+    - 'type == "daily"'
+
+properties:
+  title:
+    displayName: "Title"
+  date:
+    displayName: "Date"
+  project:
+    displayName: "Project"
+
+views:
+  - type: table
+    name: "Daily Notes"
+    order:
+      - title
+      - date
+      - project
+    groupBy:
+      property: date
+      direction: DESC

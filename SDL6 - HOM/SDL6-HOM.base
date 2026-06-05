@@ -1,0 +1,25 @@
+filters:
+  and:
+    - 'project == "SDL6-HOM"'
+
+properties:
+  title:
+    displayName: "Title"
+  type:
+    displayName: "Type"
+  date:
+    displayName: "Date"
+  tags:
+    displayName: "Tags"
+
+views:
+  - type: table
+    name: "SDL6-HOM Notes"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - title
+      - type
+      - date
+      - tags

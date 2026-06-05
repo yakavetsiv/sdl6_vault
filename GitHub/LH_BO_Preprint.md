@@ -1,6 +1,7 @@
 ---
 title: LH_BO_Preprint
 date: 2026-06-04
+project: LH_BO_Preprint
 type: github-repo
 tags:
   - github

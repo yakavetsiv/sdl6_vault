@@ -1,3 +1,9 @@
+---
+title: "A dynamic knowledge graph approach to distributed self-driving laboratories"
+type: extraction-index
+lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - SDL - bai2024_dynamic_kg_distributed_sdl]]"
+---
+
 Article
 
 https://doi.org/10.1038/s41467-023-44599-9

@@ -3,7 +3,8 @@ title: "Self-driving laboratory for accelerated discovery of thin-film materials
 doi: 10.1126/sciadv.aaz8867
 source_url: https://advances.sciencemag.org/content/advances/6/20/eaaz8867.full.pdf
 source_file: macleod_2020_thin_film_sdl - self-driving-laboratory-for-accelerated-discovery-of-thin-film-materials.html
-type: semantic-scholar-oa-fulltext
+type: extraction-index
+lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - SDL - macleod2020_thin_film_sdl]]"
 ---
 
 # Self-driving laboratory for accelerated discovery of thin-film materials

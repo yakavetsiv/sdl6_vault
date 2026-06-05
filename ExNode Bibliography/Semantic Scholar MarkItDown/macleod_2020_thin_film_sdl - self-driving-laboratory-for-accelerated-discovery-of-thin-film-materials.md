@@ -1,3 +1,9 @@
+---
+title: "Self-driving laboratory for accelerated discovery of thin-film materials"
+type: extraction-index
+lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - SDL - macleod2020_thin_film_sdl]]"
+---
+
 [Skip to main content](#main-content)
 
 ![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/674d4f95/var/data/static/img/us_flag.svg)

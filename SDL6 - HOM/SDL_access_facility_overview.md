@@ -65,3 +65,10 @@ Terrence Donnelly Centre for Cellular & Biomolecular Research (CCBR), University
 ## Related Literature
 - [[Map - Biofabrication and Cell Systems]]
 - [[Paper - TakaHuman Robotic Automation Advisor JD 8]]
+
+## EHS Cross-References
+- [[NEW Guidelines on Working with Nanomaterials]] — nanomaterial handling in SDL context
+- [[Biosafety Cabinets]] — BSC operation relevant to liquid handler enclosure
+- [[Biosafety Manual]] — cell culture containment procedures
+- [[General Laboratory Safety Practices]] — CL2 requirements for organoid/iPSC work
+- [[Chemical and Lab Safety]] — nanomaterial safety

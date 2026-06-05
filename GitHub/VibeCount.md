@@ -1,6 +1,7 @@
 ---
 title: VibeCount
 date: 2026-06-04
+project: VibeCount
 type: github-repo
 tags:
   - github

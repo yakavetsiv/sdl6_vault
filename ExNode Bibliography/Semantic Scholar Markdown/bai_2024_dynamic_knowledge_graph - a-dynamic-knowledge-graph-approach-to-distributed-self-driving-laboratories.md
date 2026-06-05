@@ -3,7 +3,8 @@ title: "A dynamic knowledge graph approach to distributed self-driving laborator
 doi: 10.1038/s41467-023-44599-9
 source_url: https://www.nature.com/articles/s41467-023-44599-9.pdf
 source_file: bai_2024_dynamic_knowledge_graph - a-dynamic-knowledge-graph-approach-to-distributed-self-driving-laboratories.pdf
-type: semantic-scholar-oa-fulltext
+type: extraction-index
+lit_wiki_counterpart: "[[Literature Wiki/Papers/Paper - SDL - bai2024_dynamic_kg_distributed_sdl]]"
 ---
 
 # A dynamic knowledge graph approach to distributed self-driving laboratories
