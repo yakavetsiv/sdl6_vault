@@ -37,3 +37,6 @@ Imported from RSC PDFs using MarkItDown. Citation counts use Crossref `is-refere
 ## Related Maps
 
 - [[Map - Self-Driving Lab Stack]]
+
+## Session Log
+- **2026-06-04** — [[Daily/2026-06-04]]: Imported Digital Discovery tutorial papers, created the writing guide, and connected this cluster to the Lab Sensor tutorial preprint.
