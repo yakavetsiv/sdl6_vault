@@ -27,6 +27,8 @@ SDL6 reproducibility repository organized into two analysis domains:
 
 ## Sessions
 
+- [[Daily/2026-06-06]] — imported p7-p12 participant PDFs, updated participant-level ML analysis to n=12, corrected task-order metadata for p9/p11/p12 starting from Task 3, and flagged p12 values for confirmation.
+- [[Daily/2026-06-06]] — downloaded Label Studio project 19 cell-counting export, parsed 12 annotators per image, regenerated Task 3 statistics/plots.
 - [[Daily/2026-06-04]] — added p7 to ML study, regenerated participant-level tables/statistics/plots, and saved important plots/source files to vault.
 
 ## Related Notes

@@ -1,0 +1,13 @@
+participant_id,task1_order,task2_order,task3_order,task_sequence,notes
+p1,,,,,
+p2,,,,,
+p3,,,,,
+p4,,,,,
+p5,,,,,
+p6,,,,,
+p7,2.0,1.0,3.0,2>1>3,"Visible circled order: LiveCount first, manual second; Task 3 time written in comments."
+p8,2.0,1.0,3.0,2>1>3,"Visible circled order: LiveCount first, manual second; Task 3 time written in comments."
+p9,2.0,3.0,1.0,3>1>2,User confirmed participant started from Task 3; manual then LiveCount inferred from form order.
+p10,1.0,2.0,3.0,1>2>3,Manual visibly marked first; LiveCount follows on same form; Task 3 time written in comments. Confirm if LiveCount and Task 3 order differed.
+p11,3.0,2.0,1.0,3>2>1,User confirmed participant started from Task 3; LiveCount before manual from visible form marking.
+p12,2.0,3.0,1.0,3>1>2,User confirmed participant started from Task 3. p12 PDF values remain marked for confirmation because the form is messy.
