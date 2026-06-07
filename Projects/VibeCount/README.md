@@ -42,3 +42,4 @@ VibeCount is an AWS-hosted, research-use-only web service for editable AI-assist
 
 ## Session Log
 - **2026-06-07** — [[Daily/2026-06-07]]: n=12 expansion, T2/T3 data import, task order analysis, figure regeneration, deslop
+- **2026-06-07** — [[Daily/2026-06-07]]: Supp Fig S1 cluster panel finalized (overlap fix, stale draft removed), TODO closed; landing page F1 score corrected (0.960→0.938) in `cell_counting_images` waitlist-apple page

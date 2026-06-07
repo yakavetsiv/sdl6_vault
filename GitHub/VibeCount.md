@@ -30,7 +30,7 @@ Transformer-based hemocytometer cell counting system with human-in-the-loop lear
 
 ## Key TODOs (pre-journal submission)
 - [ ] Retrain grid model on ≥100 images (current mAP@50=0.23 not reportable)
-- [ ] Cluster panel (Fig 3E): need human-annotated cluster image from T3
+- [x] Cluster panel: done as Supplementary Figure S1 (figS1_cluster_detection.png, snaps 2+3, full+detail)
 - [ ] SAM2 supplementary figure (cell_sizes.csv, 33,802 cells)
 - [ ] Cross-hardware validation: smartphone + microscopy clip adapter
 - [ ] Concentration-series accuracy figure

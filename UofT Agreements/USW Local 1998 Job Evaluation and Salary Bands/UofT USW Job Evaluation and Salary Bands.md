@@ -74,3 +74,6 @@ flowchart TD
 
 ## Session Notes
 - [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Role Notes/UofT USW Research Technician JD Reclassification Session 2026-06-07|UofT USW Research Technician JD Reclassification Session 2026-06-07]]
+
+## Reclassification Source Pack
+- [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Role Notes/USW Reclassification Pay Band Movement Sources 2026-06-07|USW Reclassification Pay Band Movement Sources 2026-06-07]] - focused source pack on whether reclassification can move one or multiple bands.

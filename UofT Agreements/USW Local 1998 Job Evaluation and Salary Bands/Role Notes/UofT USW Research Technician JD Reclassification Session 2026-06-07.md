@@ -80,3 +80,7 @@ tags:
 - [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/UofT USW Job Evaluation and Salary Bands|UofT USW Job Evaluation and Salary Bands]]
 - [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Converted Markdown/usw-job-evaluation-year-end-timelines-2025|USW Job Evaluation Year-End Timelines 2025]]
 - [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Converted Markdown/consistent-job-description-project|Consistent Job Description Project]]
+
+## Pay Band Movement Source Pack
+- [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Role Notes/USW Reclassification Pay Band Movement Sources 2026-06-07|USW Reclassification Pay Band Movement Sources 2026-06-07]]
+- Takeaway: public USW materials describe reclassification as total-score/pay-band placement after significant change, not as a one-band-only process.

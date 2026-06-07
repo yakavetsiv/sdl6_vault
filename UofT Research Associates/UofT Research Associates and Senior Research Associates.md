@@ -55,3 +55,6 @@ tags:
 ## Related Local Context
 - [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Role Notes/UofT USW Research Technician JD Reclassification Session 2026-06-07|UofT USW Research Technician JD Reclassification Session 2026-06-07]]
 - [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Role Notes/UofT USW Lab Technician Promotion Paths|UofT USW Lab Technician Promotion Paths]]
+
+## Focused Notes
+- [[UofT Research Associates/RA SRA Co-Investigator Examples and Department Evidence 2026-06-07|RA SRA Co-Investigator Examples and Department Evidence 2026-06-07]] - department examples and references for Co-I / co-PI language.

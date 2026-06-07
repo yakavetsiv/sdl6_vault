@@ -57,3 +57,6 @@ tags:
 
 ## Broader Corpus
 - [[UofT Agreements/USW Public HR Corpus/UofT USW Public HR Corpus|UofT USW Public HR Corpus]]
+
+## Focused Contract Notes
+- [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Role Notes/USW Contract Continuation Term Appointments and Conversion 2026-06-07|USW Contract Continuation Term Appointments and Conversion 2026-06-07]] - agreement continuation, staff-appointed term limits, and casual conversion.
