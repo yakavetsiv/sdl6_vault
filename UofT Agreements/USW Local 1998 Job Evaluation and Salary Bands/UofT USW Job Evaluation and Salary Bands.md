@@ -63,8 +63,14 @@ flowchart TD
 - [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Converted Markdown/consistent-job-description-project.md|Consistent Job Description Project]]
 - [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Converted Markdown/psec-contact-directory-compensation-usw-job-evaluation.md|PSEC Contact Directory - Compensation and USW Job Evaluation]]
 
+## Role Notes
+- [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Role Notes/UofT USW Lab Technician Promotion Paths|UofT USW Lab Technician Promotion Paths]]
+
 ## Related Vault Notes
 - [[UofT Agreements/USW Local 1998/UofT USW Local 1998 Agreements|USW Local 1998 Collective Agreements]]
 
 ## Broader Corpus
 - [[UofT Agreements/USW Public HR Corpus/UofT USW Public HR Corpus|UofT USW Public HR Corpus]]
+
+## Session Notes
+- [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/Role Notes/UofT USW Research Technician JD Reclassification Session 2026-06-07|UofT USW Research Technician JD Reclassification Session 2026-06-07]]

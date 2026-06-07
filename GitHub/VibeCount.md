@@ -39,3 +39,4 @@ Transformer-based hemocytometer cell counting system with human-in-the-loop lear
 
 ## Sessions
 - [[Daily/2026-06-04]] — SAM2 integration updates, Yimu comments addressed, figure 1 regenerated, patent disclosure drafted
+- [[Daily/2026-06-07]] — n=12 expansion: all stats updated, T2/T3 data imported, task order sensitivity, figures regenerated, deslop pass
