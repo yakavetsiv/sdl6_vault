@@ -1,0 +1,172 @@
+---
+title: "PITN-2015-12-18-01-Timeline-for-January-USW-PM-Conf.pdf"
+date: 2026-06-06
+type: source
+source_type: pdf
+category: benefits-pay
+source_url: "https://people.utoronto.ca/wp-content/uploads/sites/31/2016/04/PITN-2015-12-18-01-Timeline-for-January-USW-PM-Conf.pdf"
+discovery_source: "linked-from:https://people.utoronto.ca/news/january-2016-atb-usw-pm-confidential-ap-ra-sra-staff/"
+source_file: "[[UofT Agreements/USW Public HR Corpus/_attachments/Sources/pitn-2015-12-18-01-timeline-for-january-usw-pm-conf.pdf-46dd3744.pdf]]"
+tags:
+  - type/source
+  - uoft
+  - agreements
+  - usw
+  - usw-local-1998
+  - hr-corpus
+---
+
+# PITN-2015-12-18-01-Timeline-for-January-USW-PM-Conf.pdf
+
+## Source
+- URL: [https://people.utoronto.ca/wp-content/uploads/sites/31/2016/04/PITN-2015-12-18-01-Timeline-for-January-USW-PM-Conf.pdf](https://people.utoronto.ca/wp-content/uploads/sites/31/2016/04/PITN-2015-12-18-01-Timeline-for-January-USW-PM-Conf.pdf)
+- Saved source: [[UofT Agreements/USW Public HR Corpus/_attachments/Sources/pitn-2015-12-18-01-timeline-for-january-usw-pm-conf.pdf-46dd3744.pdf|pitn-2015-12-18-01-timeline-for-january-usw-pm-conf.pdf-46dd3744.pdf]]
+- Discovery source: linked-from:https://people.utoronto.ca/news/january-2016-atb-usw-pm-confidential-ap-ra-sra-staff/
+- Category: `benefits-pay`
+
+## Related
+- [[UofT Agreements/USW Local 1998/UofT USW Local 1998 Agreements|USW Local 1998 Agreements]]
+- [[UofT Agreements/USW Local 1998 Job Evaluation and Salary Bands/UofT USW Job Evaluation and Salary Bands|USW Job Evaluation and Salary Bands]]
+
+## Source Preview
+![[UofT Agreements/USW Public HR Corpus/_attachments/Sources/pitn-2015-12-18-01-timeline-for-january-usw-pm-conf.pdf-46dd3744.pdf]]
+
+
+## MarkItDown Text
+
+USW, PM, Conf., AP and Research Groups ATB Increase Process Timeline – January 2016
+
+Date
+
+Business Officer: Actions
+
+Run:
+The HR Data Verification Report
+
+Use the Data Verification Infotype Errors Job Aid to assist you
+with making the corrections to employee records.
+
+Available
+Immediately
+
+Review:
+The report for errors/discrepancies and warnings in
+particular those related to IT0008, IT9009 and IT0027.
+
+Correct:
+Errors and warnings on all USW, PM, Conf., AP and Research
+employee records.
+
+Run:
+USW ATB Exception and Update Report and
+PM, Confidential, AP, RA and SRA ATB Exception and
+Update Report
+
+December 18th
+
+Review:
+The reports and correct any exceptions.  As the report
+indicates employees that “will be processed” centrally and
+those with exceptions which need your attention prior to
+January 9th, 2016.
+
+Correct:
+Employees with any exceptions. Use the Exception
+Descriptions & Corrective Action Chart for USW, PM, Conf.,
+AP, RA and SRA Staff to distinguish what the issue is with
+their record that is preventing the automatic ATB increase.
+
+Support available:
+
+Additional
+Details
+
+Important Note!
+USW &
+PM/Conf/AP/Research
+staff HRIS records
+with errors or
+warnings will not be
+able to be centrally
+automated.
+
+The USW &
+PM/Conf/AP/Research
+ATB Exception and
+Update Reports are
+dynamic reports up to
+January 9th, 2016
+after that date, when
+the automatic process
+has taken place they
+are point in time
+reports.
+
+January 7th,
+2016 (10am-
+12pm)
+
+HRIS Get Help Fast!  Session is Available to help resolve
+errors/discrepancies and warnings from Data Verification
+Report and USW ATB Exception and Update Report and
+PM, Confidential, AP, RA and SRA ATB Exception and Update
+Report.
+
+Session will be held at
+256 McCaul, Room
+103
+
+Important Note!
+Please advise hris.help@utoronto.ca if you plan on attending
+so we can resource accordingly.
+HRIS ATB automation of USW & PM/Conf/AP/Research
+records:
+
+January 9th,
+2016
+
+Only records without
+EXCEPTIONS will be
+
+January 2016 ATB Increase Process Timeline
+
+USW, PM, Conf., AP and Research Groups ATB Increase Process Timeline – January 2016
+
+Important Note!
+The employee records that were not automated centrally
+need to be processed manually by the Business Officer to
+record the ATB increase, prior to January 21st, 2016 pay
+close.
+Departmental Review and manual correction of exceptions:
+
+Using the reports and the ATB Increase Process for USW Staff
+with Segment Dates After July 1, 2016  and
+ATB Increase Process for PM, Conf., AP, RA and SRA Staff
+with Segment Dates After July 1, 2016 documentation,
+review what has been automated and process any records
+that were not processed due to exceptions.
+
+updated with
+automatic ATB
+increase
+
+Business Officers need
+to complete these
+manual entries prior
+to January 21st, 2016
+pay close.
+
+All exceptions MUST be processed prior to 5 pm.
+
+PAY CLOSE
+
+January 11th –
+21st
+
+January 21st
+5:00pm –
+Monthly Pay
+close
+
+January 2016 ATB Increase Process Timeline
+
